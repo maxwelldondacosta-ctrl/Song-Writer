@@ -1,0 +1,30 @@
+slug: soul.witness
+name: Soul / Witness (gospel-and-protest register)
+description: The gospel-and-protest soul vocabulary — testimony, light, freedom. Used by classic soul and modern gospel-soul; also useful for civil-rights-era sound.
+words:
+  - { word: lord,        emotional_weight: 0.8, imagery_class: abstract }
+  - { word: god,         emotional_weight: 0.7, imagery_class: abstract }
+  - { word: jesus,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: father,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: mother,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: brother,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: sister,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: testify,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: testimony,   emotional_weight: 0.8, imagery_class: abstract }
+  - { word: witness,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: witnessed,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: praise,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: amen,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: hallelujah,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: glory,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: light,       emotional_weight: 0.6, imagery_class: abstract, ai_bias_flag: true }
+  - { word: lift,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: rise,        emotional_weight: 0.7, imagery_class: physical, ai_bias_flag: true }
+  - { word: stand,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: free,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: freedom,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: chains,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: river,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: jordan,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: morning,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: sunday,      emotional_weight: 0.7, imagery_class: physical }

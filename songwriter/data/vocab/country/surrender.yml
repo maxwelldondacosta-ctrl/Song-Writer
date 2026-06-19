@@ -1,0 +1,28 @@
+slug: country.surrender
+name: Country / Surrender (quiet acceptance, letting go)
+description: Country's version of letting go — not defeat, but the peace of accepting what you can't change. Porches, dusk, trucks pulling away, old dogs, long gravel roads.
+words:
+  - { word: porch,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: dusk,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: rocking,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: letting,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: gravel,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: road,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: dust,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: tail-lights, emotional_weight: 0.8, imagery_class: physical }
+  - { word: gone,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: truck,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: field,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: still,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: crickets,    emotional_weight: 0.7, imagery_class: sensory }
+  - { word: fireflies,   emotional_weight: 0.7, imagery_class: sensory }
+  - { word: yard,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: screen-door, emotional_weight: 0.8, imagery_class: physical }
+  - { word: hound,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: low,         emotional_weight: 0.6, imagery_class: abstract }
+  - { word: slow,        emotional_weight: 0.6, imagery_class: abstract }
+  - { word: laid,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: laid-down,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: forgave,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: let-go,      emotional_weight: 0.8, imagery_class: abstract }
+  - { word: peace,       emotional_weight: 0.7, imagery_class: abstract }

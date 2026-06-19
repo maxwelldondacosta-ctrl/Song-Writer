@@ -1,0 +1,22 @@
+slug: pop.breakup
+name: Pop / Breakup
+description: Aftermath-of-a-relationship vocabulary, weighted toward concrete imagery over generic emo.
+words:
+  - { word: keys,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: drawer,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: jacket,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: toothbrush,  emotional_weight: 0.9, imagery_class: physical }
+  - { word: photos,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: empty,       emotional_weight: 0.7, imagery_class: abstract, ai_bias_flag: true }
+  - { word: silent,      emotional_weight: 0.6, imagery_class: sensory }
+  - { word: half,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: closet,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: returned,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: blocked,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: deleted,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: tagged,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: untagged,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: silence,     emotional_weight: 0.7, imagery_class: sensory }
+  - { word: lighter,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: matchbook,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: tomorrow,    emotional_weight: 0.5, imagery_class: abstract }

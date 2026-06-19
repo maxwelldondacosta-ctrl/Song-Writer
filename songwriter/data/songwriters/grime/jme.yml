@@ -1,0 +1,52 @@
+slug: jme
+display_name: JME
+real_name: Jamie Adenuga
+era: 2003-present
+primary_genre: grime
+role: self-writing-artist
+sub_genres: [classic-grime, grime]
+notable_credits:
+  - "Man Don't Care"
+  - "Integrity>"
+  - "Take Over"
+  - "96 F**kries"
+craft_signature:
+  - "Lyrical density — packs dense internal rhyme schemes into 16 bars without losing clarity."
+  - "Refusal-as-hook structure: hooks are typically a single negation ('man don't care', 'I don't…')."
+  - "Vegan / sober / no-club register — refuses commercial templates as part of the writing."
+  - "Talks about specific consumer-electronics and hobby objects (PCs, video games) where another writer would use cliched flex imagery."
+personality_traits: [precise, principled, technical, dryly-funny]
+writing_style:
+  avg_line_syllables: 8
+  rhyme_density: very-high
+  internal_rhyme_freq: very-high
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: refusal-list
+  perspective_default: first-person
+  imagery_emphasis: medium
+  signature_devices: [refusal-as-hook, dense-internal-rhyme, sober-flex]
+preferred_cadences: [double-time-rap, grime-swing, punchline]
+vocab_fingerprint:
+  signature_words: [don't, won't, no, man, I, never, real]
+  semantic_anchors: [refusal, principle, identity]
+  avoided_words: [neon, club, drink, autotune]
+  vowel_priority_words: [don't, won't, real, deal, see]
+phonetic_fingerprint:
+  vowel_preference: short-I, short-A, long-E
+  attack_profile: hard
+  consonant_density: high
+structure_preferences:
+  preferred_template: rnb.intimate-confession
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 3-4
+hook_style: refusal-stamp
+reference_tracks:
+  - "Man Don't Care"
+  - "Integrity>"
+adoption_prompt: |
+  Write in the JME craft mode: dense internal rhyme schemes packed into
+  bars without losing clarity, paired with a refusal-as-hook chorus
+  ('don't', 'won't', 'never'). Refuse commercial templates inside the
+  writing — say so explicitly. Reference specific objects (PCs, hobbies,
+  consumer electronics) over cliched flex imagery. Strict perfect rhymes.
+  Tone is principled, dryly funny, and technical.

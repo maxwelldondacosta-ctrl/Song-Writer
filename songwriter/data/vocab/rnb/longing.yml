@@ -1,0 +1,21 @@
+slug: rnb.longing
+name: R&B / Longing
+description: Wanting-from-distance vocabulary, weighted toward concrete imagery (typing, scrolling, doorstep) over generic "missing you".
+words:
+  - { word: typing,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: scrolled,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: doorstep,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: doorway,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: passenger,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: voicemail,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: ceiling,     emotional_weight: 0.7, imagery_class: sensory }
+  - { word: streetlight, emotional_weight: 0.6, imagery_class: sensory }
+  - { word: pillow,      emotional_weight: 0.6, imagery_class: sensory }
+  - { word: drove,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: parked,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: waited,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: counted,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: traffic,     emotional_weight: 0.5, imagery_class: sensory }
+  - { word: porch,       emotional_weight: 0.7, imagery_class: sensory }
+  - { word: rang,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: vibration,   emotional_weight: 0.7, imagery_class: sensory }

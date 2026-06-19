@@ -1,0 +1,29 @@
+slug: rap.bars
+name: Rap / Bars (lyricism, punchline texture)
+description: Hard-rap lyricism vocabulary — the words that show technical command, internal rhyme, sharp imagery. Skews boom-bap and lyrical trap, away from generic flex.
+words:
+  - { word: bars,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: pen,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: pad,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: notebook,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: cypher,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: booth,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: studio,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: punchline,   emotional_weight: 0.8, imagery_class: abstract }
+  - { word: punchlines,  emotional_weight: 0.8, imagery_class: abstract }
+  - { word: triple,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: pocket,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: cadence,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: flow,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: pace,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: tempo,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: bar-for-bar, emotional_weight: 0.8, imagery_class: abstract }
+  - { word: line-for-line, emotional_weight: 0.7, imagery_class: abstract }
+  - { word: scribbled,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: drafted,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: chopped,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: sliced,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: dropped,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: lap,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: lapped,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: cooked,      emotional_weight: 0.7, imagery_class: physical }

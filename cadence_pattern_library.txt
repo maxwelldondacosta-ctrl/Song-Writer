@@ -1,0 +1,288 @@
+CADENCE PATTERN LIBRARY Song Writing Project – Vocal Rhythm Framework
+
+  ---------
+  PURPOSE
+  ---------
+ 
+This document defines common vocal cadence patterns used across major
+music genres. Cadence determines how lyrics are rhythmically delivered
+over a beat.
+
+Two lyrics with identical rhyme schemes can feel completely different
+depending on cadence. This library defines repeatable rhythmic patterns
+that appear in successful songs.
+
+Cadence patterns should be selected before rhyme optimization.
+
+  ----------------
+  CORE PRINCIPLE
+  ----------------
+
+Cadence controls:
+
+• stress placement • syllable grouping • rhythmic subdivision • breath
+spacing
+
+If cadence is wrong, even strong lyrics will perform poorly.
+
+  ----------------------------
+  1. STRAIGHT 4‑BEAT CADENCE
+  ----------------------------
+
+Structure:
+
+DA da DA da DA da DA da
+
+Example structure:
+
+I WALK through FIRE I BREAK the CHAINS
+
+Characteristics:
+
+• strong beat alignment • predictable rhythm • powerful emphasis points
+
+Common genres:
+
+• rock • metal • pop choruses • stadium anthems
+
+Observed in many heavy chorus structures and chant-style hooks.
+
+  ----------------------------
+  2. DOUBLE‑TIME RAP CADENCE
+  ----------------------------
+
+Structure:
+
+da‑da‑da‑da DA da‑da‑da‑da DA
+
+Example structure:
+
+Running through the city with a vision never stopping Everybody talking
+but they never really popping
+
+Characteristics:
+
+• high syllable density • fast delivery • momentum driven
+
+Common genres:
+
+• grime • technical rap • fast hip‑hop verses
+
+  --------------------
+  3. TRIPLET CADENCE
+  --------------------
+
+Structure:
+
+DA‑da‑da DA‑da‑da
+
+Example structure:
+
+Money on my mind Running all the time
+
+Characteristics:
+
+• rolling rhythmic feel • hypnotic flow • strong alignment with trap
+hi‑hat patterns
+
+Common genres:
+
+• trap • modern hip‑hop • melodic rap
+
+  ------------------------
+  4. GRIME SWING CADENCE
+  ------------------------
+
+Structure:
+
+DA — da DA — da
+
+Example structure:
+
+Step in the rave with a mic and a vision Everyone knows that the flow’s
+precision
+
+Characteristics:
+
+• slight delay behind the beat • syncopated rhythm • aggressive
+consonant attack
+
+Common genres:
+
+• UK grime • UK drill • fast rap flows
+
+  --------------------------
+  5. MELODIC GLIDE CADENCE
+  --------------------------
+
+Structure:
+
+Long vowel phrasing with flowing syllables.
+
+Example structure:
+
+Baby don’t leave me alone tonight
+
+Characteristics:
+
+• sustained vowels • smooth melodic transitions • emotional vocal
+delivery
+
+Common genres:
+
+• R&B • pop ballads • melodic rap
+
+  ----------------------
+  6. PUNCHLINE CADENCE
+  ----------------------
+
+Structure:
+
+short short short LONG
+
+Example structure:
+
+You lied You ran You broke Now watch me burn
+
+Characteristics:
+
+• tension build across lines • strong final emphasis • clear lyrical
+impact
+
+Common genres:
+
+• battle rap • aggressive rap • heavy music lyrics
+
+  ----------------------------
+  7. BREAKDOWN CHANT CADENCE
+  ----------------------------
+
+Structure:
+
+WORD WORD WORD WORD DROP PHRASE
+
+Example structure:
+
+Break the chain Burn the throne KILL THEM ALL
+
+Characteristics:
+
+• extremely simple rhythm • chantable phrases • designed for loud mixes
+
+Common genres:
+
+• deathcore • metalcore • hardcore
+
+  ---------------------
+  8. POP HOOK CADENCE
+  ---------------------
+
+Structure:
+
+DA da DA da DA da DA da
+
+Example structure:
+
+If you wanna love me You gotta treat me right
+
+Characteristics:
+
+• simple rhythm • chantable delivery • immediate memorability
+
+Common genres:
+
+• commercial pop • dance pop • radio hooks
+
+  -------------------------
+  9. STORYTELLING CADENCE
+  -------------------------
+
+Structure:
+
+Natural speech rhythm.
+
+Example structure:
+
+I remember when you said you’d never leave
+
+Characteristics:
+
+• conversational delivery • flexible rhythm • narrative clarity
+
+Common genres:
+
+• storytelling rap • singer‑songwriter • folk
+
+  --------------------
+  10. HYBRID CADENCE
+  --------------------
+
+Structure:
+
+Multiple cadence shifts inside one verse.
+
+Example pattern:
+
+double‑time double‑time pause punchline
+
+Example structure:
+
+Running through the night with the weight of the city Everybody talking
+but they never really with me … Now I own the crown
+
+Characteristics:
+
+• dynamic rhythm • dramatic pacing • advanced performance technique
+
+Common genres:
+
+• modern hip‑hop • progressive rap • concept tracks
+
+  ------------------------
+  CADENCE SELECTION RULE
+  ------------------------
+
+Choose cadence based on emotion and genre.
+
+Aggression → punchline or double‑time Sadness → melodic glide Narrative
+→ storytelling cadence Hype → chant cadence Trap energy → triplet
+cadence
+
+  --------------------------
+  CADENCE VALIDATION CHECK
+  --------------------------
+
+Before finalizing lyrics:
+
+1.  Speak the line aloud.
+2.  Identify stressed syllables.
+3.  Align stresses with beat accents.
+4.  Remove awkward syllables.
+
+If the line cannot be spoken naturally in rhythm, rewrite it.
+
+  ----------------------
+  WORKFLOW INTEGRATION
+  ----------------------
+
+Cadence selection occurs after phonetic texture but before rhyme
+optimization.
+
+System order:
+
+Story Rule ↓ Sentence Rule ↓ Phonetic Texture Rule ↓ Cadence Pattern
+Library ↓ Rhyme–Cadence Interaction ↓ Genre Pattern ↓ Final Validation ↓
+Production Prompt
+
+  ----------
+  KEY RULE
+  ----------
+
+Cadence determines how lyrics feel when performed.
+
+A technically strong lyric that cannot be delivered rhythmically is
+still a failed lyric.
+
+------------------------------------------------------------------------
+
+END OF DOCUMENT

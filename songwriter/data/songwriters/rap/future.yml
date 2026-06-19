@@ -1,0 +1,55 @@
+slug: future
+display_name: Future
+real_name: Nayvadius DeMun Wilburn
+era: 2011-present
+primary_genre: rap
+role: self-writing-artist
+sub_genres: [trap, melodic-rap, auto-trap]
+notable_credits:
+  - "March Madness"
+  - "Mask Off"
+  - "Low Life"
+  - "Jumpman"
+  - "Turn On the Lights"
+craft_signature:
+  - "AutoTune used as a melodic instrument, not a correction — pitch slides carry emotional weight that words alone don't."
+  - "Repetitive melodic hooks built on a single phrase, repeated with micro-variations in pitch and rhythm."
+  - "Dark-luxury contrast: designer labels, foreign cars, and prescription opioids coexist in the same bar."
+  - "Verse delivery is beat-leaning — syllables intentionally drag behind or land ahead of the kick."
+  - "Self-mythologizing through drug brand specificity (Percocet, Actavis, lean) rather than generic references."
+personality_traits: [hedonistic, wounded, detached, self-mythologizing]
+writing_style:
+  avg_line_syllables: 9
+  rhyme_density: moderate
+  internal_rhyme_freq: low
+  end_rhyme_strictness: near-and-vowel-echo-only
+  narrative_mode: stream-of-consciousness
+  perspective_default: first-person
+  imagery_emphasis: moderate
+  signature_devices: [autotune-melody-as-lyric, repetitive-hook-variation, dark-luxury-juxtaposition]
+preferred_cadences: [melodic-glide, trap-bounce, half-time]
+vocab_fingerprint:
+  signature_words: [percocet, lean, foreign, drip, slime, trapstar, mask, real]
+  semantic_anchors: [drug-euphoria, heartbreak, luxury, street-survival]
+  avoided_words: [journey, anthem, soldier, neon]
+phonetic_fingerprint:
+  vowel_preference: long-E, diphthong, short-A
+  attack_profile: soft
+  consonant_density: low
+structure_preferences:
+  preferred_template: rap.trap-anthem
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 3-4
+hook_style: melodic-incantation
+reference_tracks:
+  - "Mask Off"
+  - "March Madness"
+adoption_prompt: |
+  Write in the Future craft mode: AutoTune is the instrument — pitch slides
+  and melodic slurring carry emotion that direct words skip. Build hooks on
+  a single phrase repeated with micro-variations in rhythm. Contrast dark
+  street imagery with luxury signifiers (designer labels, foreign cars) in
+  the same line. Delivery is beat-leaning — syllables drag or land slightly
+  ahead of the kick for a hypnotic float. Drug brand specificity (Percocet,
+  lean, Actavis) over generic references. Keep rhyme density moderate;
+  near-rhyme and vowel echo are fine. Avoid anthemic or journey vocabulary.

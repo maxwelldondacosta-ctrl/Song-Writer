@@ -1,0 +1,7 @@
+# Tauri build artifacts
+target/
+gen/
+
+# Bundle outputs
+*.app
+*.dmg

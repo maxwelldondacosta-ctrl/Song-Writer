@@ -1,0 +1,126 @@
+THE STORY RULE Song Writing Project – Narrative Impact Framework
+
+  ----------
+  OVERVIEW
+  ----------
+
+The Story Rule defines how emotional storytelling should function inside
+song lyrics.
+
+Unlike novels or films, songs have limited space to describe scenes or
+complex narratives. Lyrics therefore rely on compressed storytelling.
+
+Effective songs usually communicate three essential elements:
+
+1.  What happened
+2.  How it made the narrator feel
+3.  What the narrator will do about it
+
+If a song includes all three elements, it tends to feel emotionally
+complete and satisfying to the listener.
+
+  ----------------
+  CORE PRINCIPLE
+  ----------------
+
+A song must communicate a clear emotional narrative within a limited
+number of lines.
+
+Lyrics should focus on the event, the emotional reaction, and the
+resulting decision or consequence.
+
+  ----------------------------
+  THE THREE STORY COMPONENTS
+  ----------------------------
+
+1.  EVENT (The Trigger)
+
+Something happens that initiates the story.
+
+Examples:
+
+You left You lied You betrayed me
+
+The event establishes the cause of the emotional response.
+
+------------------------------------------------------------------------
+
+2.  EMOTIONAL REACTION
+
+The narrator expresses the emotional effect of the event.
+
+Examples:
+
+Now I can’t breathe Every night I break Your ghost still haunts me
+
+This stage creates emotional relatability and depth.
+
+------------------------------------------------------------------------
+
+3.  RESOLUTION OR DIRECTION
+
+The narrator reaches a conclusion or makes a decision.
+
+Examples:
+
+I’ll burn it down I’m letting you go I’ll never trust again
+
+This gives the song closure, escalation, or transformation.
+
+  ----------------------------
+  WHY THE STORY RULE MATTERS
+  ----------------------------
+
+Songs that miss one of these components often feel incomplete.
+
+Missing Event: The story becomes confusing.
+
+Missing Emotion: The song feels emotionally flat.
+
+Missing Resolution: The ending feels unsatisfying or unresolved.
+
+Many weak lyrics repeat emotional statements without explaining the
+cause or the outcome.
+
+  ------------------------
+  COMMON FAILURE PATTERN
+  ------------------------
+
+Emotion without context:
+
+“I’m sad I’m broken I’m crying I’m lost”
+
+Without an event or resolution, these statements lack narrative impact.
+
+  --------------------------------------
+  INTEGRATION WITH OTHER PROJECT RULES
+  --------------------------------------
+
+The Story Rule operates alongside other lyric validation systems.
+
+Sentence Rule: Ensures each lyric line maintains logical meaning.
+
+Pattern Libraries: Ensure the lyric structure fits genre performance
+needs.
+
+Prompt Framework: Ensures the generated track matches the intended
+style.
+
+Together these systems ensure that lyrics are:
+
+• meaningful • coherent • structurally effective • emotionally impactful
+
+  ----------
+  KEY RULE
+  ----------
+
+Lyrics should tell a clear emotional story, even when the language is
+symbolic or poetic.
+
+Listeners must be able to understand:
+
+what happened, why it mattered, and what the narrator feels or decides.
+
+------------------------------------------------------------------------
+
+END OF DOCUMENT

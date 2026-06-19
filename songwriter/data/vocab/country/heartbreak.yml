@@ -1,0 +1,38 @@
+slug: country.heartbreak
+name: Country / Heartbreak (the country breakup)
+description: Country breakup vocabulary — concrete kitchen-and-truck imagery, drinking, photographs, the empty side of the bed. Specific objects over generic emotion words.
+words:
+  - { word: bottle,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: bottles,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: glass,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: empty,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: half-empty,  emotional_weight: 0.7, imagery_class: physical }
+  - { word: whiskey,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: bourbon,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: beer,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: bar-stool,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: jukebox,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: honky-tonk,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: photograph,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: photographs, emotional_weight: 0.8, imagery_class: physical }
+  - { word: ring,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: rings,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: keys,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: pillow,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: pillows,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: side,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: empty-side,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: morning,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: coffee,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: cup,         emotional_weight: 0.6, imagery_class: physical }
+  - { word: kitchen,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: kitchen-floor, emotional_weight: 0.7, imagery_class: physical }
+  - { word: closet,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: dresser,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: drawer,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: matchbook,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: lighter,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: cigarette,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: cigarettes,  emotional_weight: 0.7, imagery_class: physical }
+  - { word: pack,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: empty-pack,  emotional_weight: 0.7, imagery_class: physical }

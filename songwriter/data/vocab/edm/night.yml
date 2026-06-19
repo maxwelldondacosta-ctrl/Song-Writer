@@ -1,0 +1,29 @@
+slug: edm.night
+name: EDM / Night (festival/club imagery)
+description: Festival-and-club concrete imagery — strobes, sweat, the warehouse, the cab home. Avoids generic 'tonight we own the night' shorthand.
+words:
+  - { word: strobe,      emotional_weight: 0.8, imagery_class: sensory }
+  - { word: laser,       emotional_weight: 0.7, imagery_class: sensory }
+  - { word: lasers,      emotional_weight: 0.7, imagery_class: sensory }
+  - { word: smoke,       emotional_weight: 0.7, imagery_class: sensory, ai_bias_flag: true }
+  - { word: dust,        emotional_weight: 0.7, imagery_class: sensory }
+  - { word: sweat,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: sweating,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: soaked,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: warehouse,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: club,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: floor,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: dance-floor, emotional_weight: 0.7, imagery_class: physical }
+  - { word: rooftop,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: festival,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: stage,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: front-row,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: barricade,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: speaker,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: speakers,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: subwoofer,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: cab,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: uber,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: hotel,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: aftermath,   emotional_weight: 0.7, imagery_class: abstract }
+  - { word: sunrise,     emotional_weight: 0.7, imagery_class: physical }

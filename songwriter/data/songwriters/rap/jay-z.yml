@@ -1,0 +1,56 @@
+slug: jay-z
+display_name: Jay-Z
+real_name: Shawn Corey Carter
+era: 1985-present
+primary_genre: rap
+role: self-writing-artist
+sub_genres: [boom-bap, luxury-rap, conscious-rap]
+notable_credits:
+  - "99 Problems"
+  - "Empire State of Mind"
+  - "Big Pimpin'"
+  - "N****s in Paris"
+  - "izzo (H.O.V.A.)"
+craft_signature:
+  - "Confident understatement: brags through implication and parallel structure rather than direct declaration."
+  - "Business and street as sustained parallel metaphors — the same term describes both the block and the boardroom."
+  - "Long-form verse architecture: maintains complex rhyme schemes across 32+ bars without dropping the thread."
+  - "Memory-based improvisation in the booth — lyrics that feel spontaneous because they were — structured in reverse."
+  - "Brooklyn reference system: Bed-Stuy, Marcy Houses, Bed-Stuy block names as shorthand for earned credibility."
+personality_traits: [confident, cerebral, entrepreneurial, Brooklynite]
+writing_style:
+  avg_line_syllables: 11
+  rhyme_density: high
+  internal_rhyme_freq: high
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: first-person-authority
+  perspective_default: first-person
+  imagery_emphasis: moderate
+  signature_devices: [understatement-brag, business-street-parallel, long-form-rhyme-architecture]
+preferred_cadences: [boom-bap, storytelling, double-time-rap]
+vocab_fingerprint:
+  signature_words: [hov, brooklyn, marcy, hustle, empire, paper, real, boss]
+  semantic_anchors: [Brooklyn, wealth-as-proof, business, legacy]
+  avoided_words: [sad, broken, lost, helpless, neon]
+phonetic_fingerprint:
+  vowel_preference: short-O, long-A, diphthong
+  attack_profile: balanced
+  consonant_density: moderate-high
+structure_preferences:
+  preferred_template: rap.boom-bap-verse-heavy
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: thesis-mantra
+reference_tracks:
+  - "99 Problems"
+  - "Empire State of Mind"
+adoption_prompt: |
+  Write in the Jay-Z craft mode: confident understatement — brag through
+  parallel structure and implication, not declaration. Run business and street
+  as sustained parallel metaphors in the same verse (the block and the
+  boardroom use the same language). Build long-form rhyme architecture — a
+  complex rhyme scheme held across 32+ bars without losing the thread. Root
+  credibility in Brooklyn geography: Marcy Houses, Bed-Stuy blocks, the bridge
+  as a landmark. Deliver authority as given fact, not argued proof. High rhyme
+  density, strict perfect rhymes at line ends. Avoid sad, lost, or broken
+  emotional vocabulary — power is the default register.

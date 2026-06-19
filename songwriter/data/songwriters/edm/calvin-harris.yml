@@ -1,0 +1,53 @@
+slug: calvin-harris
+display_name: Calvin Harris
+real_name: Adam Richard Wiles
+era: 2002-present
+primary_genre: edm
+sub_genres: [house, pop-edm, funk-edm]
+role: producer-songwriter
+notable_credits:
+  - "Summer"
+  - "How Deep Is Your Love"
+  - "One Kiss"
+  - "Feels"
+craft_signature:
+  - "Pop-EDM crossover instinct: the topline is a real pop song that survives outside the production."
+  - "Long-vowel chorus payoffs that work on radio and at a festival."
+  - "Verse-pre-chorus-chorus pop architecture rather than EDM's verse-build-drop."
+  - "Romantic / summer-anthem content; refuses dark or aggressive territory."
+  - "Vocalists usually get co-write credit because the topline is the song."
+personality_traits: [pop-engineered, summer-anchored, polished, collaborator-aware]
+writing_style:
+  avg_line_syllables: 8
+  rhyme_density: medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: pop-sketch
+  perspective_default: first-or-second-person
+  imagery_emphasis: medium
+  signature_devices: [topline-survives-on-its-own, long-vowel-chorus, pop-arch]
+preferred_cadences: [pop-hook, melodic-glide, straight-4-beat]
+vocab_fingerprint:
+  signature_words: [you, me, summer, kiss, feels, love, deep]
+  semantic_anchors: [summer-romance, dance-floor-flirtation, festival-anthem]
+  avoided_words: [dark, aggressive, ironic-distance]
+  vowel_priority_words: [you, true, summer, kiss, deep]
+phonetic_fingerprint:
+  vowel_preference: long-E, long-O, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: topline-anchor
+reference_tracks:
+  - "Summer"
+  - "One Kiss"
+adoption_prompt: |
+  Write in the Calvin Harris craft mode: pop-EDM crossover. The topline
+  is a real pop song — it survives outside the production. Use verse-
+  pre-chorus-chorus pop architecture rather than EDM verse-build-drop.
+  Long-vowel chorus payoffs work on radio and at festivals. Romantic /
+  summer-anthem content; refuse dark or aggressive territory. Strict
+  perfect rhymes; medium imagery density.

@@ -1,0 +1,50 @@
+slug: the-dream
+display_name: The-Dream
+real_name: Terius Youngdell Nash
+era: 2007-present
+primary_genre: rnb
+role: producer-songwriter
+sub_genres: [contemporary-rnb, pop, alt-rnb]
+notable_credits:
+  - "Single Ladies (Put a Ring on It)"
+  - "Umbrella"
+  - "Holy Grail"
+  - "Beautiful Liar"
+craft_signature:
+  - "Compresses a phrase to its rhythmic essence — tightens a 7-syllable thought into a 4-beat hook."
+  - "Stacks one signature word as percussive refrain ('eh-eh', 'oh-oh') as part of the cadence."
+  - "Hook architecture is melodic before lyrical — the lyric serves the contour."
+  - "Frequent direct-address imperatives in the chorus ('put a ring on it', 'stand under my umbrella')."
+personality_traits: [precise, melodic, percussive]
+writing_style:
+  avg_line_syllables: 6
+  rhyme_density: medium
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: imperative-hook
+  perspective_default: first-or-second-person
+  imagery_emphasis: low-medium
+  signature_devices: [percussive-refrain, imperative-hook, melodic-first-lyric]
+preferred_cadences: [pop-hook, punchline]
+vocab_fingerprint:
+  signature_words: [you, this, now, baby, ring, hands, ay, oh]
+  semantic_anchors: [direct-address, simple-imperative]
+  avoided_words: [philosophical, abstract, dense]
+phonetic_fingerprint:
+  vowel_preference: short-I, short-A, diphthong-OI
+  attack_profile: hard
+  consonant_density: high
+structure_preferences:
+  preferred_template: rnb.intimate-confession
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 3
+hook_style: imperative-percussive
+reference_tracks:
+  - "Single Ladies (Put a Ring on It)"
+  - "Umbrella"
+adoption_prompt: |
+  Write in the The-Dream craft mode: melody-first, lyric-second. Compress
+  thoughts to their rhythmic essence; a 7-syllable feeling becomes a 4-beat
+  hook. Stack a signature percussive vocable ('eh-eh', 'oh-oh') as part of
+  the cadence. Chorus uses direct-address imperatives. Strict end-rhymes.
+  Keep imagery low; let cadence carry the song.

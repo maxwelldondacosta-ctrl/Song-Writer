@@ -1,0 +1,28 @@
+slug: latin.calle
+name: Latin / Calle (street, barrio, hustle)
+description: Street-and-barrio vocabulary that grounds reggaeton bars in specific places. Concrete nouns over generic urban shorthand.
+words:
+  - { word: calle,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: calles,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: barrio,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: bloque,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: esquina,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: ciudad,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: san-juan,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: medellín,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: bogotá,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: ciudad-de-méxico, emotional_weight: 0.7, imagery_class: physical }
+  - { word: mami,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: pana,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: parcero,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: gata,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: dinero,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: plata,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: billetes,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: trabajar,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: hustle,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: real,        emotional_weight: 0.6, imagery_class: abstract }
+  - { word: real-real,   emotional_weight: 0.7, imagery_class: abstract }
+  - { word: respeto,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: sangre,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: corazón,     emotional_weight: 0.6, imagery_class: physical }

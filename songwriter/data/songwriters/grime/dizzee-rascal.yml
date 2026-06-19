@@ -1,0 +1,52 @@
+slug: dizzee-rascal
+display_name: Dizzee Rascal
+real_name: Dylan Mills
+era: 2002-present
+primary_genre: grime
+role: self-writing-artist
+sub_genres: [classic-grime, grime]
+notable_credits:
+  - "Boy In Da Corner"
+  - "I Luv U"
+  - "Fix Up, Look Sharp"
+  - "Stand Up Tall"
+craft_signature:
+  - "Founding voice of grime — verse cadence is hyper-syllabic and slightly off-grid against the eski beat."
+  - "Uses repetition with rhythmic shift: same phrase, new placement on the bar each time."
+  - "Voice-as-instrument: vowel choices favor the kind of sharp short-I and short-A that cut through square-wave bass."
+  - "Self-portrait verses: very specific Bow E3 / pirate-radio period imagery."
+personality_traits: [restless, foundational, raw, syllable-dense]
+writing_style:
+  avg_line_syllables: 10
+  rhyme_density: high
+  internal_rhyme_freq: high
+  end_rhyme_strictness: near-and-perfect
+  narrative_mode: self-portrait-with-shift
+  perspective_default: first-person
+  imagery_emphasis: high
+  signature_devices: [off-grid-cadence, repetition-with-rhythmic-shift, pirate-radio-imagery]
+preferred_cadences: [grime-swing, double-time-rap, hybrid]
+vocab_fingerprint:
+  signature_words: [me, I, look, fix, sharp, stand, tall, mate]
+  semantic_anchors: [self-portrait, pirate-radio-era, bow]
+  avoided_words: [neon, ghost, midnight, anthem]
+  vowel_priority_words: [up, look, fix, mate, plate]
+phonetic_fingerprint:
+  vowel_preference: short-I, short-A, short-U
+  attack_profile: hard
+  consonant_density: high
+structure_preferences:
+  preferred_template: rnb.intimate-confession
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: phrase-rotation
+reference_tracks:
+  - "Fix Up, Look Sharp"
+  - "Stand Up Tall"
+adoption_prompt: |
+  Write in the Dizzee Rascal craft mode: hyper-syllabic verses that sit
+  slightly off-grid against the 140-BPM eski beat, with repetition that
+  shifts where the phrase lands on the bar each time. Vowel choices favor
+  short-I and short-A (sharp, cuts through square-wave bass). Verses are
+  self-portrait — Bow E3, pirate radio, mum's flat. No anthem cliches; no
+  American-rap cadence. Near-rhymes welcome.

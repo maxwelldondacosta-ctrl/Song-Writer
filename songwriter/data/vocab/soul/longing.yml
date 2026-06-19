@@ -1,0 +1,25 @@
+slug: soul.longing
+name: Soul / Longing (slow yearning, distance, waiting)
+description: Soul-music longing — the slow burn of wanting someone back across distance or time. Porch-watching, phone-staring, late-night-driving yearning in a gospel-adjacent register.
+words:
+  - { word: waiting,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: wait,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: wondering,   emotional_weight: 0.7, imagery_class: abstract }
+  - { word: missing,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: aching,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: reaching,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: reach,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: miles,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: miles-away,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: far,         emotional_weight: 0.6, imagery_class: abstract }
+  - { word: road,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: midnight,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: window,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: staring,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: every-night, emotional_weight: 0.7, imagery_class: abstract }
+  - { word: wish,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: wishing,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: praying,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: bring-back,  emotional_weight: 0.8, imagery_class: abstract }
+  - { word: return,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: come-home,   emotional_weight: 0.8, imagery_class: abstract }

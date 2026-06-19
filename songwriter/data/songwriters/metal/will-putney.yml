@@ -1,0 +1,52 @@
+slug: will-putney
+display_name: Will Putney
+real_name: Will Putney
+era: 2007-present
+primary_genre: metal
+sub_genres: [deathcore, metalcore]
+role: producer-songwriter
+notable_credits:
+  - "Body Bag"
+  - "Knocked Loose — A Different Shade of Blue"
+  - "Fit For An Autopsy — Oh What The Future Holds"
+  - "Body Snatcher"
+craft_signature:
+  - "Modern deathcore architecture: 8-string guitar riff anchors → breakdown chug → maybe a clean melodic chorus."
+  - "Lyrical content leans politically-aware or visceral-personal; refuses cartoon-gore."
+  - "Vocal contour is as much a craft element as the lyric — guttural lows in verse, hi-screams on bridges, occasional clean payoff."
+  - "Recurring breakdown-words ('crawl', 'rot', 'bury') chosen for the way the throat can hit them."
+  - "Production-aware writing — knows where the kick lands and writes the syllable to it."
+personality_traits: [politically-aware, visceral, production-precise, modern]
+writing_style:
+  avg_line_syllables: 8
+  rhyme_density: medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: near-and-perfect
+  narrative_mode: visceral-protest
+  perspective_default: first-person
+  imagery_emphasis: high
+  signature_devices: [vocal-contour-as-craft, throat-friendly-syllable-choice, production-aware-cadence]
+preferred_cadences: [breakdown-chant, double-time-rap, hybrid]
+vocab_fingerprint:
+  signature_words: [crawl, rot, drag, choke, bury, bones, system]
+  semantic_anchors: [visceral-action, political-system, breakdown]
+  avoided_words: [neon, anthem-cliche, autotune-pop]
+phonetic_fingerprint:
+  vowel_preference: short-A, short-U, rhotic
+  attack_profile: hard
+  consonant_density: high
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-mid
+  hook_repeats_per_chorus: 2
+hook_style: scream-to-clean-pivot
+reference_tracks:
+  - "Body Snatcher"
+  - "A Different Shade of Blue"
+adoption_prompt: |
+  Write in the Will Putney craft mode: modern deathcore architecture —
+  riff-anchored verses, breakdown chugs, optional clean melodic chorus
+  pivot. Politically-aware or visceral-personal content; no cartoon-gore.
+  Choose breakdown words for the way the throat can hit them ('crawl',
+  'rot', 'bury', 'choke'). Production-aware: write the syllable to the
+  kick. Near-rhymes welcome.

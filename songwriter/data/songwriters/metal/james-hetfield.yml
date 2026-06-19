@@ -1,0 +1,52 @@
+slug: james-hetfield
+display_name: James Hetfield
+real_name: James Alan Hetfield
+era: 1981-present
+primary_genre: metal
+sub_genres: [thrash-metal, classic-metal, alt-rock]
+role: self-writing-artist
+notable_credits:
+  - "Master of Puppets"
+  - "Enter Sandman"
+  - "One"
+  - "Nothing Else Matters"
+craft_signature:
+  - "Riff-driven architecture; verse vocal cadences ride the gallop pattern of the guitar."
+  - "Anthemic chorus payoffs that work even when the verse is screamed (Master of Puppets formula)."
+  - "Mid-album epic-length tracks with movement structure — verse, pre, chorus, instrumental break, return."
+  - "Personal-from-mythic content: the song is about something specific (addiction, war, isolation) but framed in mythic register."
+  - "End-rhymes hit hard on the downbeat; bar-end consonant strikes are the punctuation."
+personality_traits: [anthemic, mythic, riff-rooted, autobiographical-coded]
+writing_style:
+  avg_line_syllables: 10
+  rhyme_density: medium
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: mythic-personal
+  perspective_default: first-or-second-person
+  imagery_emphasis: high
+  signature_devices: [riff-cadence-ride, anthemic-chorus, downbeat-end-rhyme]
+preferred_cadences: [breakdown-chant, straight-4-beat, storytelling]
+vocab_fingerprint:
+  signature_words: [I, master, never, gone, sandman, ride]
+  semantic_anchors: [mythic, personal-coded, riff-rhythm]
+  avoided_words: [autotune, club-bass, hi-hat-triplets]
+phonetic_fingerprint:
+  vowel_preference: long-A, short-U, diphthong
+  attack_profile: hard
+  consonant_density: high
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: anthemic-payoff
+reference_tracks:
+  - "Master of Puppets"
+  - "One"
+adoption_prompt: |
+  Write in the James Hetfield craft mode: riff-driven architecture, verse
+  vocal cadences ride the gallop of the guitar. Anthemic chorus payoffs
+  that land even when the verse is screamed. Mythic-personal content —
+  about something specific but framed in mythic register. End-rhymes
+  hit hard on the downbeat. Strict perfect rhymes; epic-length structures
+  with verse-pre-chorus-break-return movement allowed.

@@ -1,0 +1,52 @@
+slug: jack-white
+display_name: Jack White
+real_name: John Anthony Gillis
+era: 1997-present
+primary_genre: rock
+sub_genres: [alt-rock, blues-rock, garage-rock]
+role: self-writing-artist
+notable_credits:
+  - "Seven Nation Army"
+  - "Icky Thump"
+  - "Lazaretto"
+  - "Steady, As She Goes"
+craft_signature:
+  - "Riff-as-architecture — the song is built around a memorable two-bar guitar phrase, lyrics are subordinate."
+  - "Blues-form economy: 12-bar logic underneath modern arrangements."
+  - "Aggressive monosyllables in hooks; one-word stamps that punch."
+  - "Deliberately archaic vocabulary mixed with modern slang — period-mixing is the device."
+  - "Thin recording aesthetic — no stadium reverb, no autotune; raw close-mic vocal sits forward."
+personality_traits: [archaic, restless, blues-rooted, contrarian]
+writing_style:
+  avg_line_syllables: 7
+  rhyme_density: medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: blues-form-modernized
+  perspective_default: first-person
+  imagery_emphasis: high
+  signature_devices: [riff-as-architecture, archaic-modern-mix, raw-close-mic]
+preferred_cadences: [punchline, straight-4-beat, hybrid]
+vocab_fingerprint:
+  signature_words: [I, you, no, gonna, hard, low, high, never]
+  semantic_anchors: [blues-form, period-mix, raw-action]
+  avoided_words: [neon, autotune-cliche, stadium-anthem]
+phonetic_fingerprint:
+  vowel_preference: short-A, short-I, diphthong
+  attack_profile: hard
+  consonant_density: high
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: monosyllabic-stamp
+reference_tracks:
+  - "Seven Nation Army"
+  - "Steady, As She Goes"
+adoption_prompt: |
+  Write in the Jack White craft mode: riff-as-architecture, lyrics
+  subordinate to the two-bar guitar phrase. 12-bar blues form logic under
+  a modern arrangement. Aggressive monosyllables in hooks (one-word
+  stamps). Mix deliberately archaic vocabulary with modern slang —
+  period-mixing is the craft device. Raw close-mic vocal sits forward;
+  refuse stadium reverb and autotune polish. Strict perfect rhymes.

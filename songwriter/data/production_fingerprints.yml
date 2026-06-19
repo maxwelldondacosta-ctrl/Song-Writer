@@ -1,0 +1,421 @@
+fingerprints:
+  - sub_genre: pop.dance-pop
+    instrumentation:
+      drums: ["four-on-the-floor kick", "tight snare", "hat on offbeat"]
+      bass: ["pulsing synth bass", "sidechain to kick"]
+      keys: ["bright pluck synth", "stab chord pads"]
+    vocal_style:
+      delivery: ["confident", "hook-forward", "double-tracked chorus"]
+      effects: ["subtle plate reverb", "short slapback delay"]
+    mix_attributes:
+      brightness: high
+      compression: heavy
+      width: wide
+    positive_descriptors:
+      - "polished radio mix"
+      - "punchy four-on-the-floor"
+      - "bright synth pluck lead"
+    negative_descriptors:
+      - "lo-fi"
+      - "woody acoustic guitar"
+      - "tape saturation"
+      - "muddy low end"
+
+  - sub_genre: pop.synth-pop
+    instrumentation:
+      drums: ["gated reverb snare", "linn-style kick"]
+      bass: ["analog mono synth bass"]
+      keys: ["warm analog pads", "arpeggiated lead"]
+    vocal_style:
+      delivery: ["airy", "doubled octave", "breathy verses"]
+      effects: ["chorus", "long plate reverb"]
+    mix_attributes: { brightness: medium-high, compression: moderate, width: wide }
+    positive_descriptors:
+      - "analog-warm synth bass"
+      - "gated reverb on snare"
+      - "lush pad bed"
+    negative_descriptors:
+      - "trap hi-hats"
+      - "808 sub-bass"
+      - "metal guitars"
+
+  - sub_genre: pop.indie-pop
+    instrumentation:
+      drums: ["live kit", "tambourine"]
+      bass: ["clean fingered electric bass"]
+      keys: ["upright piano", "vibes"]
+      guitars: ["clean Strat", "12-string acoustic"]
+    vocal_style: { delivery: ["intimate", "single-tracked verses"], effects: ["room reverb", "subtle compression"] }
+    mix_attributes: { brightness: medium, compression: light, width: medium }
+    positive_descriptors: ["warm room ambience", "live drum kit", "twangy clean guitar"]
+    negative_descriptors: ["club drop", "EDM bass", "autotuned hook"]
+
+  - sub_genre: pop.hyperpop
+    instrumentation:
+      drums: ["hyper-fast snare rolls", "distorted kick"]
+      bass: ["square sub-bass", "wobble"]
+      keys: ["bright supersaw", "candy plucks"]
+    vocal_style: { delivery: ["pitch-shifted", "chipmunked", "autotune-as-instrument"], effects: ["heavy autotune", "telephone EQ"] }
+    mix_attributes: { brightness: extreme, compression: brick-walled, width: extreme }
+    positive_descriptors: ["pitched-up vocals", "supersaw lead", "glitchy edits"]
+    negative_descriptors: ["organic instruments", "live drums", "natural reverb"]
+
+  - sub_genre: pop.alt-pop
+    instrumentation:
+      drums: ["minimal kit", "808 layered with live snare"]
+      bass: ["mono sub", "muted electric"]
+      keys: ["dusty Rhodes", "atmospheric pads"]
+    vocal_style: { delivery: ["close-mic'd", "whisper-to-belt dynamic"], effects: ["close-mic compression", "tape saturation"] }
+    mix_attributes: { brightness: medium, compression: moderate, width: medium }
+    positive_descriptors: ["close-mic vocal", "muted electric texture", "tape warmth"]
+    negative_descriptors: ["four-on-the-floor", "EDM drop", "stadium reverb"]
+
+  - sub_genre: pop.country-pop
+    instrumentation:
+      drums: ["live kit with brushes optional", "tambourine"]
+      bass: ["clean P-bass"]
+      guitars: ["acoustic strum", "dobro/steel slide", "telecaster lead"]
+    vocal_style: { delivery: ["clear", "story-forward", "twang light"], effects: ["light slap delay", "natural plate"] }
+    mix_attributes: { brightness: medium, compression: moderate, width: medium-wide }
+    positive_descriptors: ["acoustic guitar foundation", "telecaster twang", "natural drum kit"]
+    negative_descriptors: ["heavy autotune", "trap hi-hats", "EDM synth lead"]
+
+  - sub_genre: rnb.contemporary-rnb
+    instrumentation:
+      drums: ["tight programmed", "snappy snare", "808 layered with kick"]
+      bass: ["deep 808 sub"]
+      keys: ["Rhodes", "soft pads"]
+    vocal_style: { delivery: ["smooth", "melismatic", "stacked harmonies"], effects: ["plate reverb", "doubled chorus"] }
+    mix_attributes: { brightness: medium, compression: moderate, width: medium }
+    positive_descriptors: ["Rhodes electric piano", "stacked vocal harmonies", "warm sub-bass"]
+    negative_descriptors: ["distorted guitars", "punk drums", "EDM drop"]
+
+  - sub_genre: rnb.alt-rnb
+    instrumentation:
+      drums: ["sparse programmed", "off-grid percussion"]
+      bass: ["muted sub", "occasional bass slide"]
+      keys: ["dusty Rhodes", "ambient pads", "field-recording textures"]
+    vocal_style: { delivery: ["intimate", "breathy", "whispered ad-libs"], effects: ["close-mic", "spring reverb", "tape hiss"] }
+    mix_attributes: { brightness: low-medium, compression: light, width: medium }
+    positive_descriptors: ["dusty Rhodes", "muted sub-bass", "intimate close-mic vocal"]
+    negative_descriptors: ["bright pop snare", "stadium reverb", "EDM build-up"]
+
+  - sub_genre: rnb.neo-soul
+    instrumentation:
+      drums: ["live kit with pocket groove", "ghost notes"]
+      bass: ["fingered electric bass with slides"]
+      keys: ["Wurli", "Rhodes", "Hammond B3"]
+    vocal_style: { delivery: ["warm", "melismatic", "improvisational ad-libs"], effects: ["analog plate", "subtle tape compression"] }
+    mix_attributes: { brightness: medium, compression: moderate, width: medium }
+    positive_descriptors: ["live drum pocket", "Wurlitzer electric piano", "fingered bass with slides"]
+    negative_descriptors: ["trap hi-hats", "autotuned vocals", "EDM elements"]
+
+  - sub_genre: rnb.90s-rnb
+    instrumentation:
+      drums: ["MPC swing", "snare on 2 and 4"]
+      bass: ["deep round bass synth"]
+      keys: ["Rhodes layered with strings"]
+    vocal_style: { delivery: ["powerhouse runs", "group harmonies"], effects: ["lush reverb", "doubled lead"] }
+    mix_attributes: { brightness: medium-high, compression: moderate, width: wide }
+    positive_descriptors: ["MPC swing groove", "lush string pads", "powerhouse vocal runs"]
+    negative_descriptors: ["lo-fi production", "minimalism", "indie-pop snare"]
+
+  - sub_genre: rnb.pbrnb
+    instrumentation:
+      drums: ["spacey programmed", "reverb-drenched claps"]
+      bass: ["filtered sub"]
+      keys: ["dreamy pads", "filtered Rhodes"]
+    vocal_style: { delivery: ["echoey", "layered", "reverb-soaked"], effects: ["heavy plate", "long delay throws"] }
+    mix_attributes: { brightness: low-medium, compression: moderate, width: very wide }
+    positive_descriptors: ["reverb-drenched claps", "filtered sub-bass", "dreamy pad bed"]
+    negative_descriptors: ["dry mix", "live drums", "country instrumentation"]
+
+  - sub_genre: edm.house
+    instrumentation:
+      drums: ["four-on-the-floor kick at 120-128", "off-beat hat", "claps on 2 and 4"]
+      bass: ["sidechained synth bass", "filter modulation"]
+      keys: ["bright pluck pad chords", "stab synth lead", "filter sweeps"]
+    vocal_style:
+      delivery: ["soulful topline vocal", "chopped vocal samples", "extended runs on hooks"]
+      effects: ["sidechained ducking", "long plate reverb", "filter automation"]
+    mix_attributes: { brightness: high, compression: heavy, width: very-wide }
+    positive_descriptors: ["four-on-the-floor", "sidechained synth bass", "filter sweeps", "soulful topline", "house-music aesthetic"]
+    negative_descriptors: ["distorted metal guitar", "trap-808s", "country instrumentation", "hi-hat triplets", "boom-bap drums"]
+
+  - sub_genre: edm.dubstep
+    instrumentation:
+      drums: ["halftime kick-snare on 1 and 3", "sparse hat patterns", "build-up rolls"]
+      bass: ["wobble bass", "growl bass synth", "modulated formant filters"]
+      keys: ["minor-key pad", "pluck synth lead", "filter automation"]
+    vocal_style:
+      delivery: ["vocal chops as a riff instrument", "occasional clean topline on the build-up", "filtered/processed vocals"]
+      effects: ["heavy filter modulation", "vocal pitching/chopping", "stutter edits"]
+    mix_attributes: { brightness: high, compression: brick-walled, width: extreme }
+    positive_descriptors: ["wobble bass", "halftime drums", "filter automation", "vocal chops", "dubstep aesthetic"]
+    negative_descriptors: ["live instruments", "country instrumentation", "boom-bap drums", "soulful topline"]
+
+  - sub_genre: latin.reggaeton
+    instrumentation:
+      drums: ["dembow rhythm (boom-ch-boom-chick)", "snare on the offbeat", "syncopated hat patterns"]
+      bass: ["deep sub-bass on the dembow accents", "synth bass for melodic figures"]
+      keys: ["bright pluck synth lead", "marimba-like pluck", "occasional reggae-style organ stab"]
+    vocal_style:
+      delivery: ["spanish-first delivery", "rapped verses, sung hooks", "ad-lib heavy"]
+      effects: ["light auto-tune on hooks", "doubled vocal on the chorus", "slap-delay throws"]
+    mix_attributes: { brightness: medium-high, compression: heavy, width: wide }
+    positive_descriptors: ["dembow rhythm", "deep sub-bass", "spanish-first vocal", "ad-lib doubles", "modern reggaeton aesthetic"]
+    negative_descriptors: ["country instrumentation", "boom-bap drums", "EDM build-and-drop", "metal guitars"]
+
+  - sub_genre: latin.bachata
+    instrumentation:
+      drums: ["bongos and bachata-bongo pattern", "güira"]
+      bass: ["fingered bass with syncopated walking line"]
+      guitars: ["lead bachata guitar (often Requinto)", "rhythm acoustic"]
+    vocal_style:
+      delivery: ["soulful, romantic spanish-first vocal", "long sustained vowels", "harmonized chorus"]
+      effects: ["light plate reverb", "doubled hook vocal"]
+    mix_attributes: { brightness: medium, compression: moderate, width: medium }
+    positive_descriptors: ["bachata guitar lead (Requinto)", "güira", "syncopated walking bass", "romantic spanish-first vocal"]
+    negative_descriptors: ["trap-808s", "EDM build", "country instrumentation", "metal guitars"]
+
+  - sub_genre: folk.contemporary-folk
+    instrumentation:
+      drums: ["minimal kit or brushes only", "occasional shaker", "subtle tambourine"]
+      bass: ["upright bass", "warm round low-end", "fingered with fingers, no plectrum"]
+      guitars: ["fingerpicked acoustic", "occasional dobro / pedal-steel"]
+      keys: ["upright piano", "occasional harmonium or mellotron"]
+    vocal_style:
+      delivery: ["close-mic intimate", "spoken-sung blend", "single-tracked, no autotune"]
+      effects: ["natural plate reverb", "subtle tape saturation", "room-mic ambience"]
+    mix_attributes: { brightness: low-medium, compression: light, width: narrow-to-medium }
+    positive_descriptors: ["fingerpicked acoustic", "upright bass", "close-mic vocal", "warm room ambience", "contemporary-folk aesthetic"]
+    negative_descriptors: ["trap-808s", "EDM-build", "stadium reverb", "autotune", "club-bass"]
+
+  - sub_genre: folk.indie-folk
+    instrumentation:
+      drums: ["soft live kit or programmed pads", "tasteful brushes"]
+      bass: ["upright or P-bass", "subtle melodic walking line"]
+      guitars: ["clean strummed acoustic + electric tremolo"]
+      keys: ["dusty piano", "ambient pads", "occasional Mellotron"]
+    vocal_style:
+      delivery: ["ethereal close-mic", "harmonized chorus stacks", "occasional falsetto"]
+      effects: ["ambient hall reverb", "tape echo throws", "doubled hooks"]
+    mix_attributes: { brightness: medium, compression: light, width: medium }
+    positive_descriptors: ["ethereal close-mic vocal", "ambient hall reverb", "harmonized stacks", "indie-folk aesthetic"]
+    negative_descriptors: ["trap-808s", "EDM-drop", "metal guitars", "country pickup-truck twang"]
+
+  - sub_genre: soul.classic-soul
+    instrumentation:
+      drums: ["live kit pocketed groove", "tambourine", "hat shimmer"]
+      bass: ["fingered electric bass with motown-style walking line"]
+      keys: ["Wurlitzer or Rhodes", "Hammond B3 with Leslie", "string section pads"]
+      guitars: ["clean-tone Strat with light tremolo", "rhythm-comping electric"]
+      horns: ["Memphis-style horn section stabs", "saxophone solo room"]
+    vocal_style:
+      delivery: ["powerhouse melismatic vocal", "gospel-style runs on chorus payoffs", "long sustained vowels"]
+      effects: ["plate reverb", "doubled lead vocal", "harmony stack on chorus"]
+    mix_attributes: { brightness: medium, compression: moderate, width: wide }
+    positive_descriptors: ["live drum pocket", "Hammond B3", "Memphis horns", "powerhouse melismatic vocal", "classic-soul aesthetic"]
+    negative_descriptors: ["autotune", "trap-808s", "EDM-drop", "metal guitars", "club-bass"]
+
+  - sub_genre: soul.funk
+    instrumentation:
+      drums: ["tight syncopated kit", "syncopated hi-hat", "cowbell on the offbeat"]
+      bass: ["slap-and-pop electric bass as the lead instrument", "syncopated 16th-note line"]
+      keys: ["clavinet", "Rhodes", "synth bass occasional"]
+      guitars: ["scratchy single-note funk guitar", "wah-wah lead"]
+      horns: ["punchy horn stabs", "saxophone soloist"]
+    vocal_style:
+      delivery: ["call-and-response with band", "staccato consonant attacks", "occasional shouted ad-libs"]
+      effects: ["dry-ish vocal", "subtle plate", "doubled hook"]
+    mix_attributes: { brightness: medium-high, compression: heavy, width: medium-wide }
+    positive_descriptors: ["slap-bass lead", "clavinet", "wah-wah guitar", "horn stabs", "70s-funk aesthetic"]
+    negative_descriptors: ["autotune", "EDM-drop", "trap-808s", "metal guitars"]
+
+  - sub_genre: metal.deathcore
+    instrumentation:
+      drums: ["double-kick blast beats", "china cymbal accents", "fast snare patterns"]
+      bass: ["distorted detuned bass", "low-tuned to drop-A or below", "audible pick attack"]
+      guitars: ["downtuned 7/8-string guitar", "djent palm-mute riffs", "breakdown chugs"]
+    vocal_style:
+      delivery: ["guttural lows", "high-screams", "pig-squeal accents", "occasional clean melodic chorus"]
+      effects: ["doubled growls", "minimal reverb on screams", "subtle plate on cleans"]
+    mix_attributes: { brightness: medium-low, compression: brick-walled, width: wide }
+    positive_descriptors: ["downtuned 8-string guitar", "blast beat drums", "guttural growls", "breakdown chugs", "modern deathcore aesthetic"]
+    negative_descriptors: ["clean melodic guitar", "EDM build-and-drop", "trap-808s", "country instrumentation", "autotune-pop"]
+
+  - sub_genre: metal.metalcore
+    instrumentation:
+      drums: ["double-kick patterns", "breakdown halftime sections", "crash on chorus"]
+      bass: ["distorted following the riff", "drop-tuned"]
+      guitars: ["6 or 7-string downtuned riff", "breakdown chugs", "lead melodic harmony"]
+    vocal_style:
+      delivery: ["screamed verses contrast clean-sung chorus", "powerful belt on chorus", "occasional gang-vocal shouts"]
+      effects: ["heavy compression on cleans", "doubled chorus vocal", "subtle plate"]
+    mix_attributes: { brightness: medium, compression: heavy, width: wide }
+    positive_descriptors: ["scream-verse clean-chorus contrast", "breakdown chugs", "drop-tuned guitar", "gang vocal shouts"]
+    negative_descriptors: ["EDM-drop", "trap-808s", "country instrumentation", "autotune-pop", "ironic distance"]
+
+  - sub_genre: rock.alt-rock
+    instrumentation:
+      drums: ["live kit, hard-hit", "snare on 2 and 4", "crash on chorus opener"]
+      bass: ["fingered electric P-bass or J-bass", "punchy round low-end"]
+      guitars: ["distorted electric verse riff", "wall-of-sound chorus", "clean Strat or Tele bridges"]
+      keys: ["occasional Wurlitzer or B3 swell"]
+    vocal_style:
+      delivery: ["chest-voice belt", "rasp on chorus payoffs", "hooky melodic verses"]
+      effects: ["plate reverb", "doubled chorus vocal", "tape saturation"]
+    mix_attributes: { brightness: medium-high, compression: heavy, width: wide }
+    positive_descriptors: ["distorted electric guitars", "live drum kit", "wall-of-sound chorus", "chest-voice belt"]
+    negative_descriptors: ["trap-808s", "hi-hat triplets", "EDM-build", "autotune", "country instrumentation"]
+
+  - sub_genre: rock.indie-rock
+    instrumentation:
+      drums: ["live kit with brushes optional", "snare with light tape compression", "tambourine"]
+      bass: ["P-bass or J-bass, mid-forward", "warm round low-end"]
+      guitars: ["clean Strat or jazzmaster", "chorus pedal swirl", "occasional tremolo"]
+      keys: ["upright piano", "vintage Wurlitzer"]
+    vocal_style:
+      delivery: ["close-mic intimate verses", "single-tracked, no autotune", "moderate dynamics"]
+      effects: ["spring reverb", "subtle slap delay", "tape saturation"]
+    mix_attributes: { brightness: medium, compression: light, width: medium }
+    positive_descriptors: ["jangly clean guitar", "tape-saturated vocal", "live room ambience", "indie-rock aesthetic"]
+    negative_descriptors: ["distorted metal guitars", "stadium reverb", "trap-808s", "EDM elements", "autotune"]
+
+  - sub_genre: country.americana
+    instrumentation:
+      drums: ["live kit with brushes", "tambourine", "subtle shaker"]
+      bass: ["upright bass or P-bass", "warm round bottom"]
+      keys: ["honky-tonk piano", "Wurlitzer", "subtle B3 organ swells"]
+      guitars: ["acoustic strum", "dobro / pedal steel", "telecaster lead with reverb"]
+    vocal_style:
+      delivery: ["story-forward storyteller", "twang light-to-moderate", "intimate close-mic on verses"]
+      effects: ["natural plate reverb", "tape saturation", "occasional slap delay on chorus"]
+    mix_attributes: { brightness: medium, compression: light, width: medium-wide }
+    positive_descriptors:
+      - "acoustic guitar foundation"
+      - "pedal steel"
+      - "live drum kit with brushes"
+      - "honky-tonk piano"
+      - "warm room ambience"
+    negative_descriptors:
+      - "trap-808s"
+      - "EDM build-and-drop"
+      - "auto-tune"
+      - "club bass"
+      - "hi-hat triplets"
+
+  - sub_genre: country.outlaw-country
+    instrumentation:
+      drums: ["live kit, slightly behind the beat", "snare on 2 and 4", "rim-clicks"]
+      bass: ["walking electric or upright", "syncopated"]
+      keys: ["dusty piano", "occasional B3"]
+      guitars: ["Telecaster twang lead", "acoustic strum", "clean electric tremolo"]
+    vocal_style:
+      delivery: ["raw, lived-in baritone", "no-nonsense phrasing", "minimal effects"]
+      effects: ["dry close-mic vocal", "subtle plate", "no autotune"]
+    mix_attributes: { brightness: medium, compression: light, width: medium }
+    positive_descriptors: ["walking bass", "Tele twang lead", "raw lived-in baritone", "Waylon-era outlaw aesthetic"]
+    negative_descriptors: ["pop-country gloss", "autotune", "EDM elements", "trap drums"]
+
+  - sub_genre: afrobeats.modern-afrobeats
+    instrumentation:
+      drums: ["log-drum bass", "kick on the 'one'", "shaker shuffle", "syncopated snares"]
+      bass: ["log-drum bass-as-melodic-instrument", "warm sub backing"]
+      keys: ["bright marimba pluck synth", "soft pad chords", "percussive piano stabs"]
+    vocal_style:
+      delivery: ["melodic, lilting cadence", "english + pidgin/yoruba code-switching", "ad-lib responses"]
+      effects: ["light plate reverb", "subtle vocal doubling on hooks", "minimal autotune"]
+    mix_attributes: { brightness: medium-high, compression: moderate, width: medium-wide }
+    positive_descriptors:
+      - "log-drum bass"
+      - "shaker shuffle"
+      - "kick-on-the-one"
+      - "marimba pluck synth"
+      - "modern-afrobeats Lagos aesthetic"
+    negative_descriptors:
+      - "808 sub-bass"
+      - "trap hi-hat triplets"
+      - "EDM-build-and-drop"
+      - "lush stadium reverb"
+      - "drill triplets"
+
+  - sub_genre: afrobeats.afro-fusion
+    instrumentation:
+      drums: ["live + programmed hybrid", "crisp snare on 4", "brushed shaker"]
+      bass: ["fingered electric bass + log-drum doubled", "warm sustain"]
+      keys: ["dusty Rhodes", "afro-jazz horn stabs", "string-pad bed"]
+    vocal_style:
+      delivery: ["smooth-soulful with grit", "long-vowel sustains on hooks", "english + pidgin"]
+      effects: ["plate reverb", "doubled vocal on hook", "live-room ambience"]
+    mix_attributes: { brightness: medium, compression: moderate, width: wide }
+    positive_descriptors: ["live-and-programmed drum hybrid", "afro-jazz horns", "Rhodes electric piano", "smooth-soulful vocal"]
+    negative_descriptors: ["trap-808s", "EDM drop", "country instrumentation", "gated reverb snare"]
+
+  - sub_genre: rap.trap
+    instrumentation:
+      drums: ["punchy 808 kick", "rolling hi-hat triplets", "snappy snare on 3"]
+      bass: ["sliding 808 sub", "pitch-bent low-end melodies"]
+      keys: ["dark minor-key piano loops", "pluck synth leads", "atmospheric pads"]
+    vocal_style:
+      delivery: ["melodic-sung-rap hybrid", "ad-lib heavy", "auto-tune textured"]
+      effects: ["light auto-tune", "dub-style delay throws", "doubled hooks"]
+    mix_attributes: { brightness: medium-low, compression: heavy, width: wide }
+    positive_descriptors:
+      - "rolling 808 sub-bass"
+      - "hi-hat triplets"
+      - "dark minor piano loop"
+      - "ad-lib doubles"
+      - "modern Atlanta trap aesthetic"
+    negative_descriptors:
+      - "boom-bap drums"
+      - "live band"
+      - "stadium reverb"
+      - "country instrumentation"
+      - "EDM build-and-drop"
+
+  - sub_genre: rap.boom-bap
+    instrumentation:
+      drums: ["MPC-chopped breakbeat", "snare on 2 and 4", "shuffled hi-hat"]
+      bass: ["fingered upright or P-bass loop", "warm round low-end"]
+      keys: ["dusty soul-sample chops", "Rhodes loops", "filtered piano"]
+    vocal_style:
+      delivery: ["spoken-bar precision", "non-melodic delivery", "tight pocket"]
+      effects: ["dry close-mic vocal", "subtle plate", "occasional doubled hook line"]
+    mix_attributes: { brightness: medium, compression: moderate, width: medium }
+    positive_descriptors:
+      - "MPC-chopped breakbeat"
+      - "dusty soul sample"
+      - "fingered upright bass"
+      - "dry close-mic vocal"
+      - "90s NYC boom-bap aesthetic"
+    negative_descriptors:
+      - "808 sub-bass"
+      - "hi-hat triplets"
+      - "auto-tune"
+      - "EDM elements"
+      - "modern trap drums"
+
+  - sub_genre: grime.classic-grime
+    instrumentation:
+      drums: ["square-wave kick", "snappy clap on 2 and 4", "skippy hat 16ths"]
+      bass: ["aggressive square-wave bass", "filter-modulated sub at 138-142bpm"]
+      keys: ["eski-style synth stabs", "string-stab pads", "siren leads"]
+    vocal_style:
+      delivery: ["double-time bars", "chest-voice attack", "clipped consonant ends"]
+      effects: ["dry close-mic", "occasional dub-style delay throw", "ad-lib doubles"]
+    mix_attributes: { brightness: high, compression: heavy, width: medium }
+    positive_descriptors:
+      - "138-142 BPM"
+      - "square-wave bassline"
+      - "eski-style synth stabs"
+      - "skippy hi-hat 16ths"
+      - "dry close-mic vocal"
+      - "London-grime aesthetic"
+    negative_descriptors:
+      - "trap-style 808 sub"
+      - "drill triplets"
+      - "afrobeats log-drum bass"
+      - "American-rap cadence"
+      - "lush reverb on vocal"
+      - "EDM build-and-drop"

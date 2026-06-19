@@ -1,0 +1,34 @@
+slug: country.family
+name: Country / Family (kin, generations, faith)
+description: Country family-and-faith vocabulary — daddy-and-mama, grandparents, the Bible, the church pew. Concrete generational nouns.
+words:
+  - { word: daddy,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: mama,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: pa,          emotional_weight: 0.7, imagery_class: physical }
+  - { word: ma,          emotional_weight: 0.7, imagery_class: physical }
+  - { word: granddaddy,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: grandma,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: pawpaw,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: meemaw,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: uncle,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: cousin,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: brother,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: sister,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: family,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: kin,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: blood,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: home,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: homestead,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: bible,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: gospel,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: amen,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: prayed,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: prayer,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: pew,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: choir,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: hymn,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: hymnal,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: sunday,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: sermon,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: rosary,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: cross,       emotional_weight: 0.7, imagery_class: physical }

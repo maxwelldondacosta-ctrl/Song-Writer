@@ -1,0 +1,29 @@
+slug: afrobeats.love
+name: Afrobeats / Love (devotion, courtship)
+description: Modern-afrobeats love-song vocabulary. Pidgin endearments and Yoruba terms commonly mixed with English in hooks; concrete and warm.
+words:
+  - { word: baby,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: baby-girl,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: omoge,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: love,        emotional_weight: 0.6, imagery_class: abstract }
+  - { word: forever,     emotional_weight: 0.6, imagery_class: abstract }
+  - { word: ride,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: ride-or-die, emotional_weight: 0.7, imagery_class: abstract }
+  - { word: home,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: smile,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: smile-for-me, emotional_weight: 0.7, imagery_class: physical }
+  - { word: melodies,    emotional_weight: 0.7, imagery_class: sensory }
+  - { word: melody,      emotional_weight: 0.7, imagery_class: sensory }
+  - { word: gentle,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: jealous,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: starry,      emotional_weight: 0.7, imagery_class: sensory }
+  - { word: lovely,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: pretty,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: shine,       emotional_weight: 0.6, imagery_class: sensory }
+  - { word: shining,     emotional_weight: 0.6, imagery_class: sensory }
+  - { word: queen,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: ade,         emotional_weight: 0.7, imagery_class: abstract }
+  - { word: dey,         emotional_weight: 0.7, imagery_class: abstract }
+  - { word: wahala,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: oya,         emotional_weight: 0.7, imagery_class: abstract }
+  - { word: come-make,   emotional_weight: 0.7, imagery_class: abstract }

@@ -1,0 +1,56 @@
+slug: young-thug
+display_name: Young Thug
+real_name: Jeffery Lamar Williams
+era: 2011-present
+primary_genre: rap
+role: self-writing-artist
+sub_genres: [trap, melodic-rap, slime]
+notable_credits:
+  - "Lifestyle"
+  - "Best Friend"
+  - "Digits"
+  - "Hot"
+  - "Wyclef Jean"
+craft_signature:
+  - "Non-word vocalizations — chirps, yelps, slides — function as melodic punctuation between lyrical phrases."
+  - "Flow ignores bar structure intentionally; syllables skate across beats rather than landing on them."
+  - "Radical slang-creation: 'slime' as endearment, 'barter' as lifestyle concept — owns the vocabulary he coins."
+  - "Fluid genre blur: same song can be sung-rap, full singing, and percussive flow in successive bars."
+  - "Luxury imagery through brand-name stacking rather than description — the brand name IS the image."
+personality_traits: [eccentric, loyal, fashion-forward, improvisational]
+writing_style:
+  avg_line_syllables: 10
+  rhyme_density: low-moderate
+  internal_rhyme_freq: low
+  end_rhyme_strictness: near-and-vowel-echo-only
+  narrative_mode: impressionistic
+  perspective_default: first-person
+  imagery_emphasis: low
+  signature_devices: [non-word-vocalization, beat-agnostic-flow, brand-as-image]
+preferred_cadences: [melodic-glide, trap-bounce, hybrid]
+vocab_fingerprint:
+  signature_words: [slime, barter, digits, gang, drip, love, best, wrong]
+  semantic_anchors: [loyalty, luxury, street-code, romance]
+  avoided_words: [anthem, soldier, journey, neon]
+phonetic_fingerprint:
+  vowel_preference: long-I, diphthong, short-E
+  attack_profile: soft
+  consonant_density: low
+structure_preferences:
+  preferred_template: rap.trap-anthem
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-4
+hook_style: melodic-incantation
+reference_tracks:
+  - "Best Friend"
+  - "Digits"
+adoption_prompt: |
+  Write in the Young Thug craft mode: non-word vocalizations (chirps, yelps,
+  slides) are melodic punctuation — include them as lyrical elements. Flow
+  should skate across the beat rather than landing squarely on it; ignore
+  strict bar structure. Coin or use Thug-adjacent slang naturally — 'slime'
+  (endearment), 'barter' (lifestyle), 'digits' (status). Brand names alone
+  carry imagery — no description needed. Blend sung and rapped delivery
+  within the same section. Rhyme density is low; near-rhyme and vowel echo
+  preferred over strict perfect rhyme. Avoid anthemic or narrative-journey
+  vocabulary.

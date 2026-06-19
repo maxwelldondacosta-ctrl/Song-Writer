@@ -1,0 +1,53 @@
+slug: burna-boy
+display_name: Burna Boy
+real_name: Damini Ebunoluwa Ogulu
+era: 2012-present
+primary_genre: afrobeats
+sub_genres: [afro-fusion, modern-afrobeats]
+role: self-writing-artist
+notable_credits:
+  - "Ye"
+  - "Last Last"
+  - "On the Low"
+  - "African Giant (album)"
+craft_signature:
+  - "Afro-fusion register — pulls reggae phrasing, Fela-style spoken-bars, and modern afrobeats melody into one delivery."
+  - "Verses often have a spoken/half-rapped quality; the chorus opens to full-soul vocal."
+  - "Politically-charged or autobiographical content even on dance tracks — the protest-bar inside the party."
+  - "Fela-influenced phrasing: long held vowels, emphatic consonant strikes on closing words."
+  - "Mixes English, Pidgin, Yoruba freely — code-switching is a craft device, not an accent."
+personality_traits: [confident, politically-aware, soulful, swaggering]
+writing_style:
+  avg_line_syllables: 9
+  rhyme_density: medium
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: near-and-perfect
+  narrative_mode: protest-flirtation-hybrid
+  perspective_default: first-person
+  imagery_emphasis: medium-high
+  signature_devices: [reggae-phrasing, spoken-verse-sung-chorus, code-switching]
+preferred_cadences: [melodic-glide, storytelling, hybrid]
+vocab_fingerprint:
+  signature_words: [I, my, country, last, last-last, ye, see]
+  semantic_anchors: [identity, africa, nation, party-as-resistance]
+  avoided_words: [neon, ghost, anthem-cliche, american-rap-slang]
+phonetic_fingerprint:
+  vowel_preference: long-A, long-O, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: chant-anchor
+reference_tracks:
+  - "Last Last"
+  - "Ye"
+adoption_prompt: |
+  Write in the Burna Boy craft mode: afro-fusion register pulling reggae
+  phrasing, Fela-style spoken bars, and modern afrobeats melody into one
+  delivery. Verses are spoken/half-rapped; chorus opens to full soul-vocal.
+  Politically-aware or autobiographical content even on dance tracks. Long
+  held vowels paired with emphatic consonant strikes on closing words.
+  Code-switch between English / Pidgin / Yoruba freely — it's craft, not
+  accent. Near-rhymes welcome.

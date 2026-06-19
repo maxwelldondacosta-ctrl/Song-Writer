@@ -1,0 +1,55 @@
+slug: max-martin
+display_name: Max Martin
+real_name: Karl Martin Sandberg
+era: 1995-present
+primary_genre: pop
+role: producer-songwriter
+sub_genres: [pop, dance-pop, synth-pop]
+notable_credits:
+  - "...Baby One More Time"
+  - "I Want It That Way"
+  - "Since U Been Gone"
+  - "Roar"
+  - "Blank Space"
+craft_signature:
+  - "'Melodic math' — choruses are constructed so each line's melodic peak lands on a strong accent and a short, percussive consonant."
+  - "Pre-choruses tighten cadence and shorten note values to telegraph the chorus drop."
+  - "Repetition with one-word substitution between verses ('I' → 'you', 'said' → 'meant') as a structural device."
+  - "Short, percussive monosyllables in hooks (it, hit, this, kiss, miss)."
+  - "Title is a 2-4 word phrase that scans as the strongest cadence in the chorus."
+personality_traits: [precise, rhythmic, structural, ear-first]
+writing_style:
+  avg_line_syllables: 7
+  rhyme_density: medium
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: hook-summary
+  perspective_default: first-or-second-person
+  imagery_emphasis: low
+  signature_devices: [percussive-hook, parallel-substitution-between-verses, melodic-math]
+preferred_cadences: [pop-hook, punchline, straight-4-beat]
+vocab_fingerprint:
+  signature_words: [it, hit, this, kiss, miss, baby, way, do, did, want]
+  semantic_anchors: [direct-address, want, do]
+  avoided_words: [philosophical, abstract, multi-syllabic, complex-metaphor]
+  vowel_priority_words: [it, hit, this, kiss, miss]   # short percussive monosyllables
+phonetic_fingerprint:
+  vowel_preference: short-I, short-A, short-E
+  attack_profile: hard
+  consonant_density: high
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: percussive-monosyllabic
+reference_tracks:
+  - "...Baby One More Time"
+  - "I Want It That Way"
+adoption_prompt: |
+  Write in the Max Martin craft mode: 'melodic math' hooks where each chorus
+  line's melodic peak lands on a short percussive consonant and a short vowel
+  ('it', 'this', 'hit', 'kiss', 'miss'). Pre-chorus tightens cadence and
+  shortens note values. Use parallel substitution between verses (one word
+  swaps between verse 1 and verse 2). Title is a 2-4 word phrase that scans
+  as the strongest cadence in the chorus. Keep imagery low; let the melodic
+  contour and consonant attack carry the hook.

@@ -1,0 +1,25 @@
+slug: pop.late-night
+name: Pop / Late-Night (2am, after-party mood, phone-lit dark)
+description: Pop's post-midnight register — not EDM's rave night but the specific 2am mood of texting an ex, driving alone, neon-through-rain. Phoebe Bridgers meets The 1975.
+words:
+  - { word: two-am,      emotional_weight: 0.9, imagery_class: physical }
+  - { word: three-am,    emotional_weight: 0.9, imagery_class: physical }
+  - { word: phone,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: screen,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: lit,         emotional_weight: 0.6, imagery_class: physical }
+  - { word: dark,        emotional_weight: 0.6, imagery_class: sensory }
+  - { word: driving,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: highway,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: streetlight, emotional_weight: 0.8, imagery_class: physical }
+  - { word: rain,        emotional_weight: 0.6, imagery_class: physical, ai_bias_flag: true }
+  - { word: wet,         emotional_weight: 0.6, imagery_class: physical }
+  - { word: windows,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: scrolling,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: typing,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: deleted,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: sent,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: playlist,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: song,        emotional_weight: 0.5, imagery_class: abstract }
+  - { word: awake,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: can't-sleep, emotional_weight: 0.8, imagery_class: abstract }
+  - { word: everybody,   emotional_weight: 0.5, imagery_class: abstract }

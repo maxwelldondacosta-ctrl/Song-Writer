@@ -1,0 +1,25 @@
+slug: metal.defiance
+name: Metal / Defiance (war, uprising, standing against)
+description: "Metal's defiance register — the war cry, the uprising, the refusal to kneel. Distinct from grime's street defiance: mythic scale, battle imagery, shields and fire."
+words:
+  - { word: war,         emotional_weight: 0.9, imagery_class: abstract }
+  - { word: battle,      emotional_weight: 0.8, imagery_class: abstract }
+  - { word: stand,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: standing,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: rise,        emotional_weight: 0.8, imagery_class: abstract }
+  - { word: rising,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: never-kneel, emotional_weight: 0.9, imagery_class: abstract }
+  - { word: never-bow,   emotional_weight: 0.9, imagery_class: abstract }
+  - { word: forge,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: forged,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: iron,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: steel,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: blade,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: shield,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: breach,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: empire,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: throne,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: tyrant,      emotional_weight: 0.8, imagery_class: abstract }
+  - { word: defiant,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: unyielding,  emotional_weight: 0.8, imagery_class: abstract }
+  - { word: blood-sworn, emotional_weight: 0.8, imagery_class: abstract }

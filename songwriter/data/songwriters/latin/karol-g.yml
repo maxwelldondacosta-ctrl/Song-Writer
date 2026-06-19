@@ -1,0 +1,52 @@
+slug: karol-g
+display_name: Karol G
+real_name: Carolina Giraldo Navarro
+era: 2006-present
+primary_genre: latin
+sub_genres: [reggaeton, latin-pop, latin-trap]
+role: self-writing-artist
+notable_credits:
+  - "TQG"
+  - "Provenza"
+  - "MAÑANA SERÁ BONITO"
+  - "Bichota"
+craft_signature:
+  - "Self-empowerment narrative — verses paint a self-portrait of taking back power, chorus declares it."
+  - "Colombian Spanish phrasing and slang ('parcera', 'bichota') as a craft anchor."
+  - "Long-vowel sustained chorus payoffs; sings the chorus, doesn't rap it."
+  - "Romantic-defiance content: the love song that's actually a power statement."
+  - "Hooks built around a single empowering phrase repeated 3-4 times."
+personality_traits: [defiant, glamorous, colombian-anchored, empowered]
+writing_style:
+  avg_line_syllables: 8
+  rhyme_density: medium
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: empowerment-narrative
+  perspective_default: first-person
+  imagery_emphasis: medium-high
+  signature_devices: [self-portrait-into-declaration, colombian-spanish-anchor, sustained-chorus]
+preferred_cadences: [pop-hook, melodic-glide, hybrid]
+vocab_fingerprint:
+  signature_words: [yo, mía, bichota, pa-mí, nadie, sola]
+  semantic_anchors: [self-empowerment, colombian-anchor, post-breakup-power]
+  avoided_words: [victim-mode, anthem-cliche, generic-flex]
+phonetic_fingerprint:
+  vowel_preference: long-A, long-O, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 3-4
+hook_style: empowerment-stamp
+reference_tracks:
+  - "TQG"
+  - "Bichota"
+adoption_prompt: |
+  Write in the Karol G craft mode: self-empowerment narrative. Verse paints
+  a self-portrait of taking back power; chorus declares it. Colombian
+  Spanish phrasing and slang ('parcera', 'bichota') as craft anchor.
+  Long-vowel sustained chorus payoffs — sing the chorus, don't rap it.
+  Romantic-defiance content: the love song that's actually a power
+  statement. Hook is a single empowering phrase repeated 3-4 times.

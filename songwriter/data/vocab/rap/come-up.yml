@@ -1,0 +1,37 @@
+slug: rap.come-up
+name: Rap / Come-up (climbing-from-nothing)
+description: The come-up arc vocabulary — broke days, the grind, ledger flipped, mama's house to mansion. Specific not generic; numbers and objects, not abstractions.
+words:
+  - { word: broke,       emotional_weight: 0.8, imagery_class: abstract }
+  - { word: broker,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: cheap,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: rented,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: section-eight, emotional_weight: 0.8, imagery_class: physical }
+  - { word: foodstamps,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: stamps,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: bench,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: bus,         emotional_weight: 0.6, imagery_class: physical }
+  - { word: train,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: subway,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: mat,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: hustle,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: hustled,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: hustling,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: grind,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: grinded,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: grinding,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: shifted,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: stacked,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: flipped,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: ledger,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: receipts,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: deposit,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: zelle,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: cashapp,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: signed,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: deal,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: advance,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: charted,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: plaque,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: platinum,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: gold,        emotional_weight: 0.6, imagery_class: physical }

@@ -1,0 +1,28 @@
+slug: edm.euphoria
+name: EDM / Euphoria (peak-moment chant vocab)
+description: The hands-up euphoria-chant register. Short, monosyllabic, easy-to-shout. Avoids elaborate imagery — EDM hooks need to land instantly with a crowd.
+words:
+  - { word: high,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: up,          emotional_weight: 0.7, imagery_class: physical }
+  - { word: free,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: alive,       emotional_weight: 0.8, imagery_class: abstract }
+  - { word: feel,        emotional_weight: 0.6, imagery_class: physical, ai_bias_flag: true }
+  - { word: rush,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: wave,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: waves,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: lift,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: lifted,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: fly,         emotional_weight: 0.7, imagery_class: abstract }
+  - { word: flying,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: fire,        emotional_weight: 0.6, imagery_class: physical, ai_bias_flag: true }
+  - { word: burning,     emotional_weight: 0.6, imagery_class: physical, ai_bias_flag: true }
+  - { word: shake,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: break,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: drop,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: pulse,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: beat,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: bass,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: dance,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: dancing,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: tonight,     emotional_weight: 0.5, imagery_class: abstract, cliche_flag: true, ai_bias_flag: true }
+  - { word: forever,     emotional_weight: 0.5, imagery_class: abstract, cliche_flag: true }

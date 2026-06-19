@@ -1,0 +1,24 @@
+slug: edm.yearning
+name: EDM / Yearning (vocal-house and emotional-EDM register)
+description: For the vocal-house / emotional-EDM space — the longing-on-the-dance-floor register. Concrete reaching/holding/missing imagery.
+words:
+  - { word: hold,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: holding,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: reach,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: reaching,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: missing,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: gone,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: lost,        emotional_weight: 0.7, imagery_class: abstract, ai_bias_flag: true }
+  - { word: again,       emotional_weight: 0.6, imagery_class: abstract }
+  - { word: stay,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: stayed,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: leave,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: leaving,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: come-back,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: home,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: tonight,     emotional_weight: 0.5, imagery_class: abstract, ai_bias_flag: true }
+  - { word: closer,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: deeper,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: harder,      emotional_weight: 0.6, imagery_class: abstract }
+  - { word: love,        emotional_weight: 0.6, imagery_class: abstract, ai_bias_flag: true }
+  - { word: heart,       emotional_weight: 0.5, imagery_class: physical, ai_bias_flag: true }

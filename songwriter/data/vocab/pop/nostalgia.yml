@@ -1,0 +1,20 @@
+slug: pop.nostalgia
+name: Pop / Nostalgia
+description: Looking-backward vocabulary, anchored in specific objects/places rather than "remember when".
+words:
+  - { word: polaroid,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: cassette,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: bedroom,     emotional_weight: 0.7, imagery_class: sensory }
+  - { word: backseat,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: cigarette,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: parking,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: pavement,    emotional_weight: 0.6, imagery_class: sensory }
+  - { word: porch,       emotional_weight: 0.7, imagery_class: sensory }
+  - { word: window,      emotional_weight: 0.6, imagery_class: sensory }
+  - { word: summer,      emotional_weight: 0.6, imagery_class: sensory }
+  - { word: cracked,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: taped,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: faded,       emotional_weight: 0.6, imagery_class: sensory }
+  - { word: handwritten, emotional_weight: 0.7, imagery_class: physical }
+  - { word: kitchen,     emotional_weight: 0.6, imagery_class: sensory }
+  - { word: jukebox,     emotional_weight: 0.7, imagery_class: physical }

@@ -1,0 +1,27 @@
+slug: rock.friction
+name: Rock / Friction (interpersonal conflict)
+description: The we-fight, I-leave, you-came-back vocabulary — interpersonal rock-song friction. Specific concrete actions, not generic "we don't talk".
+words:
+  - { word: said,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: yelled,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: slammed,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: walked,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: walked-out,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: bolted,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: stayed,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: sat,         emotional_weight: 0.6, imagery_class: physical }
+  - { word: cried,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: laughed,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: argued,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: door,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: doorway,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: keys,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: phone,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: voicemail,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: text,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: unread,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: blocked,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: deleted,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: archive,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: meant,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: mean,        emotional_weight: 0.6, imagery_class: abstract }

@@ -1,0 +1,130 @@
+entries:
+  # POP — DANCE-POP
+  - { emotion: escalation,  sub_genre: pop.dance-pop, bpm_min: 116, bpm_max: 126, energy_curve: [0.4,0.55,0.75,0.9,1.0],         anti_prompts: [ballad, melancholic, sparse] }
+  - { emotion: defiance,    sub_genre: pop.dance-pop, bpm_min: 118, bpm_max: 128, energy_curve: [0.5,0.7,0.85,1.0,1.0],          anti_prompts: [ballad, intimate, whisper] }
+  - { emotion: surrender,   sub_genre: pop.dance-pop, bpm_min: 100, bpm_max: 110, energy_curve: [0.4,0.55,0.7,0.85,0.7],         anti_prompts: [aggressive, EDM-drop] }
+
+  # POP — SYNTH-POP
+  - { emotion: nostalgia,   sub_genre: pop.synth-pop, bpm_min: 100, bpm_max: 116, energy_curve: [0.35,0.5,0.7,0.65,0.8],          anti_prompts: [trap, autotune-heavy] }
+  - { emotion: redemption,  sub_genre: pop.synth-pop, bpm_min: 104, bpm_max: 118, energy_curve: [0.4,0.55,0.7,0.85,1.0],          anti_prompts: [collapse-mood, lo-fi] }
+
+  # POP — INDIE-POP
+  - { emotion: collapse,    sub_genre: pop.indie-pop, bpm_min: 88,  bpm_max: 104, energy_curve: [0.45,0.55,0.4,0.6,0.45],         anti_prompts: [club, EDM-drop, four-on-the-floor] }
+  - { emotion: nostalgia,   sub_genre: pop.indie-pop, bpm_min: 92,  bpm_max: 108, energy_curve: [0.4,0.55,0.65,0.6,0.7],          anti_prompts: [trap, autotune-heavy] }
+
+  # POP — HYPERPOP
+  - { emotion: defiance,    sub_genre: pop.hyperpop,  bpm_min: 150, bpm_max: 168, energy_curve: [0.7,0.9,1.0,1.0,1.0],            anti_prompts: [ballad, organic-instruments] }
+
+  # POP — ALT-POP
+  - { emotion: collapse,    sub_genre: pop.alt-pop,   bpm_min: 86,  bpm_max: 102, energy_curve: [0.35,0.45,0.4,0.55,0.5],         anti_prompts: [club, four-on-the-floor] }
+  - { emotion: surrender,   sub_genre: pop.alt-pop,   bpm_min: 80,  bpm_max: 96,  energy_curve: [0.3,0.45,0.55,0.5,0.65],         anti_prompts: [club, EDM-build] }
+
+  # POP — COUNTRY-POP
+  - { emotion: redemption,  sub_genre: pop.country-pop, bpm_min: 96,  bpm_max: 116, energy_curve: [0.4,0.55,0.7,0.8,0.95],        anti_prompts: [trap, EDM-drop, autotune-heavy] }
+  - { emotion: nostalgia,   sub_genre: pop.country-pop, bpm_min: 90,  bpm_max: 106, energy_curve: [0.4,0.5,0.6,0.65,0.75],        anti_prompts: [trap, EDM-drop] }
+
+  # R&B — CONTEMPORARY
+  - { emotion: surrender,   sub_genre: rnb.contemporary-rnb, bpm_min: 72, bpm_max: 88, energy_curve: [0.35,0.45,0.6,0.75,0.65],   anti_prompts: [aggressive, EDM-drop, four-on-the-floor] }
+  - { emotion: escalation,  sub_genre: rnb.contemporary-rnb, bpm_min: 84, bpm_max: 100, energy_curve: [0.4,0.55,0.7,0.85,0.95],   anti_prompts: [punk-drums, distorted-guitar] }
+
+  # R&B — ALT-RNB
+  - { emotion: surrender,   sub_genre: rnb.alt-rnb,   bpm_min: 64,  bpm_max: 78,  energy_curve: [0.25,0.4,0.55,0.7,0.55],         anti_prompts: [bright-pop-snare, stadium-reverb, EDM-build] }
+  - { emotion: collapse,    sub_genre: rnb.alt-rnb,   bpm_min: 60,  bpm_max: 76,  energy_curve: [0.3,0.4,0.35,0.5,0.45],          anti_prompts: [club, EDM-build, autotune-heavy] }
+  - { emotion: nostalgia,   sub_genre: rnb.alt-rnb,   bpm_min: 68,  bpm_max: 82,  energy_curve: [0.3,0.45,0.55,0.6,0.5],          anti_prompts: [bright, club] }
+
+  # R&B — NEO-SOUL
+  - { emotion: redemption,  sub_genre: rnb.neo-soul,  bpm_min: 76,  bpm_max: 92,  energy_curve: [0.4,0.55,0.7,0.8,0.95],          anti_prompts: [trap, autotune-heavy, EDM] }
+  - { emotion: nostalgia,   sub_genre: rnb.neo-soul,  bpm_min: 72,  bpm_max: 86,  energy_curve: [0.35,0.5,0.6,0.7,0.65],          anti_prompts: [trap, club] }
+
+  # R&B — 90s
+  - { emotion: escalation,  sub_genre: rnb.90s-rnb,   bpm_min: 84,  bpm_max: 100, energy_curve: [0.4,0.55,0.7,0.85,0.95],         anti_prompts: [lo-fi, indie-snare, minimal] }
+  - { emotion: defiance,    sub_genre: rnb.90s-rnb,   bpm_min: 88,  bpm_max: 102, energy_curve: [0.5,0.65,0.8,0.95,1.0],          anti_prompts: [lo-fi, minimal] }
+
+  # R&B — PBRNB
+  - { emotion: collapse,    sub_genre: rnb.pbrnb,     bpm_min: 60,  bpm_max: 76,  energy_curve: [0.3,0.4,0.35,0.5,0.45],          anti_prompts: [dry-mix, live-drums, country-instrumentation] }
+  - { emotion: surrender,   sub_genre: rnb.pbrnb,     bpm_min: 64,  bpm_max: 80,  energy_curve: [0.3,0.45,0.6,0.7,0.55],          anti_prompts: [bright, four-on-the-floor] }
+
+  # EDM — HOUSE
+  - { emotion: escalation,  sub_genre: edm.house,                 bpm_min: 120, bpm_max: 128, energy_curve: [0.4,0.6,0.85,1.0,1.0],     anti_prompts: [country-instrumentation, trap-808, autotune-rap] }
+  - { emotion: surrender,   sub_genre: edm.house,                 bpm_min: 118, bpm_max: 124, energy_curve: [0.35,0.55,0.75,0.85,0.7],  anti_prompts: [country-instrumentation, distorted-guitar, trap-808] }
+
+  # EDM — DUBSTEP
+  - { emotion: defiance,    sub_genre: edm.dubstep,               bpm_min: 138, bpm_max: 142, energy_curve: [0.4,0.7,1.0,0.95,1.0],     anti_prompts: [live-instruments, country-instrumentation, boom-bap] }
+
+  # LATIN — REGGAETON
+  - { emotion: defiance,    sub_genre: latin.reggaeton,           bpm_min: 90,  bpm_max: 100, energy_curve: [0.5,0.7,0.85,1.0,0.95],    anti_prompts: [country-instrumentation, metal-guitars, EDM-build] }
+  - { emotion: surrender,   sub_genre: latin.reggaeton,           bpm_min: 88,  bpm_max: 98,  energy_curve: [0.4,0.55,0.7,0.85,0.75],   anti_prompts: [metal-guitars, EDM-build, anthem-cliche] }
+  - { emotion: nostalgia,   sub_genre: latin.reggaeton,           bpm_min: 88,  bpm_max: 96,  energy_curve: [0.4,0.55,0.7,0.65,0.75],   anti_prompts: [metal-guitars, country-instrumentation] }
+
+  # LATIN — BACHATA
+  - { emotion: surrender,   sub_genre: latin.bachata,             bpm_min: 120, bpm_max: 128, energy_curve: [0.4,0.55,0.7,0.85,0.7],    anti_prompts: [trap-808, EDM-build, metal-guitars] }
+  - { emotion: redemption,  sub_genre: latin.bachata,             bpm_min: 120, bpm_max: 130, energy_curve: [0.45,0.6,0.8,0.95,1.0],    anti_prompts: [trap-808, EDM-build, metal-guitars] }
+
+  # FOLK — CONTEMPORARY-FOLK
+  - { emotion: nostalgia,   sub_genre: folk.contemporary-folk,    bpm_min: 70,  bpm_max: 95,  energy_curve: [0.35,0.5,0.65,0.6,0.7],    anti_prompts: [trap-808, EDM-build, autotune, club-bass, stadium-reverb] }
+  - { emotion: surrender,   sub_genre: folk.contemporary-folk,    bpm_min: 70,  bpm_max: 90,  energy_curve: [0.3,0.45,0.6,0.7,0.6],     anti_prompts: [trap-808, EDM-build, club-bass, autotune] }
+  - { emotion: collapse,    sub_genre: folk.contemporary-folk,    bpm_min: 65,  bpm_max: 85,  energy_curve: [0.4,0.5,0.4,0.55,0.5],     anti_prompts: [trap-808, EDM-build, club-bass] }
+
+  # FOLK — INDIE-FOLK
+  - { emotion: nostalgia,   sub_genre: folk.indie-folk,           bpm_min: 75,  bpm_max: 100, energy_curve: [0.4,0.55,0.7,0.65,0.75],   anti_prompts: [trap-808, EDM-drop, metal-guitars, club-bass] }
+  - { emotion: surrender,   sub_genre: folk.indie-folk,           bpm_min: 70,  bpm_max: 95,  energy_curve: [0.35,0.5,0.65,0.75,0.65],  anti_prompts: [trap-808, EDM-drop, club-bass] }
+
+  # SOUL — CLASSIC-SOUL
+  - { emotion: redemption,  sub_genre: soul.classic-soul,         bpm_min: 85,  bpm_max: 105, energy_curve: [0.45,0.6,0.8,0.95,1.0],    anti_prompts: [autotune, trap-808, EDM-drop, metal-guitars] }
+  - { emotion: surrender,   sub_genre: soul.classic-soul,         bpm_min: 75,  bpm_max: 95,  energy_curve: [0.4,0.55,0.7,0.85,0.75],   anti_prompts: [autotune, trap-808, EDM-drop, club-bass] }
+  - { emotion: nostalgia,   sub_genre: soul.classic-soul,         bpm_min: 80,  bpm_max: 100, energy_curve: [0.4,0.55,0.7,0.65,0.75],   anti_prompts: [autotune, trap-808, EDM-drop] }
+
+  # SOUL — FUNK
+  - { emotion: defiance,    sub_genre: soul.funk,                 bpm_min: 100, bpm_max: 115, energy_curve: [0.55,0.7,0.85,1.0,1.0],    anti_prompts: [autotune, EDM-drop, metal-guitars, trap-808] }
+  - { emotion: escalation,  sub_genre: soul.funk,                 bpm_min: 95,  bpm_max: 110, energy_curve: [0.5,0.7,0.85,0.95,1.0],    anti_prompts: [autotune, EDM-drop, metal-guitars] }
+
+  # METAL — DEATHCORE
+  - { emotion: defiance,    sub_genre: metal.deathcore,           bpm_min: 140, bpm_max: 200, energy_curve: [0.7,0.9,1.0,0.95,1.0],     anti_prompts: [autotune-pop, EDM-drop, country-instrumentation, clean-melodic-guitar] }
+  - { emotion: collapse,    sub_genre: metal.deathcore,           bpm_min: 130, bpm_max: 180, energy_curve: [0.6,0.8,0.9,1.0,0.85],     anti_prompts: [autotune-pop, EDM-drop, country-instrumentation] }
+
+  # METAL — METALCORE
+  - { emotion: defiance,    sub_genre: metal.metalcore,           bpm_min: 130, bpm_max: 175, energy_curve: [0.6,0.85,1.0,0.9,1.0],     anti_prompts: [autotune-pop, EDM-drop, ironic-distance] }
+  - { emotion: redemption,  sub_genre: metal.metalcore,           bpm_min: 130, bpm_max: 170, energy_curve: [0.55,0.75,0.9,1.0,1.0],    anti_prompts: [autotune-pop, EDM-drop, country-instrumentation] }
+
+  # ROCK — ALT-ROCK
+  - { emotion: defiance,    sub_genre: rock.alt-rock,             bpm_min: 110, bpm_max: 140, energy_curve: [0.55,0.7,0.85,1.0,1.0],    anti_prompts: [trap-808, EDM-drop, country-instrumentation, autotune] }
+  - { emotion: collapse,    sub_genre: rock.alt-rock,             bpm_min: 95,  bpm_max: 120, energy_curve: [0.5,0.65,0.5,0.7,0.6],     anti_prompts: [club-bass, hi-hat-triplets, autotune] }
+  - { emotion: escalation,  sub_genre: rock.alt-rock,             bpm_min: 105, bpm_max: 135, energy_curve: [0.4,0.6,0.8,0.95,1.0],     anti_prompts: [autotune, trap-808, country-instrumentation] }
+
+  # ROCK — INDIE-ROCK
+  - { emotion: nostalgia,   sub_genre: rock.indie-rock,           bpm_min: 95,  bpm_max: 120, energy_curve: [0.45,0.6,0.7,0.65,0.75],   anti_prompts: [stadium-reverb, autotune, trap-808] }
+  - { emotion: surrender,   sub_genre: rock.indie-rock,           bpm_min: 88,  bpm_max: 110, energy_curve: [0.4,0.55,0.7,0.8,0.7],     anti_prompts: [stadium-reverb, EDM-drop, club-bass] }
+
+  # COUNTRY — AMERICANA
+  - { emotion: nostalgia,   sub_genre: country.americana,         bpm_min: 80,  bpm_max: 100, energy_curve: [0.4,0.55,0.7,0.65,0.75],   anti_prompts: [trap-808, EDM-drop, autotune, club-bass] }
+  - { emotion: collapse,    sub_genre: country.americana,         bpm_min: 75,  bpm_max: 95,  energy_curve: [0.45,0.55,0.4,0.55,0.5],   anti_prompts: [trap-808, EDM-drop, club-bass] }
+  - { emotion: redemption,  sub_genre: country.americana,         bpm_min: 90,  bpm_max: 110, energy_curve: [0.4,0.55,0.7,0.85,0.95],   anti_prompts: [trap-808, EDM-drop, hi-hat-triplets] }
+
+  # COUNTRY — OUTLAW
+  - { emotion: defiance,    sub_genre: country.outlaw-country,    bpm_min: 95,  bpm_max: 115, energy_curve: [0.55,0.7,0.85,0.95,1.0],   anti_prompts: [pop-country-gloss, autotune, EDM-drop] }
+  - { emotion: nostalgia,   sub_genre: country.outlaw-country,    bpm_min: 88,  bpm_max: 105, energy_curve: [0.45,0.6,0.7,0.65,0.75],   anti_prompts: [pop-country-gloss, autotune, club-bass] }
+
+  # AFROBEATS — MODERN
+  - { emotion: surrender,   sub_genre: afrobeats.modern-afrobeats, bpm_min: 105, bpm_max: 115, energy_curve: [0.4,0.55,0.75,0.85,0.8],   anti_prompts: [trap-808, EDM-drop, ballad, drill] }
+  - { emotion: redemption,  sub_genre: afrobeats.modern-afrobeats, bpm_min: 108, bpm_max: 118, energy_curve: [0.4,0.6,0.8,0.95,1.0],     anti_prompts: [trap-808, drill, country-instrumentation] }
+  - { emotion: nostalgia,   sub_genre: afrobeats.modern-afrobeats, bpm_min: 100, bpm_max: 112, energy_curve: [0.4,0.55,0.7,0.65,0.75],   anti_prompts: [trap-808, drill, EDM-drop] }
+
+  # AFROBEATS — AFRO-FUSION
+  - { emotion: surrender,   sub_genre: afrobeats.afro-fusion,      bpm_min: 95,  bpm_max: 110, energy_curve: [0.4,0.55,0.7,0.85,0.75],   anti_prompts: [trap-808, EDM-drop, drill, gated-reverb] }
+  - { emotion: redemption,  sub_genre: afrobeats.afro-fusion,      bpm_min: 100, bpm_max: 115, energy_curve: [0.45,0.6,0.8,0.95,1.0],    anti_prompts: [trap-808, drill, country-instrumentation] }
+
+  # RAP — TRAP
+  - { emotion: defiance,    sub_genre: rap.trap,      bpm_min: 140, bpm_max: 160, energy_curve: [0.5,0.7,0.9,1.0,0.95],   anti_prompts: [boom-bap, EDM-drop, ballad, lush-strings] }
+  - { emotion: escalation,  sub_genre: rap.trap,      bpm_min: 138, bpm_max: 158, energy_curve: [0.4,0.6,0.8,0.95,1.0],   anti_prompts: [boom-bap, ballad, country-instrumentation] }
+  - { emotion: nostalgia,   sub_genre: rap.trap,      bpm_min: 130, bpm_max: 150, energy_curve: [0.4,0.55,0.7,0.65,0.75], anti_prompts: [EDM-drop, anthem-cliche, ballad] }
+
+  # RAP — BOOM-BAP
+  - { emotion: nostalgia,   sub_genre: rap.boom-bap,  bpm_min: 85,  bpm_max: 95,  energy_curve: [0.5,0.6,0.7,0.65,0.75],  anti_prompts: [trap-808, hi-hat-triplets, EDM-drop, autotune] }
+  - { emotion: defiance,    sub_genre: rap.boom-bap,  bpm_min: 90,  bpm_max: 100, energy_curve: [0.55,0.7,0.85,0.9,1.0],  anti_prompts: [trap-808, hi-hat-triplets, autotune] }
+  - { emotion: redemption,  sub_genre: rap.boom-bap,  bpm_min: 88,  bpm_max: 98,  energy_curve: [0.45,0.6,0.75,0.85,0.95], anti_prompts: [trap-808, hi-hat-triplets, EDM-drop] }
+
+  # GRIME — CLASSIC-GRIME (140 BPM ±2 is the canon)
+  - { emotion: defiance,    sub_genre: grime.classic-grime, bpm_min: 138, bpm_max: 142, energy_curve: [0.6,0.85,1.0,0.95,1.0],   anti_prompts: [trap-808, drill-triplets, american-rap-cadence, ballad] }
+  - { emotion: escalation,  sub_genre: grime.classic-grime, bpm_min: 138, bpm_max: 142, energy_curve: [0.5,0.7,0.85,1.0,1.0],     anti_prompts: [trap-808, drill-triplets, lush-reverb] }
+  - { emotion: redemption,  sub_genre: grime.classic-grime, bpm_min: 138, bpm_max: 142, energy_curve: [0.45,0.6,0.75,0.85,0.95],  anti_prompts: [trap-808, ballad, EDM-drop] }
+  - { emotion: nostalgia,   sub_genre: grime.classic-grime, bpm_min: 130, bpm_max: 140, energy_curve: [0.4,0.55,0.7,0.65,0.75],   anti_prompts: [trap-808, EDM-drop, anthem-cliche] }

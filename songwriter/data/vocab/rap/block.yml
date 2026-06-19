@@ -1,0 +1,32 @@
+slug: rap.block
+name: Rap / Block (place, crew, neighbourhood)
+description: Place-and-people vocabulary — the streets, the crew, the city corner. Concrete US-rap urban texture; less London-specific than grime.manor.
+words:
+  - { word: block,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: blocks,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: stoop,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: corner,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: corners,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: avenue,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: ave,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: hood,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: city,        emotional_weight: 0.5, imagery_class: physical }
+  - { word: brooklyn,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: queens,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: bronx,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: compton,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: chicago,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: atlanta,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: detroit,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: bodega,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: liquor-store, emotional_weight: 0.8, imagery_class: physical }
+  - { word: porch,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: alley,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: crew,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: squad,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: gang,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: mob,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: real-ones,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: cousin,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: mama,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: pops,        emotional_weight: 0.7, imagery_class: physical }

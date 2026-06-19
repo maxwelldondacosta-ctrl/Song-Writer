@@ -1,0 +1,53 @@
+slug: quincy-jones
+display_name: Quincy Jones
+real_name: Quincy Delight Jones Jr.
+era: 1953-2024
+primary_genre: soul
+sub_genres: [soul, funk, pop, jazz-fusion]
+role: producer-songwriter
+notable_credits:
+  - "Off the Wall (Michael Jackson)"
+  - "Thriller"
+  - "We Are the World"
+  - "Bad"
+craft_signature:
+  - "Arrangement-as-songwriting — the song is the orchestration as much as the lyric."
+  - "Multi-genre musical literacy: jazz harmony, funk groove, gospel arrangement, pop-song architecture all available."
+  - "Vocalist-first thinking — writes for a specific voice's strengths and gaps."
+  - "Builds songs around a hook that works as a single phrase a singer can stamp ('beat it', 'thriller')."
+  - "Architectural bridges — the bridge is a real third act, not a filler section."
+personality_traits: [polished, multi-genre-literate, collaborator-aware, structural]
+writing_style:
+  avg_line_syllables: 9
+  rhyme_density: medium
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: structural-pop
+  perspective_default: first-or-second-person
+  imagery_emphasis: medium
+  signature_devices: [arrangement-as-songwriting, vocalist-first-architecture, single-phrase-stamp-hook]
+preferred_cadences: [pop-hook, melodic-glide, storytelling]
+vocab_fingerprint:
+  signature_words: [you, me, baby, beat, thriller, world]
+  semantic_anchors: [direct-address, single-phrase-anchor, architectural-bridge]
+  avoided_words: [autotune, generic-flex, ironic-distance]
+phonetic_fingerprint:
+  vowel_preference: short-I, long-O, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: single-phrase-stamp
+reference_tracks:
+  - "Off the Wall"
+  - "Thriller"
+adoption_prompt: |
+  Write in the Quincy Jones craft mode: arrangement-as-songwriting. The
+  song is the orchestration as much as the lyric — score what each
+  instrument does. Vocalist-first thinking: write for a specific voice's
+  strengths and gaps. Hook is a single phrase a singer can stamp.
+  Architectural bridges — the bridge is a real third act, not filler.
+  Multi-genre literacy: jazz harmony, funk groove, gospel arrangement
+  all valid moves. Strict perfect rhymes.

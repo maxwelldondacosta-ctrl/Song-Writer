@@ -1,0 +1,26 @@
+slug: rock.defiance
+name: Rock / Defiance (revolt, noise, refusing to comply)
+description: Rock's refusal vocabulary — not grime's street-smart confrontation but the guitar-driven f**k-you-to-the-system. Garages, fists, amps, volume as ideology.
+words:
+  - { word: fist,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: fists,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: noise,       emotional_weight: 0.7, imagery_class: sensory }
+  - { word: loud,        emotional_weight: 0.7, imagery_class: sensory }
+  - { word: amp,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: amps,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: feedback,    emotional_weight: 0.8, imagery_class: sensory }
+  - { word: volume,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: refused,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: wont,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: never-will,  emotional_weight: 0.7, imagery_class: abstract }
+  - { word: against,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: walls,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: garage,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: basement,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: stage,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: chain,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: chains,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: broke-free,  emotional_weight: 0.8, imagery_class: abstract }
+  - { word: riot,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: burn-it,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: own-terms,   emotional_weight: 0.8, imagery_class: abstract }

@@ -1,0 +1,31 @@
+slug: metal.destruction
+name: Metal / Destruction (the breakdown register)
+description: The breakdown / mosh-pit / scream-from-the-gut vocabulary core to deathcore and modern metalcore. Visceral physical verbs, anatomical specifics, no abstract grief.
+words:
+  - { word: bury,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: buried,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: rot,         emotional_weight: 0.8, imagery_class: physical }
+  - { word: rotting,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: decay,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: gut,         emotional_weight: 0.8, imagery_class: physical }
+  - { word: gutted,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: carve,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: carved,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: split,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: crack,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: cracked,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: shatter,     emotional_weight: 0.7, imagery_class: physical, ai_bias_flag: true }
+  - { word: drag,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: dragged,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: drown,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: drowning,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: choke,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: choking,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: bleed,       emotional_weight: 0.7, imagery_class: physical, ai_bias_flag: true }
+  - { word: bleeding,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: bones,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: skull,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: spine,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: marrow,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: viscera,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: corpse,      emotional_weight: 0.8, imagery_class: physical }

@@ -1,0 +1,26 @@
+slug: soul.heartbreak
+name: Soul / Heartbreak (classic-soul rupture register)
+description: Soul breakup vocabulary — heavier and more churchy than R&B heartbreak. The full-room cry, the congregation witnessing, not the bedroom hush. Motown-era physicality.
+words:
+  - { word: crying,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: tears,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: weeping,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: floor,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: knees,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: alone,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: broke,       emotional_weight: 0.8, imagery_class: abstract }
+  - { word: shattered,   emotional_weight: 0.7, imagery_class: abstract, ai_bias_flag: true }
+  - { word: rang,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: phone,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: left,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: gone-away,   emotional_weight: 0.8, imagery_class: abstract }
+  - { word: lord,        emotional_weight: 0.8, imagery_class: abstract }
+  - { word: mercy,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: can't-take,  emotional_weight: 0.7, imagery_class: abstract }
+  - { word: pleading,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: beg,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: begging,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: church,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: testified,   emotional_weight: 0.8, imagery_class: abstract }
+  - { word: witness,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: ache,        emotional_weight: 0.8, imagery_class: physical }

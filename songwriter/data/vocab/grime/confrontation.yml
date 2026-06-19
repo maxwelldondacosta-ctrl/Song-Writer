@@ -1,0 +1,25 @@
+slug: grime.confrontation
+name: Grime / Confrontation
+description: Squaring-up vocabulary — the core grime register of being challenged and replying. Concrete and terse, never theatrical.
+words:
+  - { word: bars,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: opp,         emotional_weight: 0.8, imagery_class: physical }
+  - { word: opps,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: skanked,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: chatted,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: lipped,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: clipped,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: pulled,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: stepped,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: bait,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: wasteman,    emotional_weight: 0.8, imagery_class: abstract }
+  - { word: crud,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: shook,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: shaky,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: rated,       emotional_weight: 0.6, imagery_class: abstract }
+  - { word: gassed,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: chatting,    emotional_weight: 0.6, imagery_class: physical }
+  - { word: dotted,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: dotting,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: dropped,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: line,        emotional_weight: 0.6, imagery_class: physical }

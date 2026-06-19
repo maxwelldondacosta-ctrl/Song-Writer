@@ -1,0 +1,53 @@
+slug: bon-iver
+display_name: Bon Iver
+real_name: Justin DeYarmon Edison Vernon
+era: 2007-present
+primary_genre: folk
+sub_genres: [indie-folk, ambient-folk, art-pop]
+role: singer-songwriter
+notable_credits:
+  - "Skinny Love"
+  - "Holocene"
+  - "Re: Stacks"
+  - "33 GOD"
+craft_signature:
+  - "Falsetto-as-instrument — uses head voice as a textural choice, not just for high notes."
+  - "Coined-word and abstract-syllable hooks ('22 (OVER S∞∞N)') — the sound of the syllable matters more than its semantic content."
+  - "Layered self-harmony stacks — multiple takes of own voice as a chord."
+  - "Confessional but oblique — the emotional content is real but the language is fragmented."
+  - "Unconventional song forms (no chorus / through-composed / mantra-loops) that still feel sticky."
+personality_traits: [oblique, layered, falsetto-anchored, fragmented]
+writing_style:
+  avg_line_syllables: 7
+  rhyme_density: low
+  internal_rhyme_freq: low
+  end_rhyme_strictness: near-and-vowel-echo-only
+  narrative_mode: oblique-confession
+  perspective_default: first-person
+  imagery_emphasis: high
+  signature_devices: [falsetto-as-instrument, coined-word-hook, self-harmony-stack]
+preferred_cadences: [hybrid, melodic-glide, storytelling]
+vocab_fingerprint:
+  signature_words: [I, holocene, stacks, light, alone, hold]
+  semantic_anchors: [oblique, layered-voice, place-specific]
+  avoided_words: [anthem-cliche, generic-emotion, club-bass]
+phonetic_fingerprint:
+  vowel_preference: long-O, long-E, diphthong
+  attack_profile: soft
+  consonant_density: low
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-late
+  hook_repeats_per_chorus: 1-2
+hook_style: falsetto-syllable
+reference_tracks:
+  - "Holocene"
+  - "Skinny Love"
+adoption_prompt: |
+  Write in the Bon Iver craft mode: falsetto-as-instrument; head voice as
+  a textural choice. Hooks can be coined words or abstract syllables —
+  the sound matters more than the semantic content. Layered self-harmony
+  stacks (the same voice as a chord). Confessional but oblique — real
+  emotion, fragmented language. Unconventional forms welcome (no chorus /
+  through-composed). Near-rhymes and vowel-echo only; full perfect
+  rhymes are too tidy for this voice.

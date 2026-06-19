@@ -1,0 +1,24 @@
+slug: latin.heartbreak
+name: Latin / Heartbreak (desamor, te fuiste, llorar)
+description: Reggaeton/latin-pop breakup vocabulary. Bilingual — Spanish emotional phrases mixed with English. The ache of being left, the bedroom at 3am, the unanswered text.
+words:
+  - { word: llorar,      emotional_weight: 0.9, imagery_class: physical }
+  - { word: llorando,    emotional_weight: 0.9, imagery_class: physical }
+  - { word: te-fuiste,   emotional_weight: 0.9, imagery_class: abstract }
+  - { word: sin-ti,      emotional_weight: 0.8, imagery_class: abstract }
+  - { word: duele,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: duele-tanto, emotional_weight: 0.9, imagery_class: physical }
+  - { word: olvidar,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: no-puedo,    emotional_weight: 0.7, imagery_class: abstract }
+  - { word: silencio,    emotional_weight: 0.8, imagery_class: sensory }
+  - { word: solo,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: sola,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: noche,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: madrugada,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: cama,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: empty,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: messages,    emotional_weight: 0.6, imagery_class: physical }
+  - { word: unread,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: extraño,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: extrañar,    emotional_weight: 0.8, imagery_class: abstract }
+  - { word: corazon,     emotional_weight: 0.6, imagery_class: physical }

@@ -1,0 +1,136 @@
+SUNO PROMPT CREATION FRAMEWORK Song Writing Project – Production Prompt
+Guide
+
+  ----------
+  OVERVIEW
+  ----------
+
+This document defines the method for creating Suno prompts under 1000
+characters that accurately translate finished lyrics into the intended
+musical style.
+
+The goal is to describe the musical DNA of the track clearly so the AI
+produces consistent results.
+
+Prompts must avoid artist names and focus on musical descriptors
+instead.
+
+  --------------------------
+  1. DEFINE GENRE AND TONE
+  --------------------------
+
+Begin by describing the genre and emotional tone.
+
+Example:
+
+Aggressive modern deathcore with crushing breakdowns and dark emotional
+intensity.
+
+The genre sets the fundamental musical direction.
+
+  ---------------------------
+  2. DEFINE INSTRUMENTATION
+  ---------------------------
+
+Clearly describe the instruments and sound design.
+
+Example:
+
+Downtuned chugging guitars, blast beats, heavy double kick drums,
+distorted bass.
+
+The AI responds better to specific instrumentation cues.
+
+  -------------------------
+  3. DESCRIBE VOCAL STYLE
+  -------------------------
+
+Specify the vocal delivery.
+
+Example:
+
+Male harsh vocals with deep growls and high screams, aggressive
+delivery.
+
+Additional options may include:
+
+• chant vocals • clean melodic vocals • shouted gang vocals
+
+  --------------------------
+  4. DEFINE SONG STRUCTURE
+  --------------------------
+
+Explicitly describing structure helps the AI generate more coherent
+songs.
+
+Example structure:
+
+Intro Verse Chorus Verse Chorus Breakdown Final Chorus
+
+  ---------------------------------
+  5. DESCRIBE ENERGY AND DYNAMICS
+  ---------------------------------
+
+Define how the song’s energy changes between sections.
+
+Example:
+
+Verses tense and rhythmic. Chorus explosive and chantable. Breakdown
+slow and crushing.
+
+Dynamic descriptions help shape arrangement and pacing.
+
+  -------------------
+  6. ADD ATMOSPHERE
+  -------------------
+
+Optional but useful.
+
+Atmosphere descriptors include:
+
+• dark • cinematic • emotional • aggressive • atmospheric
+
+Example:
+
+Dark, intense, cinematic atmosphere.
+
+  ----------------------------
+  7. PROMPT LENGTH GUIDELINE
+  ----------------------------
+
+Effective Suno prompts typically range between 400 and 700 characters.
+
+Avoid excessive instructions which may confuse the model.
+
+Prompts must remain under 1000 characters.
+
+  -------------------
+  8. EXAMPLE PROMPT
+  -------------------
+
+Aggressive modern deathcore with crushing breakdowns and dark emotional
+intensity. Downtuned chugging guitars, blast beats, heavy double kick
+drums and distorted bass. Male harsh vocals with deep growls and high
+screams, aggressive delivery with chant-style shouts in the chorus. Song
+structure: intro, verse, chorus, verse, chorus, breakdown, final chorus.
+Verses tense and rhythmic, chorus explosive and chantable, breakdown
+slow and crushing. Dark, angry atmosphere with powerful dynamic shifts.
+
+  ----------------------
+  9. REUSABLE TEMPLATE
+  ----------------------
+
+[genre] with [tone]. [instrumentation]. [vocal style]. Song structure:
+[structure]. Verses [energy description], chorus [energy], breakdown
+[energy]. Atmosphere: [mood].
+
+  ----------------
+  CORE PRINCIPLE
+  ----------------
+
+A good prompt communicates the musical structure, instrumentation, vocal
+delivery and emotional tone clearly while remaining concise.
+
+------------------------------------------------------------------------
+
+END OF DOCUMENT

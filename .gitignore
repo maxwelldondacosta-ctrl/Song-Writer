@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code personal config
+.claude/
+
+# Environment & secrets
+.env
+*.env
+.env.*
+
+# Python virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Screenshot noise
+*.png
+
+# macOS app bundles (generated artifacts)
+*.app/

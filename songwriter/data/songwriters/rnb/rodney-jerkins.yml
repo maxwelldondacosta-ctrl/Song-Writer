@@ -1,0 +1,50 @@
+slug: rodney-jerkins
+display_name: Rodney Jerkins
+real_name: Rodney Roy Jerkins
+era: 1996-present
+primary_genre: rnb
+role: producer-songwriter
+sub_genres: [contemporary-rnb, 90s-rnb, pop]
+notable_credits:
+  - "Say My Name"
+  - "It's Not Right but It's Okay"
+  - "Heartbreaker"
+  - "Telephone"
+craft_signature:
+  - "Stuttering hook construction — repeats a phoneme or syllable to create rhythmic interest ('say-say-say my name')."
+  - "Tempo-locked vocal cadence — the lyric is engineered to ride a specific drum-program pattern."
+  - "Confrontational verse content (questioning, accusing) that resolves into a controlled chorus."
+  - "Rhythm-section first; the lyric must groove with the pocket or it's rewritten."
+personality_traits: [rhythmic, confrontational, pocket-aware]
+writing_style:
+  avg_line_syllables: 7
+  rhyme_density: medium
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: near-and-perfect
+  narrative_mode: confrontation
+  perspective_default: first-or-second-person
+  imagery_emphasis: low-medium
+  signature_devices: [stuttering-hook, tempo-locked-cadence, confrontational-verse]
+preferred_cadences: [pop-hook, punchline, straight-4-beat]
+vocab_fingerprint:
+  signature_words: [say, name, called, who, what, why, told]
+  semantic_anchors: [accusation, identification]
+  avoided_words: [philosophical, dense, anthem]
+phonetic_fingerprint:
+  vowel_preference: short-A, short-I, diphthong-EI
+  attack_profile: hard
+  consonant_density: high
+structure_preferences:
+  preferred_template: rnb.intimate-confession
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: stuttering-percussive
+reference_tracks:
+  - "Say My Name"
+  - "It's Not Right but It's Okay"
+adoption_prompt: |
+  Write in the Rodney Jerkins craft mode: stuttering hook construction
+  (repeats a phoneme or syllable). Verses are confrontational (questioning,
+  accusing); chorus controls the energy. Lyric must lock to a drum-program
+  pattern — engineer the cadence to ride the pocket. Strict-to-near rhymes.
+  Keep imagery low and let the rhythm carry.

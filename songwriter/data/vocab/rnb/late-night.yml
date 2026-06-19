@@ -1,0 +1,18 @@
+slug: rnb.late-night
+name: R&B / Late Night
+description: 2am-after-the-club vocabulary, weighted toward concrete texture rather than "midnight" cliches.
+words:
+  - { word: rideshare,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: backseat,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: streetlamp,  emotional_weight: 0.7, imagery_class: sensory }
+  - { word: parking,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: gas,         emotional_weight: 0.6, imagery_class: physical }
+  - { word: pavement,    emotional_weight: 0.6, imagery_class: sensory }
+  - { word: lobby,       emotional_weight: 0.6, imagery_class: sensory }
+  - { word: hallway,     emotional_weight: 0.6, imagery_class: sensory }
+  - { word: elevator,    emotional_weight: 0.6, imagery_class: physical }
+  - { word: keycard,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: balcony,     emotional_weight: 0.7, imagery_class: sensory }
+  - { word: smoking,     emotional_weight: 0.5, imagery_class: physical }
+  - { word: barefoot,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: silent,      emotional_weight: 0.6, imagery_class: sensory }

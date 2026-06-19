@@ -1,0 +1,26 @@
+slug: latin.perreo
+name: Latin / Perreo (reggaeton dance/body)
+description: Reggaeton's body-and-dance vocabulary. Spanish-first with English code-switching. The dembow rhythm wants short percussive syllables.
+words:
+  - { word: perreo,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: perrear,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: cintura,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: caderas,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: cuerpo,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: piel,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: sudor,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: baila,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: bailar,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: muévete,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: dale,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: suave,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: lento,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: noche,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: madrugada,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: discoteca,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: pista,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: barra,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: bottle,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: shots,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: tequila,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: bachata,     emotional_weight: 0.7, imagery_class: physical }

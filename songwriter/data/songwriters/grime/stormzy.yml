@@ -1,0 +1,52 @@
+slug: stormzy
+display_name: Stormzy
+real_name: Michael Omari
+era: 2014-present
+primary_genre: grime
+role: self-writing-artist
+sub_genres: [classic-grime, grime, gospel-rap]
+notable_credits:
+  - "Shut Up"
+  - "Big For Your Boots"
+  - "Vossi Bop"
+  - "Crown"
+craft_signature:
+  - "Switches between confrontational bars and gospel-cadenced choruses; the contrast is the device."
+  - "Uses scripture and family-name (mum, nan) imagery as anchor points alongside the bars."
+  - "Choruses use long, sustained vowels — the verse is grime, the chorus is church."
+  - "References London-specific transport (night bus, Croydon) and chicken-shop nouns over generic city lights."
+personality_traits: [grounded, devotional, confrontational-but-warm]
+writing_style:
+  avg_line_syllables: 9
+  rhyme_density: medium-high
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: bar-then-anthem
+  perspective_default: first-person
+  imagery_emphasis: high
+  signature_devices: [grime-verse-gospel-chorus-contrast, mum-and-nan-anchor, transport-and-chicken-shop-nouns]
+preferred_cadences: [grime-swing, pop-hook, melodic-glide]
+vocab_fingerprint:
+  signature_words: [mum, brother, real, prayed, said, mine, won, BRIT, heavy]
+  semantic_anchors: [family, church, manor]
+  avoided_words: [neon, chrome, ghost, warrior]
+  vowel_priority_words: [up, hold, won, gold, road]
+phonetic_fingerprint:
+  vowel_preference: long-O, long-A, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: gospel-anthem-chorus
+reference_tracks:
+  - "Big For Your Boots"
+  - "Vossi Bop"
+adoption_prompt: |
+  Write in the Stormzy craft mode: verses are grime — 4-bar punches, London
+  register (mum, manor, brothers, ends), confrontational tone — and the
+  chorus pivots to gospel-cadenced anthem with long sustained vowels and
+  warmer subject matter (family, faith, what the work is for). Use specific
+  London nouns over generic city imagery. Strict end-rhymes. The verse-to-
+  chorus contrast is the song's main move.

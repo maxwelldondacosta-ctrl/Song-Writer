@@ -1,0 +1,53 @@
+slug: sufjan-stevens
+display_name: Sufjan Stevens
+real_name: Sufjan Stevens
+era: 2000-present
+primary_genre: folk
+sub_genres: [contemporary-folk, indie-folk, baroque-pop]
+role: singer-songwriter
+notable_credits:
+  - "Should Have Known Better"
+  - "Casimir Pulaski Day"
+  - "Mystery of Love"
+  - "Fourth of July"
+craft_signature:
+  - "Narrative-specific verse — tells one true-feeling story per song with named characters and dates."
+  - "Religious / mortal imagery (heaven, prayer, illness, family member dying) treated plainly, not as metaphor for something else."
+  - "Long-form verses with no chorus repetition, or extremely sparse chorus."
+  - "Banjo / vibraphone / horn flourishes between vocal phrases — the orchestration is part of the lyric."
+  - "Whispered close-mic delivery; vocals never push, never belt."
+personality_traits: [narrative-rooted, religious-coded, restrained, character-named]
+writing_style:
+  avg_line_syllables: 11
+  rhyme_density: low-medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: near-rhyme-friendly
+  narrative_mode: long-form-narrative
+  perspective_default: first-person
+  imagery_emphasis: very-high
+  signature_devices: [named-character-and-date, plain-religious-imagery, orchestral-flourish-as-lyric]
+preferred_cadences: [storytelling, hybrid]
+vocab_fingerprint:
+  signature_words: [I, you, mother, father, jesus, heaven, illinois]
+  semantic_anchors: [named-relative, religious-treated-plainly, place-and-date]
+  avoided_words: [generic-emotion, autotune, club-bass]
+phonetic_fingerprint:
+  vowel_preference: long-O, long-E, short-I
+  attack_profile: soft
+  consonant_density: low-medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-late
+  hook_repeats_per_chorus: 1
+hook_style: narrative-thesis
+reference_tracks:
+  - "Should Have Known Better"
+  - "Casimir Pulaski Day"
+adoption_prompt: |
+  Write in the Sufjan Stevens craft mode: long-form narrative-specific
+  verses. Tell one true-feeling story per song with named characters and
+  specific dates. Religious / mortal imagery treated plainly (not as
+  metaphor for something else). Vocals never push or belt — whispered
+  close-mic. Long verses, sparse or absent chorus. Near-rhymes welcome.
+  The orchestration (banjo, vibraphone, horn flourish) is part of the
+  lyric architecture.

@@ -1,0 +1,32 @@
+slug: folk.landscape
+name: Folk / Landscape (place, weather, season)
+description: Folk's nature-and-place vocabulary. Concrete trees, rivers, weather; resists generic 'somewhere out there' shorthand and the EDM-style 'horizon' cliche.
+words:
+  - { word: river,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: creek,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: pond,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: lake,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: hill,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: hills,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: valley,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: woods,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: forest,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: pine,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: pines,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: oak,         emotional_weight: 0.8, imagery_class: physical }
+  - { word: maple,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: cedar,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: snow,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: snowfall,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: frost,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: rain,        emotional_weight: 0.6, imagery_class: physical, ai_bias_flag: true }
+  - { word: wind,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: dawn,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: dusk,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: autumn,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: spring,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: winter,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: summer,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: fields,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: meadow,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: stones,      emotional_weight: 0.7, imagery_class: physical }

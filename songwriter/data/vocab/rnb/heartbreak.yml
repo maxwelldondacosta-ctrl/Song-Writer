@@ -1,0 +1,21 @@
+slug: rnb.heartbreak
+name: R&B / Heartbreak
+description: Aftermath of an R&B relationship; focused on small-room ache rather than melodrama.
+words:
+  - { word: hoodie,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: chargers,    emotional_weight: 0.6, imagery_class: physical }
+  - { word: receipts,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: rearview,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: ringer,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: voicemail,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: photos,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: mattress,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: pillows,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: kitchen,     emotional_weight: 0.6, imagery_class: sensory }
+  - { word: counter,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: silent,      emotional_weight: 0.6, imagery_class: sensory }
+  - { word: stayed,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: left,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: muted,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: deleted,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: archived,    emotional_weight: 0.6, imagery_class: physical }

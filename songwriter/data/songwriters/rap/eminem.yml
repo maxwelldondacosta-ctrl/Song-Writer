@@ -1,0 +1,57 @@
+slug: eminem
+display_name: Eminem
+real_name: Marshall Bruce Mathers III
+era: 1988-present
+primary_genre: rap
+role: self-writing-artist
+sub_genres: [horrorcore, battle-rap, conscious-rap, Detroit]
+notable_credits:
+  - "Stan"
+  - "Lose Yourself"
+  - "The Way I Am"
+  - "Rap God"
+  - "Kim"
+craft_signature:
+  - "Multi-syllabic rhyme schemes that span multiple lines — a single rhyme sound can carry across 8-12 bars."
+  - "Alter-ego system: Slim Shady (id, shock-value), Marshall Mathers (confession), Eminem (craft) — each voice has distinct vocabulary."
+  - "Narrative rap with twist endings — verses function as short films with setup, complication, and resolution."
+  - "Rapid-fire triplet flows (triple time) as a demonstration of technical control, not just speed."
+  - "Dark humor and self-loathing occupy the same lyric — the joke and the wound are the same thing."
+personality_traits: [obsessive, self-deprecating, technically-precise, darkly-comedic]
+writing_style:
+  avg_line_syllables: 12
+  rhyme_density: very-high
+  internal_rhyme_freq: very-high
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: multi-voice-narrative
+  perspective_default: first-person-shifting
+  imagery_emphasis: high
+  signature_devices: [multi-syllabic-rhyme-chain, alter-ego-shift, narrative-twist-ending]
+preferred_cadences: [double-time-rap, triplet, storytelling]
+vocab_fingerprint:
+  signature_words: [mom, slim, marshall, detroit, spaghetti, rap, rhyme, real]
+  semantic_anchors: [Detroit, self-loathing, family-trauma, technical-craft]
+  avoided_words: [smooth, effortless, chill, vibes]
+phonetic_fingerprint:
+  vowel_preference: short-A, diphthong, long-I
+  attack_profile: hard
+  consonant_density: very-high
+structure_preferences:
+  preferred_template: rap.boom-bap-verse-heavy
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: thesis-mantra
+reference_tracks:
+  - "Stan"
+  - "Lose Yourself"
+adoption_prompt: |
+  Write in the Eminem craft mode: multi-syllabic rhyme schemes that chain a
+  single rhyme sound across 8-12 bars without breaking. Use the alter-ego
+  system — Slim Shady handles shock and dark humor, Marshall Mathers handles
+  raw confession, Eminem handles pure craft display — and shift between them
+  within the same track. Verses function as short films: setup, complication,
+  twist resolution. Rapid-fire triplet flows demonstrate technical control.
+  Dark humor and genuine wound must coexist in the same line — the joke IS
+  the injury. Detroit-specific imagery grounds the abstract. Very high rhyme
+  density; strict perfect multi-syllabic rhymes. Avoid smooth, effortless,
+  or atmospheric vocabulary.

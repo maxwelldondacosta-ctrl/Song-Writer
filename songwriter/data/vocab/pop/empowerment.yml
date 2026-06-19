@@ -1,0 +1,20 @@
+slug: pop.empowerment
+name: Pop / Empowerment
+description: Self-reclamation vocabulary, weighted toward specific actions rather than "rise up".
+words:
+  - { word: deleted,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: blocked,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: signed,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: bought,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: locked,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: walked,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: changed,     emotional_weight: 0.5, imagery_class: abstract }
+  - { word: stronger,    emotional_weight: 0.7, imagery_class: abstract }
+  - { word: louder,      emotional_weight: 0.7, imagery_class: sensory }
+  - { word: brighter,    emotional_weight: 0.6, imagery_class: sensory }
+  - { word: bolder,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: enough,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: anymore,     emotional_weight: 0.6, imagery_class: abstract }
+  - { word: keys,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: door,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: signature,   emotional_weight: 0.7, imagery_class: physical }

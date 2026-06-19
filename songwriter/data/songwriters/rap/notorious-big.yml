@@ -1,0 +1,57 @@
+slug: notorious-big
+display_name: The Notorious B.I.G.
+real_name: Christopher George Latore Wallace
+era: 1992-1997
+primary_genre: rap
+role: self-writing-artist
+sub_genres: [boom-bap, gangsta-rap, East-Coast]
+notable_credits:
+  - "Juicy"
+  - "Big Poppa"
+  - "Hypnotize"
+  - "One More Chance"
+  - "Ten Crack Commandments"
+craft_signature:
+  - "Conversational delivery that conceals extreme technical precision — the rhyme density is very high but sounds effortless."
+  - "Cinematic narrative rap — verses function as short films; he switches between third-person narrator and first-person protagonist."
+  - "Brooklyn specificity: Bed-Stuy, the Marcy Houses, street-level crack-era detail grounds every abstract claim."
+  - "Crack-dealing as business metaphor — the Ten Commandments frame street economics with entrepreneurial clarity."
+  - "Dark humor as survival mechanism — the joke holds the tragedy at arm's length without erasing it."
+personality_traits: [charismatic, cinematic, darkly-humorous, precise]
+writing_style:
+  avg_line_syllables: 10
+  rhyme_density: very-high
+  internal_rhyme_freq: high
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: cinematic-narrator
+  perspective_default: first-person-shifting
+  imagery_emphasis: high
+  signature_devices: [effortless-precision, pov-shift, street-economics-metaphor]
+preferred_cadences: [storytelling, boom-bap, double-time-rap]
+vocab_fingerprint:
+  signature_words: [brooklyn, bed-stuy, crack, mama, hustle, dead, born, ready]
+  semantic_anchors: [Brooklyn, survival, street-economics, dark-humor]
+  avoided_words: [journey, neon, anthem, inspire]
+phonetic_fingerprint:
+  vowel_preference: short-O, diphthong, long-A
+  attack_profile: balanced
+  consonant_density: high
+structure_preferences:
+  preferred_template: rap.boom-bap-verse-heavy
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: statement-declaration
+reference_tracks:
+  - "Juicy"
+  - "Ten Crack Commandments"
+adoption_prompt: |
+  Write in the Notorious B.I.G. craft mode: conversational delivery that masks
+  very high rhyme density — the precision should feel effortless, not labored.
+  Switch between third-person narrator and first-person protagonist within the
+  same verse without flagging the shift. Root every abstract claim in
+  Brooklyn-specific detail (Bed-Stuy, the Marcy Houses, crack-era economics).
+  Use the crack-dealing-as-business metaphor: street economics framed with
+  entrepreneurial clarity and the Ten Commandments structure. Dark humor
+  coexists with genuine tragedy — the joke holds the wound at distance without
+  erasing it. Very high rhyme density, strict perfect rhymes. Avoid anthemic
+  or inspirational vocabulary.

@@ -1,0 +1,238 @@
+POP SONGWRITING STRUCTURE + HOOK PSYCHOLOGY LIBRARY Song Writing Project
+– Consolidated Pattern Source File
+
+  ---------
+  PURPOSE 
+  ---------
+
+This document defines structural templates, lyrical frameworks,
+vocabulary hints, and hook psychology principles used in modern
+commercial pop songwriting.
+
+Pop differs from other genres in a key way:
+
+The hook must be instantly memorable.
+
+Because of this, pop songwriting prioritizes:
+
+• simple language • strong repetition • clear emotional situations •
+melodic phrasing • highly memorable hooks
+
+  ----------------------
+  THE POP PARADOX RULE
+  ----------------------
+
+Pop lyrics should express adult situations using simple, almost
+childlike language.
+
+The goal is not poetic complexity but memorability.
+
+Example structure:
+
+Adult situation: relationship expectations
+
+Pop translation: “If you wanna love me you gotta treat me right”
+
+Listeners should understand and remember the hook after one listen.
+
+  ------------------------------
+  CHILDLIKE LANGUAGE PRINCIPLE
+  ------------------------------
+
+The most successful pop songs often sound like playground chants about
+adult emotions.
+
+Hooks frequently use:
+
+• simple verbs • everyday vocabulary • repetitive phrasing
+
+Example hook pattern:
+
+If you wanna [action] You gotta [rule]
+
+This creates a memorable rhythmic chant.
+
+  --------------------------------------------
+  POP STRUCTURE TEMPLATE A – MODERN STANDARD
+  --------------------------------------------
+
+Intro
+
+Verse 1 Pre-Chorus
+
+Chorus
+
+Verse 2 Pre-Chorus
+
+Chorus
+
+Bridge
+
+Final Chorus
+
+Outro
+
+  ---------------------------------------
+  POP STRUCTURE TEMPLATE B – HOOK FIRST
+  ---------------------------------------
+
+Intro Hook
+
+Verse
+
+Chorus
+
+Verse
+
+Chorus
+
+Bridge
+
+Final Chorus
+
+  ---------------------------------------
+  POP STRUCTURE TEMPLATE C – POP BALLAD
+  ---------------------------------------
+
+Soft Intro
+
+Verse
+
+Chorus
+
+Verse
+
+Chorus
+
+Bridge (emotional confession)
+
+Big Final Chorus
+
+  -------------------------
+  VERSE WRITING FRAMEWORK
+  -------------------------
+
+Line 1 – Situation Line 2 – Emotional reaction Line 3 – Consequence Line
+4 – Personal feeling
+
+Example:
+
+You walked out the door Didn’t say goodbye Now every song we loved Makes
+me cry
+
+  ----------------------
+  PRE-CHORUS FRAMEWORK
+  ----------------------
+
+The pre-chorus builds tension into the hook.
+
+Structure:
+
+Realization Emotional escalation Short repeating phrase
+
+Example:
+
+Every time you say my name I feel the same I feel the same
+
+  -----------------------
+  CHORUS HOOK FRAMEWORK
+  -----------------------
+
+A pop chorus must contain a clear memorable phrase.
+
+Hook pattern:
+
+Hook line Hook line repeat Variation line Final hook
+
+Example:
+
+I can’t let you go I can’t let you go Every road leads back to you I
+can’t let you go
+
+  ----------------
+  BRIDGE PURPOSE
+  ----------------
+
+The bridge introduces a twist or confession.
+
+Possible functions:
+
+• emotional realization • vulnerability • confession of love • regret
+
+Example:
+
+Maybe I was wrong Maybe I was blind But every time I run You pull me
+back inside
+
+  ---------------------
+  POP VOCABULARY BANK
+  ---------------------
+
+Pop favors words that are:
+
+• simple • melodic • emotionally direct
+
+  ----------------
+  LOVE / ROMANCE
+  ----------------
+
+love heart baby kiss touch hold mine yours forever together
+
+  ---------
+  LONGING
+  ---------
+
+miss need want dream stay call remember wait alone belong
+
+  ----------------------
+  CELEBRATION / ENERGY
+  ----------------------
+
+dance tonight lights shine alive free wild fire glow run
+
+  ------------
+  HEARTBREAK
+  ------------
+
+goodbye broken tears lonely empty lost gone regret fading over
+
+  ----------------
+  HOOK WORD RULE
+  ----------------
+
+Pop hooks should favor short memorable words such as:
+
+love baby night fire heart home stay mine
+
+Complex vocabulary weakens hook memorability.
+
+  --------------------------
+  SONG GENERATION WORKFLOW
+  --------------------------
+
+1.  Choose pop structure template
+
+2.  Choose topic (love, heartbreak, longing, celebration, regret)
+
+3.  Apply Story Rule (event → emotion → resolution)
+
+4.  Apply Sentence Rule validation
+
+5.  Select vocabulary from pop vocabulary bank
+
+6.  Shape melodic cadence
+
+7.  Build hook phrase
+
+8.  Generate Suno prompt
+
+  ----------------
+  CORE PRINCIPLE
+  ----------------
+
+If the hook cannot be remembered after one listen, it is too complex for
+pop.
+
+------------------------------------------------------------------------
+
+END OF DOCUMENT

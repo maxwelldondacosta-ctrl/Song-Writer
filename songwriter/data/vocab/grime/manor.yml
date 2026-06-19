@@ -1,0 +1,30 @@
+slug: grime.manor
+name: Grime / Manor
+description: Place-and-streets vocabulary — neighbourhood, postcode, transport. Concrete London-textured imagery.
+words:
+  - { word: ends,        emotional_weight: 0.8, imagery_class: sensory }
+  - { word: manor,       emotional_weight: 0.7, imagery_class: sensory }
+  - { word: estate,      emotional_weight: 0.7, imagery_class: sensory }
+  - { word: estates,     emotional_weight: 0.7, imagery_class: sensory }
+  - { word: tower,       emotional_weight: 0.7, imagery_class: sensory }
+  - { word: towers,      emotional_weight: 0.7, imagery_class: sensory }
+  - { word: block,       emotional_weight: 0.7, imagery_class: sensory }
+  - { word: stairwell,   emotional_weight: 0.7, imagery_class: sensory }
+  - { word: lift,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: balcony,     emotional_weight: 0.7, imagery_class: sensory }
+  - { word: balconies,   emotional_weight: 0.7, imagery_class: sensory }
+  - { word: bus,         emotional_weight: 0.6, imagery_class: physical }
+  - { word: tube,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: night-bus,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: postcode,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: roadman,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: roadmen,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: youts,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: youtes,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: mandem,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: linkup,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: strip,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: chicken-shop, emotional_weight: 0.8, imagery_class: physical }
+  - { word: chippy,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: kebab-shop,  emotional_weight: 0.7, imagery_class: physical }
+  - { word: paigon,      emotional_weight: 0.7, imagery_class: abstract }

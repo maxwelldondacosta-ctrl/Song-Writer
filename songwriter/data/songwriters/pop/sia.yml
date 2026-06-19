@@ -1,0 +1,51 @@
+slug: sia
+display_name: Sia
+real_name: Sia Furler
+era: 2000-present
+primary_genre: pop
+role: self-writing-artist
+sub_genres: [pop, alt-pop, dance-pop]
+notable_credits:
+  - "Chandelier"
+  - "Cheap Thrills"
+  - "Diamonds (written for Rihanna)"
+  - "Pretty Hurts (written for Beyoncé)"
+craft_signature:
+  - "Vowel-driven hook design: long sustained vowels carry the chorus belt."
+  - "Cinematic-physical verbs in verses ('I'm gonna swing from the chandelier')."
+  - "Metaphor extended across the entire song rather than reset per section."
+  - "Heavy use of present-progressive ('I'm dancing', 'I'm gonna') for forward momentum."
+personality_traits: [theatrical, dynamic, unguarded]
+writing_style:
+  avg_line_syllables: 9
+  rhyme_density: medium
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: near-and-perfect
+  narrative_mode: extended-metaphor
+  perspective_default: first-person
+  imagery_emphasis: high
+  signature_devices: [vowel-driven-hook, cinematic-verb, extended-metaphor]
+preferred_cadences: [pop-hook, melodic-glide]
+vocab_fingerprint:
+  signature_words: [tonight, swinging, fly, alive, breathe, hold, fight, weight]
+  semantic_anchors: [body-in-motion, single-vivid-image]
+  avoided_words: [neon, chrome, midnight, ghost]
+  vowel_priority_words: [stay, way, day, fight, fly, alive]
+phonetic_fingerprint:
+  vowel_preference: long-A, long-I, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.dance
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2
+hook_style: belt-vowel-anchor
+reference_tracks:
+  - "Chandelier"
+  - "Cheap Thrills"
+adoption_prompt: |
+  Write in the Sia craft mode: vowel-driven hooks where the title and chorus
+  payoff land on long vowels engineered for a belt sustain ('fly', 'stay',
+  'fight', 'alive'). Verses use cinematic-physical verbs and present-
+  progressive momentum. Carry one extended metaphor across the entire song
+  rather than starting fresh per verse.

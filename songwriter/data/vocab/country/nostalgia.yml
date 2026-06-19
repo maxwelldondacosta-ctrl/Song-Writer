@@ -1,0 +1,25 @@
+slug: country.nostalgia
+name: Country / Nostalgia (lookback, simpler times)
+description: Country-specific nostalgia — old trucks, summer nights, swimmin' holes, grandpa's farm. Rooted in place and specific sensory memory rather than general wistfulness.
+words:
+  - { word: summers,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: swimmin,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: hole,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: barefoot,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: rusted,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: barn,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: canning,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: mason-jar,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: lemonade,    emotional_weight: 0.7, imagery_class: sensory }
+  - { word: firecracker, emotional_weight: 0.7, imagery_class: sensory }
+  - { word: dirt-road,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: old-truck,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: cassette,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: eighty-eight, emotional_weight: 0.7, imagery_class: physical }
+  - { word: nineteen-ninety, emotional_weight: 0.6, imagery_class: physical }
+  - { word: back-then,   emotional_weight: 0.7, imagery_class: abstract }
+  - { word: simpler,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: granddaddy,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: creek-bank,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: crawdads,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: lightning-bug, emotional_weight: 0.8, imagery_class: sensory }

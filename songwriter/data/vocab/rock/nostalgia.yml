@@ -1,0 +1,24 @@
+slug: rock.nostalgia
+name: Rock / Nostalgia (old shows, old bands, early years)
+description: Rock-scene nostalgia — local shows in dive bars, band t-shirts, four-track demos, that summer of gigs. Specific objects of the indie/alt era, not generic wistfulness.
+words:
+  - { word: setlist,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: demo,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: four-track,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: cassette,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: tour-van,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: dive-bar,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: mosh,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: first-show,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: old-band,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: broke-up,    emotional_weight: 0.7, imagery_class: abstract }
+  - { word: nineteen-ninety-five, emotional_weight: 0.7, imagery_class: physical }
+  - { word: t-shirt,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: worn-out,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: flyer,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: staple-gun,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: soundcheck,  emotional_weight: 0.7, imagery_class: sensory }
+  - { word: back-then,   emotional_weight: 0.7, imagery_class: abstract }
+  - { word: opening-act, emotional_weight: 0.7, imagery_class: physical }
+  - { word: parking-lot, emotional_weight: 0.7, imagery_class: physical }
+  - { word: after-show,  emotional_weight: 0.7, imagery_class: physical }

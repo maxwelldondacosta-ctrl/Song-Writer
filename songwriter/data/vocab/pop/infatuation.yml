@@ -1,0 +1,19 @@
+slug: pop.infatuation
+name: Pop / Infatuation
+description: Early-stage attraction and butterflies-in-the-stomach vocabulary.
+words:
+  - { word: caught,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: spinning,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: dizzy,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: blushing,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: tripping,    emotional_weight: 0.6, imagery_class: physical }
+  - { word: laughing,    emotional_weight: 0.6, imagery_class: physical }
+  - { word: humming,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: glowing,     emotional_weight: 0.6, imagery_class: sensory }
+  - { word: floating,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: butterflies, emotional_weight: 0.8, imagery_class: metaphorical }
+  - { word: fluttering,  emotional_weight: 0.7, imagery_class: physical }
+  - { word: smiling,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: hooked,      emotional_weight: 0.8, imagery_class: metaphorical }
+  - { word: swooning,    emotional_weight: 0.7, imagery_class: physical, cliche_flag: true }
+  - { word: melting,     emotional_weight: 0.7, imagery_class: physical }

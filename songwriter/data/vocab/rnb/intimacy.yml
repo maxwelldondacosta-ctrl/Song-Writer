@@ -1,0 +1,22 @@
+slug: rnb.intimacy
+name: R&B / Intimacy
+description: Quiet-room closeness vocabulary, weighted toward the body and sensory specifics.
+words:
+  - { word: shoulder,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: collarbone,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: neck,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: pulse,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: breath,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: eyelash,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: forehead,    emotional_weight: 0.6, imagery_class: physical }
+  - { word: spine,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: knuckles,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: thigh,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: pillow,      emotional_weight: 0.6, imagery_class: sensory }
+  - { word: blanket,     emotional_weight: 0.6, imagery_class: sensory }
+  - { word: linen,       emotional_weight: 0.7, imagery_class: sensory }
+  - { word: lamplight,   emotional_weight: 0.7, imagery_class: sensory }
+  - { word: humming,     emotional_weight: 0.6, imagery_class: sensory }
+  - { word: traced,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: leaned,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: closer,      emotional_weight: 0.6, imagery_class: abstract }

@@ -1,0 +1,50 @@
+slug: babyface
+display_name: Babyface
+real_name: Kenneth Brian Edmonds
+era: 1986-present
+primary_genre: rnb
+role: producer-songwriter
+sub_genres: [contemporary-rnb, 90s-rnb, neo-soul]
+notable_credits:
+  - "End of the Road"
+  - "I'll Make Love to You"
+  - "Exhale (Shoop Shoop)"
+  - "Change the World"
+craft_signature:
+  - "Long, breath-supporting phrases — verses written for Boyz II Men's collective harmony delivery."
+  - "Earnest, plainspoken declarations; uses 'you and me' framing more often than 'I'."
+  - "Verses often resolve to a small physical gesture ('I'll make sure you're home', 'I'll be there')."
+  - "Bridge typically introduces a metaphor that ties the verse and chorus thematically."
+personality_traits: [warm, devotional, traditional, romantic]
+writing_style:
+  avg_line_syllables: 10
+  rhyme_density: medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: declarative-devotion
+  perspective_default: first-person-plural
+  imagery_emphasis: medium
+  signature_devices: [collective-we-framing, breath-supporting-phrase, bridge-metaphor]
+preferred_cadences: [melodic-glide, storytelling]
+vocab_fingerprint:
+  signature_words: [we, us, together, never, always, baby, girl, hold, promise]
+  semantic_anchors: [partnership, time-together, devotion]
+  avoided_words: [neon, club, autotune, edm]
+phonetic_fingerprint:
+  vowel_preference: long-O, long-A, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: rnb.intimate-confession
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: declarative-devotion
+reference_tracks:
+  - "End of the Road"
+  - "I'll Make Love to You"
+adoption_prompt: |
+  Write in the Babyface craft mode: long breath-supporting phrases, earnest
+  declarative devotion, 'you and me' / 'we' framing more than 'I'. Verses
+  resolve to small physical gestures; bridge introduces a metaphor that ties
+  verse and chorus thematically. Strict end-rhymes. Avoid club / EDM
+  vocabulary entirely.

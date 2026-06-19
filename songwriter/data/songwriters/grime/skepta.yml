@@ -1,0 +1,54 @@
+slug: skepta
+display_name: Skepta
+real_name: Joseph Adenuga
+era: 2003-present
+primary_genre: grime
+role: self-writing-artist
+sub_genres: [classic-grime, grime, alt-pop]
+notable_credits:
+  - "Shutdown"
+  - "That's Not Me"
+  - "Konnichiwa"
+  - "Praise the Lord (Da Shine)"
+craft_signature:
+  - "Spare 4-bar architecture; says one thing per bar, lets the bar breathe."
+  - "Hooks built from a single declarative phrase repeated as a stamp ('that's not me')."
+  - "London-grime register but cleaned of trap-isms — keeps it rooted to 140 BPM and square-wave bass."
+  - "End-of-bar punchlines hit on a hard consonant; the line before sets the runway."
+  - "Refuses cliched 'wins/loss' framing — talks about specific clothes, brands, mum's house."
+personality_traits: [terse, proud, observational, deliberately-uncluttered]
+writing_style:
+  avg_line_syllables: 7
+  rhyme_density: medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: near-and-perfect
+  narrative_mode: stamp-and-elaborate
+  perspective_default: first-person
+  imagery_emphasis: medium-high
+  signature_devices: [single-line-stamp-hook, hard-consonant-bar-end, mum-and-manor-anchor]
+preferred_cadences: [grime-swing, punchline, straight-4-beat]
+vocab_fingerprint:
+  signature_words: [me, mine, that's, no, ends, mum, real, not, money]
+  semantic_anchors: [self-definition, refusal, manor]
+  avoided_words: [neon, ghost, soldier, warrior, anthem, midnight]
+  vowel_priority_words: [me, see, real, deal, said]
+phonetic_fingerprint:
+  vowel_preference: short-I, long-E, short-A
+  attack_profile: hard
+  consonant_density: high
+structure_preferences:
+  preferred_template: rnb.intimate-confession
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 3-4
+hook_style: single-phrase-stamp
+reference_tracks:
+  - "Shutdown"
+  - "That's Not Me"
+adoption_prompt: |
+  Write in the Skepta craft mode: spare 4-bar architecture at 140 BPM. One
+  declarative thought per bar, with the punchline landing on a hard consonant
+  at bar-end. Hooks are a single phrase you can stamp ("that's not me",
+  "shutdown") repeated 3-4 times across the chorus. Vocabulary is rooted in
+  London-grime register — keep mum, manor, ends, ride, real — and stays clear
+  of American trap, anthem, and cinematic cliches. Strip rather than
+  ornament: cut adjectives, trust the bar.

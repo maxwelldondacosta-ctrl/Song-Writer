@@ -1,0 +1,220 @@
+# Curated top-10 song lists per artist — used by fetch_by_songs.py
+# Sources: Wikipedia discography pages
+#
+# Format for self-artists:
+#   artist_slug:
+#     artist: "Genius search name"
+#     songs: [title1, title2, ...]
+#
+# Format for producers/songwriters (songs credited to other artists):
+#   artist_slug:
+#     entries:
+#       - artist: "Original Artist"
+#         title: "Song Title"
+
+# ── Remaining self-artists (not yet fetched) ──────────────────────────────────
+
+sia:
+  artist: Sia
+  songs:
+    - Chandelier
+    - Cheap Thrills
+    - Elastic Heart
+    - Breathe Me
+    - Alive
+    - Fire Meet Gasoline
+    - Big Girls Cry
+    - Eye of the Needle
+    - Taken for Granted
+    - Electric
+
+skepta:
+  artist: Skepta
+  songs:
+    - Shutdown
+    - That's Not Me
+    - Nasty
+    - Too Many Man
+    - Man
+    - Konnichiwa
+    - Hypocrisy
+    - Rescue Me
+    - Microphone Champion
+    - Ghost
+
+skrillex:
+  artist: Skrillex
+  songs:
+    - Scary Monsters and Nice Sprites
+    - Bangarang
+    - First of the Year (Equinox)
+    - Where Are Ü Now
+    - Purple Lamborghini
+    - Summit
+    - Cinema
+    - Rock n Roll (Will Take You to the Mountain)
+    - Reptile
+    - Try It Out
+
+stevie-wonder:
+  artist: Stevie Wonder
+  songs:
+    - Superstition
+    - Sir Duke
+    - Isn't She Lovely
+    - I Just Called to Say I Love You
+    - Master Blaster (Jammin')
+    - You Are the Sunshine of My Life
+    - Higher Ground
+    - Happy Birthday
+    - Signed, Sealed, Delivered I'm Yours
+    - Living for the City
+
+stormzy:
+  artist: Stormzy
+  songs:
+    - Shut Up
+    - Big For Your Boots
+    - Vossi Bop
+    - Own It
+    - Blinded By Your Grace, Pt. 2
+    - Hide & Seek
+    - Heavy Is the Head
+    - Mel Made Me Do It
+    - Crown
+    - Superheroes
+
+sufjan-stevens:
+  artist: Sufjan Stevens
+  songs:
+    - Chicago
+    - Mystery of Love
+    - Visions of Gideon
+    - Death With Dignity
+    - Should Have Known Better
+    - The Only Thing
+    - To Be Alone With You
+    - The Predatory Wasp of the Palisades Is Out to Get Us!
+    - Fourth of July
+    - Casimir Pulaski Day
+
+tems:
+  artist: Tems
+  songs:
+    - Free Mind
+    - Me & U
+    - Damages
+    - Try Me
+    - If Orange Was a Place
+    - Higher
+    - Vibe with U
+    - Found
+    - No Woman No Cry
+    - Crazy Tings
+
+wizkid:
+  artist: WizKid
+  songs:
+    - Ojuelegba
+    - Come Closer
+    - One Dance
+    - Essence
+    - Joro
+    - Reckless
+    - Brown Skin Girl
+    - Soco
+    - Fever
+    - True Love
+
+# ── Producers — songs credited to the original artist on Genius ──────────────
+
+shane-mcanally:
+  entries:
+    - {artist: "Kenny Chesney", title: "Somewhere with You"}
+    - {artist: "Luke Bryan", title: "Kiss Tomorrow Goodbye"}
+    - {artist: "Sam Hunt", title: "Body Like a Back Road"}
+    - {artist: "Miranda Lambert", title: "Mama's Broken Heart"}
+    - {artist: "Kacey Musgraves", title: "Space Cowboy"}
+    - {artist: "Brothers Osborne", title: "Stay a Little Longer"}
+    - {artist: "Dierks Bentley", title: "Different for Girls"}
+    - {artist: "Kenny Chesney", title: "Come Over"}
+    - {artist: "Sam Hunt", title: "Make You Miss Me"}
+    - {artist: "Kacey Musgraves", title: "Follow Your Arrow"}
+
+tainy:
+  entries:
+    - {artist: "Bad Bunny", title: "Estamos Bien"}
+    - {artist: "J Balvin", title: "No Es Justo"}
+    - {artist: "Bad Bunny", title: "Tití Me Preguntó"}
+    - {artist: "Karol G", title: "Mamiii"}
+    - {artist: "Cardi B", title: "I Like It"}
+    - {artist: "Bad Bunny", title: "Un Verano Sin Ti"}
+    - {artist: "Jhay Cortez", title: "No Me Conoce"}
+    - {artist: "Ricky Martin", title: "Cántalo"}
+    - {artist: "Farruko", title: "Pepas"}
+    - {artist: "J Balvin", title: "Safari"}
+
+the-dream:
+  entries:
+    - {artist: "Rihanna", title: "Umbrella"}
+    - {artist: "Beyoncé", title: "Single Ladies (Put a Ring on It)"}
+    - {artist: "Justin Bieber", title: "Baby"}
+    - {artist: "Beyoncé", title: "Halo"}
+    - {artist: "Beyoncé", title: "Love on Top"}
+    - {artist: "Mariah Carey", title: "Obsessed"}
+    - {artist: "Beyoncé", title: "Best Thing I Never Had"}
+    - {artist: "Rihanna", title: "Take a Bow"}
+    - {artist: "Beyoncé", title: "Break My Soul"}
+    - {artist: "Kanye West", title: "Blame Game"}
+
+max-martin:
+  entries:
+    - {artist: "Britney Spears", title: "...Baby One More Time"}
+    - {artist: "Backstreet Boys", title: "I Want It That Way"}
+    - {artist: "Katy Perry", title: "I Kissed a Girl"}
+    - {artist: "Taylor Swift", title: "Shake It Off"}
+    - {artist: "Taylor Swift", title: "Blank Space"}
+    - {artist: "The Weeknd", title: "Blinding Lights"}
+    - {artist: "Maroon 5", title: "One More Night"}
+    - {artist: "Katy Perry", title: "Roar"}
+    - {artist: "NSYNC", title: "It's Gonna Be Me"}
+    - {artist: "Taylor Swift", title: "Bad Blood"}
+
+rodney-jerkins:
+  entries:
+    - {artist: "Brandy", title: "The Boy Is Mine"}
+    - {artist: "Destiny's Child", title: "Say My Name"}
+    - {artist: "Michael Jackson", title: "You Rock My World"}
+    - {artist: "Jennifer Lopez", title: "If You Had My Love"}
+    - {artist: "Whitney Houston", title: "It's Not Right but It's Okay"}
+    - {artist: "Beyoncé", title: "Déjà Vu"}
+    - {artist: "Mary J. Blige", title: "I Can Love You"}
+    - {artist: "Missy Elliott", title: "Work It"}
+    - {artist: "Brandy", title: "Have You Ever"}
+    - {artist: "Michael Jackson", title: "Speechless"}
+
+jam-and-lewis:
+  entries:
+    - {artist: "Janet Jackson", title: "Control"}
+    - {artist: "Janet Jackson", title: "That's the Way Love Goes"}
+    - {artist: "Janet Jackson", title: "Love Will Never Do (Without You)"}
+    - {artist: "Michael Jackson", title: "Scream"}
+    - {artist: "Cherrelle", title: "Saturday Love"}
+    - {artist: "Force MDs", title: "Tender Love"}
+    - {artist: "Boyz II Men", title: "4 Seasons of Loneliness"}
+    - {artist: "New Edition", title: "Can You Stand the Rain"}
+    - {artist: "Cherelle", title: "I Didn't Mean to Turn You On"}
+    - {artist: "Janet Jackson", title: "Nasty"}
+
+will-putney:
+  entries:
+    - {artist: "Fit for an Autopsy", title: "The Sea of Tragic Beasts"}
+    - {artist: "Fit for an Autopsy", title: "Oh What the Future Holds"}
+    - {artist: "Fit for an Autopsy", title: "The Nothing That Is"}
+    - {artist: "Fit for an Autopsy", title: "Absolute Hope Absolute Despair"}
+    - {artist: "Fit for an Autopsy", title: "Atonement"}
+    - {artist: "Fit for an Autopsy", title: "When This Decays"}
+    - {artist: "Fit for an Autopsy", title: "Hydra"}
+    - {artist: "Fit for an Autopsy", title: "Heads Will Hang"}
+    - {artist: "Fit for an Autopsy", title: "A Proper Goodbye"}
+    - {artist: "Fit for an Autopsy", title: "Savages"}

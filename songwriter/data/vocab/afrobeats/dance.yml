@@ -1,0 +1,27 @@
+slug: afrobeats.dance
+name: Afrobeats / Dance (movement, body, joy)
+description: The dance-floor and body-as-instrument vocabulary. Pidgin-tinged English mixed with Yoruba/Igbo loanwords commonly heard in modern afrobeats hooks.
+words:
+  - { word: shake,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: shaking,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: wine,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: wining,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: whine,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: gyal,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: body,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: waist,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: hips,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: hip,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: feet,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: dance-floor, emotional_weight: 0.7, imagery_class: physical }
+  - { word: party,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: vibe,        emotional_weight: 0.8, imagery_class: abstract }
+  - { word: vibes,       emotional_weight: 0.8, imagery_class: abstract }
+  - { word: vibing,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: groove,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: shaku,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: zanku,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: gwara,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: jollof,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: amapiano,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: log-drum,    emotional_weight: 0.7, imagery_class: physical }

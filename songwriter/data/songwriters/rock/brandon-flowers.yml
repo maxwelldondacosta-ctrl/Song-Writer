@@ -1,0 +1,53 @@
+slug: brandon-flowers
+display_name: Brandon Flowers
+real_name: Brandon Flowers
+era: 2002-present
+primary_genre: rock
+sub_genres: [alt-rock, synth-rock, americana-rock]
+role: self-writing-artist
+notable_credits:
+  - "Mr. Brightside"
+  - "When You Were Young"
+  - "Read My Mind"
+  - "The Man"
+craft_signature:
+  - "Bruce Springsteen DNA in a Vegas-skyline package — verses paint a small-town American scene, chorus arenas-up."
+  - "Rapid-fire verse imagery (specific cars, specific outfits, specific rooms) before a wide-open vowel chorus."
+  - "Late-pivot bridges — a third-act twist or revelation lands the song."
+  - "Sustained-vowel chorus payoffs designed to be sung by 20,000 strangers."
+  - "Refuses ironic detachment; sincere even when the subject is bleak."
+personality_traits: [theatrical, sincere, americana-rooted, anthemic]
+writing_style:
+  avg_line_syllables: 10
+  rhyme_density: medium-high
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: cinematic-scene
+  perspective_default: first-person
+  imagery_emphasis: high
+  signature_devices: [verse-zoom-chorus-arena, late-pivot-bridge, sustained-vowel-chorus]
+preferred_cadences: [storytelling, pop-hook, melodic-glide]
+vocab_fingerprint:
+  signature_words: [you, me, baby, town, road, gone, back]
+  semantic_anchors: [small-town-America, cinematic-scene, late-pivot]
+  avoided_words: [autotune, hi-hat-triplets, trap-808]
+  vowel_priority_words: [right, fight, light, side, alive]
+phonetic_fingerprint:
+  vowel_preference: long-I, long-O, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: arena-vowel-anchor
+reference_tracks:
+  - "Mr. Brightside"
+  - "When You Were Young"
+adoption_prompt: |
+  Write in the Brandon Flowers craft mode: Springsteen-DNA in a Vegas-
+  skyline package. Verses paint a small-town American scene with rapid-
+  fire concrete imagery (specific cars, outfits, rooms); chorus arenas-up
+  on long sustained vowels designed to be sung by a stadium. Bridges
+  pivot late — a third-act twist or revelation lands the song. Refuse
+  ironic detachment; sincere even when the subject is bleak.

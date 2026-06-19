@@ -1,0 +1,27 @@
+slug: soul.groove
+name: Soul / Groove (the body in motion)
+description: Soul-and-funk's body-and-pocket vocabulary. Verbs of motion, the moving body, the shared groove.
+words:
+  - { word: groove,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: pocket,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: feel,        emotional_weight: 0.6, imagery_class: physical, ai_bias_flag: true }
+  - { word: move,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: moves,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: moving,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: dance,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: dancing,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: shake,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: get-down,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: come-on,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: body,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: hips,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: hands,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: hands-up,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: feet,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: rhythm,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: beat,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: drum,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: bass,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: horn,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: horns,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: brass,       emotional_weight: 0.7, imagery_class: physical }

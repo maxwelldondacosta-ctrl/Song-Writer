@@ -1,0 +1,25 @@
+slug: metal.catharsis
+name: Metal / Catharsis (purge, scream-release, mosh-pit absolution)
+description: Metal's specific cathartic vocabulary — not rock's raw shout but the full-body scream of deathcore and metalcore. Purging through physical extremity. The mosh pit as therapy.
+words:
+  - { word: scream,      emotional_weight: 0.9, imagery_class: physical }
+  - { word: screaming,   emotional_weight: 0.9, imagery_class: physical }
+  - { word: purge,       emotional_weight: 0.9, imagery_class: abstract }
+  - { word: purging,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: pit,         emotional_weight: 0.8, imagery_class: physical }
+  - { word: mosh,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: thrash,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: thrashing,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: release,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: cleanse,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: cleansing,   emotional_weight: 0.8, imagery_class: abstract }
+  - { word: erupts,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: erupt,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: walls,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: weight-off,  emotional_weight: 0.8, imagery_class: abstract }
+  - { word: flood,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: pouring,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: flood-out,   emotional_weight: 0.7, imagery_class: abstract }
+  - { word: silence,     emotional_weight: 0.7, imagery_class: sensory }
+  - { word: after,       emotional_weight: 0.6, imagery_class: abstract }
+  - { word: breathe,     emotional_weight: 0.7, imagery_class: physical }

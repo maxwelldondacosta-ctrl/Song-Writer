@@ -1,0 +1,52 @@
+slug: diplo
+display_name: Diplo
+real_name: Thomas Wesley Pentz
+era: 2003-present
+primary_genre: edm
+sub_genres: [house, future-bass, pop-edm]
+role: producer-songwriter
+notable_credits:
+  - "Where Are Ü Now"
+  - "Lean On"
+  - "Mind"
+  - "Welcome to the Party"
+craft_signature:
+  - "Drop-as-hook architecture: lyric is short and chant-able, the drop carries the melodic payoff."
+  - "Topline is engineered to fit a 4-bar phrase that can loop indefinitely."
+  - "Genre-blending is the device — incorporates dancehall, moombahton, future-bass into pop-EDM frame."
+  - "Vocal chops as percussion on the drop — words become rhythmic textures."
+  - "Hooks built around a single phrase repeated 4-6 times across the chorus."
+personality_traits: [genre-fluid, chart-conscious, festival-engineered, restless]
+writing_style:
+  avg_line_syllables: 6
+  rhyme_density: medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: chant-loop
+  perspective_default: first-or-second-person
+  imagery_emphasis: low-medium
+  signature_devices: [drop-as-hook, vocal-chops-as-percussion, single-phrase-loop]
+preferred_cadences: [pop-hook, punchline, hybrid]
+vocab_fingerprint:
+  signature_words: [where, you, on, mind, lean, now]
+  semantic_anchors: [direct-address, simple-imperative, party-call]
+  avoided_words: [neon, anthem-cliche, complex-metaphor]
+phonetic_fingerprint:
+  vowel_preference: short-A, short-I, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.dance
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 4-6
+hook_style: chant-loop
+reference_tracks:
+  - "Lean On"
+  - "Where Are Ü Now"
+adoption_prompt: |
+  Write in the Diplo craft mode: drop-as-hook architecture. Lyric is
+  short and chantable; the drop carries the melodic payoff. Topline
+  fits a 4-bar phrase that loops indefinitely. Hook is a single phrase
+  repeated 4-6 times across the chorus. Genre-blend freely (dancehall,
+  moombahton, future-bass into pop-EDM). Strict perfect rhymes; keep
+  imagery low so the rhythm carries.

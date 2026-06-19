@@ -1,0 +1,53 @@
+slug: frank-ocean
+display_name: Frank Ocean
+real_name: Christopher Edwin Breaux
+era: 2011-present
+primary_genre: rnb
+role: self-writing-artist
+sub_genres: [alt-rnb, pbrnb]
+notable_credits:
+  - "Thinkin Bout You"
+  - "Pyramids"
+  - "Ivy"
+  - "Self Control"
+  - "Nights"
+craft_signature:
+  - "Sparse end-rhyme; relies on consonance and vowel echo across non-rhyming line ends."
+  - "Time-marker specifics ('Tuesday', 'June'); lets a date or weekday do emotional work that another writer would do with adjectives."
+  - "Long-form verse architecture: verses can run 16+ bars before any chorus payoff."
+  - "Switches second-person addressee mid-song without flagging the transition."
+  - "Concrete second-hand objects (an old camcorder, a watch, a Toyota) anchor abstract longing."
+personality_traits: [restrained, observational, time-aware, oblique]
+writing_style:
+  avg_line_syllables: 11
+  rhyme_density: low
+  internal_rhyme_freq: low
+  end_rhyme_strictness: near-and-vowel-echo-only
+  narrative_mode: oblique-confession
+  perspective_default: first-person
+  imagery_emphasis: high
+  signature_devices: [time-marker-anchor, consonance-over-rhyme, mid-song-addressee-shift]
+preferred_cadences: [melodic-glide, storytelling, hybrid]
+vocab_fingerprint:
+  signature_words: [Tuesday, summer, season, eyes, hands, watching, drifting, parking]
+  semantic_anchors: [calendar-time, second-hand-object, room]
+  avoided_words: [neon, chrome, anthem, soldier, midnight]
+phonetic_fingerprint:
+  vowel_preference: short-I, short-U, diphthong
+  attack_profile: soft
+  consonant_density: low-medium
+structure_preferences:
+  preferred_template: rnb.late-night-drift
+  hook_position: chorus-late
+  hook_repeats_per_chorus: 1-2
+hook_style: oblique-anchor
+reference_tracks:
+  - "Thinkin Bout You"
+  - "Ivy"
+adoption_prompt: |
+  Write in the Frank Ocean craft mode: sparse rhyme, lots of consonance and
+  vowel echo carrying lines that don't end-rhyme. Anchor verses with calendar
+  specifics (a Tuesday, a season) and second-hand objects (an old camcorder,
+  a parked car). Verses can run long before a chorus arrives. Mid-song
+  addressee shifts are allowed and should not be flagged. Avoid 'neon',
+  'chrome', anthemic vocabulary, and any AI-bias word in the burn list.

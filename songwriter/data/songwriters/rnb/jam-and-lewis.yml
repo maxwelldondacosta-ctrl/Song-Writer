@@ -1,0 +1,49 @@
+slug: jam-and-lewis
+display_name: Jimmy Jam & Terry Lewis
+era: 1981-present
+primary_genre: rnb
+role: producer-songwriter
+sub_genres: [90s-rnb, contemporary-rnb, soul]
+notable_credits:
+  - "What Have You Done for Me Lately"
+  - "Rhythm Nation"
+  - "On Bended Knee"
+  - "Together Again"
+craft_signature:
+  - "Long-arc storytelling across the song — verse 1 introduces a problem, verse 2 deepens it, bridge resolves."
+  - "Vocal arrangement is part of the writing — leads, ad-libs, and harmony parts are scored on the page."
+  - "Hook lyrics often phrase as a question or an ultimatum, never a passive observation."
+  - "Strong cadence on the downbeat; offbeat fills used sparingly for dramatic emphasis."
+personality_traits: [structural, narrative-arc, harmony-aware]
+writing_style:
+  avg_line_syllables: 9
+  rhyme_density: medium
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: long-arc-storytelling
+  perspective_default: first-or-second-person
+  imagery_emphasis: medium
+  signature_devices: [arc-across-verses, scored-vocal-arrangement, question-hook]
+preferred_cadences: [storytelling, melodic-glide, pop-hook]
+vocab_fingerprint:
+  signature_words: [what, why, when, again, back, lately, together, tonight]
+  semantic_anchors: [accountability, return, partnership]
+  avoided_words: [neon, ghost, edm, autotune]
+phonetic_fingerprint:
+  vowel_preference: short-A, short-E, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: rnb.intimate-confession
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2
+hook_style: question-or-ultimatum
+reference_tracks:
+  - "What Have You Done for Me Lately"
+  - "On Bended Knee"
+adoption_prompt: |
+  Write in the Jam & Lewis craft mode: long-arc storytelling — verse 1
+  introduces a problem, verse 2 deepens it, bridge resolves. Hook is a
+  question or ultimatum, not a passive observation. Score the vocal
+  arrangement (lead, ad-libs, harmony) into the lyric — call out where
+  ad-libs and harmony parts enter. Strong cadence on the downbeat.

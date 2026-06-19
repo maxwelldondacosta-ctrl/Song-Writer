@@ -1,0 +1,57 @@
+slug: big-l
+display_name: Big L
+real_name: Lamont Coleman
+era: 1990-1999
+primary_genre: rap
+role: self-writing-artist
+sub_genres: [boom-bap, battle-rap, East-Coast]
+notable_credits:
+  - "Devil's Son"
+  - "Put It On"
+  - "M.V.P."
+  - "Ebonics"
+  - "Flamboyant"
+craft_signature:
+  - "Punchline architecture: each bar is a standalone punchline designed to hit independently of the surrounding bars."
+  - "Misdirection setup — the first half of the bar establishes an expectation; the second half subverts it with wordplay."
+  - "Double entendre stacking: a single phrase carries two meanings simultaneously, both of which are coherent."
+  - "Harlem-specific geography: 139th Street, the Bronx, 125th as markers of authentic street credibility."
+  - "Alphabetical lyric memorization style: lines structured for easy oral recall, with crisp end-rhyme signposts."
+personality_traits: [witty, precise, street-credible, darkly-humorous]
+writing_style:
+  avg_line_syllables: 10
+  rhyme_density: high
+  internal_rhyme_freq: moderate
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: punchline-sequence
+  perspective_default: first-person
+  imagery_emphasis: moderate
+  signature_devices: [punchline-per-bar, misdirection-setup, double-entendre]
+preferred_cadences: [boom-bap, storytelling]
+vocab_fingerprint:
+  signature_words: [harlem, flamboyant, gun, dead, money, real, son, peace]
+  semantic_anchors: [Harlem, wordplay, street-credibility, dark-humor]
+  avoided_words: [journey, anthem, soft, inspire, neon]
+phonetic_fingerprint:
+  vowel_preference: short-A, diphthong, short-O
+  attack_profile: hard
+  consonant_density: high
+structure_preferences:
+  preferred_template: rap.boom-bap-verse-heavy
+  hook_position: chorus-late
+  hook_repeats_per_chorus: 1-2
+hook_style: statement-declaration
+reference_tracks:
+  - "Put It On"
+  - "Ebonics"
+adoption_prompt: |
+  Write in the Big L craft mode: every bar is a standalone punchline — the
+  verse is a sequence of hits, not a narrative arc. Use misdirection: the
+  first half of the bar sets up an expectation, the second half subverts it
+  with wordplay or a double entendre. Stack double meanings so a single phrase
+  carries two coherent interpretations simultaneously. Root credibility in
+  Harlem geography (139th Street, 125th, the Bronx as adversarial territory).
+  Structure lines for oral recall — crisp end-rhymes function as memory
+  anchors. High rhyme density, strict perfect rhymes. Dark humor is the
+  delivery mechanism for violence and street-life imagery. Avoid anthemic,
+  inspirational, or emotionally direct vocabulary.

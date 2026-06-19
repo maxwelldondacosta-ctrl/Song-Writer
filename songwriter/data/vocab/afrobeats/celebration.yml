@@ -1,0 +1,24 @@
+slug: afrobeats.celebration
+name: Afrobeats / Celebration (naija pride, victory, owambe)
+description: Owambe-energy celebration — parties, champagne, naija slang, hometown pride. Lagos victory lap vocabulary. Pidgin-inflected and place-specific.
+words:
+  - { word: owambe,      emotional_weight: 0.9, imagery_class: physical }
+  - { word: celebrate,   emotional_weight: 0.7, imagery_class: abstract }
+  - { word: aso-ebi,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: naija,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: lagos,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: champagne,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: bottles,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: spraying,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: spray,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: DJ,          emotional_weight: 0.7, imagery_class: physical }
+  - { word: jollof,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: pepper-soup, emotional_weight: 0.7, imagery_class: physical }
+  - { word: suya,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: winner,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: blessings,   emotional_weight: 0.7, imagery_class: abstract }
+  - { word: made-it,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: family,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: raise-am,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: high-life,   emotional_weight: 0.7, imagery_class: abstract }
+  - { word: afrobeats,   emotional_weight: 0.7, imagery_class: abstract }

@@ -1,0 +1,53 @@
+slug: chris-stapleton
+display_name: Chris Stapleton
+real_name: Christopher Alvin Stapleton
+era: 2001-present
+primary_genre: country
+sub_genres: [americana, outlaw-country, blues-country]
+role: singer-songwriter
+notable_credits:
+  - "Tennessee Whiskey"
+  - "Broken Halos"
+  - "Fire Away"
+  - "Either Way"
+craft_signature:
+  - "Blues-soaked country — melodic phrasing pulled from Otis Redding more than from Nashville radio."
+  - "Restrained imagery — never two adjectives where one will do; concrete verbs over emotion words."
+  - "Sustained-vowel chorus payoffs that let the voice do the lifting (the vowels are scored before the words)."
+  - "Repetition with subtle word-substitution between verses ('I' → 'we', 'said' → 'meant')."
+  - "Lyric-as-blues-line: 12 syllables, end-rhyme strict, room for the band to answer."
+personality_traits: [restrained, soulful, lived-in, blues-rooted]
+writing_style:
+  avg_line_syllables: 10
+  rhyme_density: medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: blues-confession
+  perspective_default: first-person
+  imagery_emphasis: medium-high
+  signature_devices: [sustained-vowel-chorus, word-substitution-between-verses, blues-line-architecture]
+preferred_cadences: [storytelling, melodic-glide, straight-4-beat]
+vocab_fingerprint:
+  signature_words: [whiskey, halo, fire, broken, daddy, mama, cold, smoke]
+  semantic_anchors: [drinking, working, family, faith]
+  avoided_words: [neon, anthem, club, autotune]
+  vowel_priority_words: [whiskey, smoke, slow, hold, road]
+phonetic_fingerprint:
+  vowel_preference: long-O, long-A, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2
+hook_style: sustained-vowel-anchor
+reference_tracks:
+  - "Tennessee Whiskey"
+  - "Broken Halos"
+adoption_prompt: |
+  Write in the Chris Stapleton craft mode: blues-soaked country, melodic
+  phrasing closer to Otis Redding than to Nashville radio. Restrained
+  imagery — never two adjectives where one will do; concrete verbs over
+  emotion words. Chorus payoffs land on long sustained vowels (whiskey,
+  smoke, slow, hold) so the voice can do the lifting. Word-substitution
+  between verses ('I' → 'we', 'said' → 'meant'). Strict perfect end-rhymes.

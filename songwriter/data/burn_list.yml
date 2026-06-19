@@ -1,0 +1,76 @@
+words:
+  # 2026-04-30 — added from /last30days research; specific words being flagged as
+  # AI-cliche right now on r/SunoAI, r/aiMusic, and YourTango's ChatGPT-signature list.
+  - { word: ignite,    severity: extreme, drift_direction: AI-lyrics-cliche,    alternatives: [strike, light-up, set-off, kick-off, match] }
+  - { word: tonight,   severity: strong,  drift_direction: AI-lyrics-cliche,    alternatives: [tomorrow, this-evening, by-morning, after-hours, late] }
+  - { word: lights,    severity: strong,  drift_direction: AI-lyrics-cliche,    alternatives: [windows, lamps, bulbs, glow, fluorescents] }
+  - { word: delve,     severity: strong,  drift_direction: ChatGPT-signature,   alternatives: [dig, look-into, get-into, work-through] }
+  - { word: illuminate, severity: strong, drift_direction: ChatGPT-signature,   alternatives: [light-up, show, brighten, lay-bare] }
+
+  # CORE 5 — confirmed from spec
+  - { word: neon,    severity: extreme, drift_direction: synthwave-cinematic, alternatives: [argon, halogen, lit, glowing, fluorescent] }
+  - { word: echo,    severity: extreme, drift_direction: ambient-cliche,      alternatives: [ringing, resound, lingering, repeat, return] }
+  - { word: ghost,   severity: extreme, drift_direction: indie-cliche,        alternatives: [trace, residue, shadow-of, afterimage, leftover] }
+  - { word: silver,  severity: strong,  drift_direction: synthwave,           alternatives: [chrome, steel, mercury, metal, quiet-light] }
+  - { word: shadow,  severity: strong,  drift_direction: moody-cinematic,     alternatives: [dim, dusk, half-light, silhouette, shade] }
+
+  # SYNTHWAVE / 80s DRIFT
+  - { word: chrome,    severity: strong,  drift_direction: synthwave,        alternatives: [polished, mirror, slick] }
+  - { word: midnight,  severity: strong,  drift_direction: moody-cliche,     alternatives: [late, 2am, after-hours, dead-of-night] }
+  - { word: city-lights, severity: mild,  drift_direction: 80s-cinema,       alternatives: [downtown, traffic-glow, the-strip] }
+  - { word: highway,   severity: mild,    drift_direction: synthwave,        alternatives: [the-405, the-turnpike, county-line] }
+  - { word: skyline,   severity: mild,    drift_direction: cinematic,        alternatives: [the-blocks, rooftops, the-grid] }
+  - { word: horizon,   severity: mild,    drift_direction: cinematic,        alternatives: [the-edge, where-the-sky-tips] }
+
+  # MOODY / DRAMATIC DRIFT
+  - { word: whisper,   severity: strong,  drift_direction: moody-cliche,     alternatives: [murmur, breath-out, mouth-close] }
+  - { word: scream,    severity: strong,  drift_direction: melodrama,        alternatives: [yelled, throat-raw, shouted] }
+  - { word: bleed,     severity: strong,  drift_direction: melodrama,        alternatives: [drip, run-thin, leak] }
+  - { word: broken,    severity: extreme, drift_direction: generic-emo,      alternatives: [splintered, hollowed, snapped, wrecked] }
+  - { word: shattered, severity: strong,  drift_direction: melodrama,        alternatives: [splintered, in-pieces, ground-down] }
+  - { word: fragile,   severity: strong,  drift_direction: indie-cliche,     alternatives: [thin-skinned, paperweight, ready-to-go] }
+  - { word: empty,     severity: strong,  drift_direction: generic-emo,      alternatives: [hollow, scoured, gut-out] }
+  - { word: hollow,    severity: mild,    drift_direction: generic-emo,      alternatives: [scooped, gutted, vacant-room] }
+  - { word: numb,      severity: strong,  drift_direction: generic-emo,      alternatives: [muffled, asleep, dead-feet] }
+  - { word: lost,      severity: strong,  drift_direction: generic,          alternatives: [adrift, off-the-map, wrong-side] }
+  - { word: alone,     severity: strong,  drift_direction: generic,          alternatives: [one-of-one, just-me, room-to-myself] }
+
+  # FIRE / SMOKE CLICHES
+  - { word: fire,      severity: strong,  drift_direction: cliche,           alternatives: [match-strike, smoke-curl, lit-up] }
+  - { word: flame,     severity: mild,    drift_direction: cliche,           alternatives: [match, ember, lit-tip] }
+  - { word: burning,   severity: strong,  drift_direction: cliche,           alternatives: [smouldering, going-up, crackling] }
+  - { word: smoke,     severity: mild,    drift_direction: cliche,           alternatives: [haze, exhale, blue-cloud] }
+  - { word: ashes,     severity: mild,    drift_direction: cliche,           alternatives: [grey-dust, soot, char] }
+
+  # WEATHER / CINEMATIC DRIFT
+  - { word: storm,     severity: strong,  drift_direction: cinematic,        alternatives: [low-pressure, the-front-coming, sky-down] }
+  - { word: rain,      severity: mild,    drift_direction: cliche,           alternatives: [downpour, the-drip, sky-leaking] }
+  - { word: thunder,   severity: strong,  drift_direction: cinematic,        alternatives: [the-rolling, the-crack-overhead] }
+  - { word: lightning, severity: strong,  drift_direction: cinematic,        alternatives: [strike, white-flash, fork-in-the-sky] }
+  - { word: ocean,     severity: mild,    drift_direction: cinematic,        alternatives: [the-water, salt, deep-end] }
+  - { word: stars,     severity: mild,    drift_direction: cliche,           alternatives: [pinpricks, the-sky-up-there, satellites] }
+
+  # ACTION-MOVIE DRIFT
+  - { word: warrior,   severity: extreme, drift_direction: anthem-cliche,    alternatives: [fighter, holdout, last-one-up] }
+  - { word: soldier,   severity: extreme, drift_direction: anthem-cliche,    alternatives: [marching, on-deck, frontline] }
+  - { word: battle,    severity: strong,  drift_direction: anthem-cliche,    alternatives: [the-fight, going-rounds, knockdown] }
+  - { word: rise,      severity: strong,  drift_direction: anthem-cliche,    alternatives: [stand-up, get-back, on-my-feet] }
+  - { word: fall,      severity: mild,    drift_direction: anthem-cliche,    alternatives: [drop, came-down, knees-out] }
+
+  # GENERIC EMOTION VERBS
+  - { word: feel,      severity: strong,  drift_direction: generic-emotion,  alternatives: [taste, register, catch, run-cold] }
+  - { word: heart,     severity: strong,  drift_direction: generic-emotion,  alternatives: [chest, ribs, heart-rate, the-thump] }
+  - { word: soul,      severity: strong,  drift_direction: generic-emotion,  alternatives: [the-shape-of-me, what's-left] }
+  - { word: tears,     severity: strong,  drift_direction: generic-emotion,  alternatives: [eyes-wet, cheek-stripe, salt-down] }
+  - { word: cry,       severity: mild,    drift_direction: generic-emotion,  alternatives: [break-down, wet-up, lose-it] }
+
+  # AI-COMMON FILLER
+  - { word: forever,   severity: strong,  drift_direction: pop-cliche,       alternatives: [the-long-haul, til-they-shut-it-down] }
+  - { word: always,    severity: mild,    drift_direction: pop-cliche,       alternatives: [every-time, no-matter-when] }
+  - { word: never,     severity: mild,    drift_direction: pop-cliche,       alternatives: [not-once, zero-times, dead-stop] }
+  - { word: dreams,    severity: strong,  drift_direction: pop-cliche,       alternatives: [REM, what-I-see-asleep, the-running-loop] }
+  - { word: angel,     severity: strong,  drift_direction: pop-cliche,       alternatives: [saint, the-soft-one] }
+  - { word: heaven,    severity: strong,  drift_direction: pop-cliche,       alternatives: [the-up-there, no-floor] }
+  - { word: paradise,  severity: strong,  drift_direction: pop-cliche,       alternatives: [the-clean-place, no-rules-zone] }
+  - { word: pain,      severity: extreme, drift_direction: generic-emotion,  alternatives: [the-ache, soreness, the-bruise] }
+  - { word: love,      severity: mild,    drift_direction: generic-emotion,  alternatives: [the-thing-we-have, what-we-call-it] }

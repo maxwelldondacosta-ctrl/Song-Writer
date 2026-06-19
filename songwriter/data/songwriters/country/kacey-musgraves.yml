@@ -1,0 +1,54 @@
+slug: kacey-musgraves
+display_name: Kacey Musgraves
+real_name: Kacey Lee Musgraves
+era: 2007-present
+primary_genre: country
+sub_genres: [americana, country-pop, country-folk]
+role: singer-songwriter
+notable_credits:
+  - "Merry Go 'Round"
+  - "Slow Burn"
+  - "Rainbow"
+  - "Golden Hour (album)"
+craft_signature:
+  - "Wry observational eye — paints the small-town predicament without sneering at it."
+  - "Plain-spoken couplets that resolve a tension in one line and answer it in the next."
+  - "Modern modular references (texts, road maps, social media) snuck in alongside trad country imagery."
+  - "Long-vowel pop-country choruses that float on a gentle pad rather than swing on a steel guitar."
+  - "Tone is dry-warm: never melodramatic, never cynical."
+personality_traits: [wry, observational, generous-toned, modern]
+writing_style:
+  avg_line_syllables: 8
+  rhyme_density: medium
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: observational-couplet
+  perspective_default: first-person-or-omniscient
+  imagery_emphasis: high
+  signature_devices: [observational-couplet, modern-detail-against-trad-imagery, dry-warm-tone]
+preferred_cadences: [pop-hook, melodic-glide, storytelling]
+vocab_fingerprint:
+  signature_words: [we, slow, golden, rainbow, merry-go-round, you, follow]
+  semantic_anchors: [small-town-life, modern-detail, generosity, slow-pace]
+  avoided_words: [neon, club, anthem, american-rap-slang]
+  vowel_priority_words: [slow, golden, rainbow, follow]
+phonetic_fingerprint:
+  vowel_preference: long-O, long-A, diphthong
+  attack_profile: soft
+  consonant_density: low-medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: long-vowel-glide
+reference_tracks:
+  - "Slow Burn"
+  - "Rainbow"
+adoption_prompt: |
+  Write in the Kacey Musgraves craft mode: wry observational eye on
+  small-town life, never sneering. Plain-spoken couplets that set a
+  tension in line 1 and answer it in line 2. Sneak modern modular details
+  (texts, road maps, deliveries) in alongside trad country imagery. Long-
+  vowel pop-country choruses that float on a gentle pad rather than swing
+  on steel guitar. Dry-warm tone: never melodramatic, never cynical.
+  Strict perfect end-rhymes.

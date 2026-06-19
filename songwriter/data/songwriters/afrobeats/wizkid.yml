@@ -1,0 +1,54 @@
+slug: wizkid
+display_name: Wizkid
+real_name: Ayodeji Ibrahim Balogun
+era: 2010-present
+primary_genre: afrobeats
+sub_genres: [modern-afrobeats, afro-fusion, alte]
+role: self-writing-artist
+notable_credits:
+  - "Essence"
+  - "Ojuelegba"
+  - "Joro"
+  - "Made in Lagos (album)"
+craft_signature:
+  - "Melodic-glide cadence — every line surfs the log-drum bass rather than fighting it."
+  - "English + Yoruba code-switching mid-line; the Yoruba phrase is usually the affectionate one."
+  - "Repetitive single-phrase hooks that loop ('on me', 'on me' or 'baby, baby')."
+  - "Restrained imagery — favors openness and breath over packed bars."
+  - "Long sustained vowels on hook syllables; he sings the chorus, doesn't rap it."
+personality_traits: [smooth, restrained, charismatic, lagos-rooted]
+writing_style:
+  avg_line_syllables: 7
+  rhyme_density: low-medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: near-rhyme-friendly
+  narrative_mode: smooth-flirtation
+  perspective_default: first-person
+  imagery_emphasis: medium
+  signature_devices: [code-switching, repetitive-phrase-hook, long-vowel-sustain]
+preferred_cadences: [melodic-glide, pop-hook, hybrid]
+vocab_fingerprint:
+  signature_words: [baby, on-me, body, see, me, oh, ah]
+  semantic_anchors: [smooth, slow-flirt, lagos]
+  avoided_words: [neon, ghost, anthem, soldier]
+  vowel_priority_words: [me, see, oh, slow, hold]
+phonetic_fingerprint:
+  vowel_preference: long-O, long-E, diphthong
+  attack_profile: soft
+  consonant_density: low
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 3-4
+hook_style: repetitive-phrase
+reference_tracks:
+  - "Essence"
+  - "Joro"
+adoption_prompt: |
+  Write in the Wizkid craft mode: melodic-glide cadence at 105-115 BPM that
+  surfs the log-drum bass instead of fighting it. Mix English with Yoruba
+  or Pidgin loanwords mid-line — the loanword is usually the affectionate
+  one (omoge, baby-girl, my love). Hooks repeat a single short phrase
+  3-4 times across the chorus. Restrained imagery; favor openness and
+  breath. Sing the chorus on long sustained vowels (me, see, oh, slow).
+  Near-rhymes welcome.

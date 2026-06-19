@@ -1,0 +1,51 @@
+slug: finneas
+display_name: Finneas
+real_name: Finneas O'Connell
+era: 2017-present
+primary_genre: pop
+role: producer-songwriter
+sub_genres: [alt-pop, pop, indie-pop]
+notable_credits:
+  - "ocean eyes"
+  - "bad guy"
+  - "everything i wanted"
+  - "Happier Than Ever"
+craft_signature:
+  - "Whisper-to-belt dynamic: verse is close-mic'd intimate, chorus opens up."
+  - "Specific household-object imagery ('I'd put my hands up') over abstract metaphor."
+  - "Verses often deliver a small narrative scene; chorus delivers the emotional thesis."
+  - "Negative-space production cues lyrics — silence between lines is part of the writing."
+personality_traits: [observational, restrained, dramaturgical]
+writing_style:
+  avg_line_syllables: 7
+  rhyme_density: low
+  internal_rhyme_freq: low
+  end_rhyme_strictness: near-rhyme-friendly
+  narrative_mode: scene-based
+  perspective_default: first-person
+  imagery_emphasis: high
+  signature_devices: [whisper-to-belt-dynamic, household-imagery, silence-as-punctuation]
+preferred_cadences: [melodic-glide, storytelling, hybrid]
+vocab_fingerprint:
+  signature_words: [hands, eyes, mirror, bedroom, house, kitchen, smaller, quiet]
+  semantic_anchors: [household-room, body-part, observation]
+  avoided_words: [club, neon, anthem, soldier]
+phonetic_fingerprint:
+  vowel_preference: short-I, short-A, diphthong
+  attack_profile: soft-then-hard-on-chorus
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-mid
+  hook_repeats_per_chorus: 2
+hook_style: emotional-thesis
+reference_tracks:
+  - "ocean eyes"
+  - "Happier Than Ever"
+adoption_prompt: |
+  Write in the Finneas craft mode: whisper-to-belt dynamic between verse and
+  chorus. Verses are close-mic'd, scene-based, anchored in specific household
+  imagery (a kitchen, a hallway, a phone face-down on a counter). Chorus
+  delivers the emotional thesis directly. Near-rhymes welcome. Use silence as
+  punctuation — lines do not have to fill every beat. Avoid club / anthem
+  vocabulary entirely.

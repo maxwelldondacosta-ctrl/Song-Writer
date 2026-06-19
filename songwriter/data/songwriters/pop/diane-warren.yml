@@ -1,0 +1,55 @@
+slug: diane-warren
+display_name: Diane Warren
+real_name: Diane Eve Warren
+era: 1985-present
+primary_genre: pop
+role: pure-songwriter
+sub_genres: [pop, country-pop, soft-rock]
+notable_credits:
+  - "Because You Loved Me"
+  - "How Do I Live"
+  - "Un-Break My Heart"
+  - "I Don't Want to Miss a Thing"
+  - "If I Could Turn Back Time"
+craft_signature:
+  - "Big-emotion, plainspoken hooks engineered for a singer's belt range."
+  - "Strict end-rhymes; almost never breaks expected scheme — listener trust is the asset."
+  - "Verse builds via concrete physical setup, then chorus pivots to declarative emotional summary."
+  - "Repeats the title in the chorus 2-3 times, with the strongest delivery on the last repeat."
+  - "Uses 'I' and 'you' more than any other pronouns; rarely speaks in 'we'."
+personality_traits: [direct, sentimental, romantic, undeflected]
+writing_style:
+  avg_line_syllables: 9
+  rhyme_density: low-to-medium
+  internal_rhyme_freq: rare
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: declarative-confessional
+  perspective_default: first-person-to-second-person
+  imagery_emphasis: medium
+  signature_devices: [title-as-chorus-anchor, builds-on-singer-belt-range]
+preferred_cadences: [pop-hook, melodic-glide, storytelling]
+vocab_fingerprint:
+  signature_words: [heart, love, every-breath, until, forever, anyway, would, never]
+  semantic_anchors: [time-passing, sacrifice, the-other-person]
+  avoided_words: [neon, chrome, ghost, autotune-ad-libs, slang-heavy]
+  vowel_priority_words: [stay, away, day, way, true]   # belt-friendly long vowels
+phonetic_fingerprint:
+  vowel_preference: long-A, long-O, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 3
+hook_style: declarative-title-anchor
+reference_tracks:
+  - "Because You Loved Me"
+  - "I Don't Want to Miss a Thing"
+adoption_prompt: |
+  Write in the Diane Warren craft mode: plainspoken big-emotion hooks engineered
+  for a singer's belt range. Strict end-rhymes; never break the expected scheme.
+  Verse should set up a concrete physical situation (a goodbye, a returned object,
+  a phone call) and the chorus should pivot to a declarative emotional summary
+  built around the song's title. Use 'I' and 'you' freely; avoid 'we'. The line
+  in the chorus that lands the title should sit on a long-vowel syllable
+  ('stay', 'away', 'true') so a vocalist can sustain it.

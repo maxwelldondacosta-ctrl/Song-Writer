@@ -1,0 +1,28 @@
+slug: rock.catharsis
+name: Rock / Catharsis (release, friction, the breaking point)
+description: Rock's emotional-release vocabulary — the words you yell into a microphone. Concrete physical verbs, not abstract grief.
+words:
+  - { word: scream,      emotional_weight: 0.7, imagery_class: physical, ai_bias_flag: true }
+  - { word: shout,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: shouted,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: throw,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: threw,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: smash,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: smashed,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: kick,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: kicked,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: slammed,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: punch,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: punched,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: tear,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: torn,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: ripped,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: gut,         emotional_weight: 0.8, imagery_class: physical }
+  - { word: chest,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: throat,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: teeth,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: jaw,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: bone,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: bones,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: breaking,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: breaking-point, emotional_weight: 0.8, imagery_class: physical }

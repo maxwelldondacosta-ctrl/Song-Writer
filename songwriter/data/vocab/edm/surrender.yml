@@ -1,0 +1,24 @@
+slug: edm.surrender
+name: EDM / Surrender (dropping into the music, release at the drop)
+description: The moment of letting the bass take over — losing yourself on a dance floor. Release as a physical act. The drop as surrender metaphor. Crowd-energy vocabulary.
+words:
+  - { word: drop,        emotional_weight: 0.9, imagery_class: physical }
+  - { word: release,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: let-go,      emotional_weight: 0.8, imagery_class: abstract }
+  - { word: lose,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: losing,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: sinking,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: swept,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: carry,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: current,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: under,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: submerged,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: crowd,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: ocean,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: pulse,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: bass,        emotional_weight: 0.8, imagery_class: sensory }
+  - { word: chest,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: trembling,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: dissolve,    emotional_weight: 0.7, imagery_class: abstract }
+  - { word: nothing-left, emotional_weight: 0.7, imagery_class: abstract }
+  - { word: all-in,      emotional_weight: 0.8, imagery_class: abstract }

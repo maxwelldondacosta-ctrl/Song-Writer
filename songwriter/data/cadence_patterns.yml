@@ -1,0 +1,110 @@
+patterns:
+  - slug: straight-4-beat
+    name: Straight 4-Beat
+    syllable_template: "8"
+    stress_template: "10101010"
+    typical_genres: [pop, rock, country]
+    example_lines:
+      - "I been waiting on the phone all night"
+    rhyme_compatibility:
+      end: [perfect, near]
+      internal: low
+
+  - slug: double-time-rap
+    name: Double-Time Rap
+    syllable_template: "16"
+    stress_template: "1010101010101010"
+    typical_genres: [rap]
+    example_lines:
+      - "Pull up to the spot like a heat-seek missile in the city tonight"
+    rhyme_compatibility:
+      end: [perfect, near, slant]
+      internal: high
+
+  - slug: triplet
+    name: Triplet
+    syllable_template: "12"
+    stress_template: "100100100100"
+    typical_genres: [rap]
+    example_lines:
+      - "Money in the bag and the pistol on the floor again"
+    rhyme_compatibility:
+      end: [perfect, near]
+      internal: medium
+
+  - slug: grime-swing
+    name: Grime Swing
+    syllable_template: "10-12"
+    stress_template: "1?1?1?1?"
+    typical_genres: [grime]
+    example_lines:
+      - "Linkin uptown when the night gets dark"
+    rhyme_compatibility:
+      end: [near, slant]
+      internal: high
+
+  - slug: melodic-glide
+    name: Melodic Glide
+    syllable_template: "6-9"
+    stress_template: "10010"
+    typical_genres: [rnb, pop]
+    example_lines:
+      - "You called me late, said you couldn't sleep"
+    rhyme_compatibility:
+      end: [perfect, near, slant]
+      internal: low
+
+  - slug: punchline
+    name: Punchline
+    syllable_template: "4-7"
+    stress_template: "11"
+    typical_genres: [rap, pop]
+    example_lines:
+      - "Hit different now"
+    rhyme_compatibility:
+      end: [perfect]
+      internal: low
+
+  - slug: breakdown-chant
+    name: Breakdown Chant
+    syllable_template: "3-5"
+    stress_template: "1"
+    typical_genres: [metal, rock]
+    example_lines:
+      - "Bury me deep"
+    rhyme_compatibility:
+      end: [perfect, near]
+      internal: low
+
+  - slug: pop-hook
+    name: Pop Hook
+    syllable_template: "6-10"
+    stress_template: "10101"
+    typical_genres: [pop]
+    example_lines:
+      - "I don't wanna lose you tonight"
+    rhyme_compatibility:
+      end: [perfect, near]
+      internal: medium
+
+  - slug: storytelling
+    name: Storytelling
+    syllable_template: "10-14"
+    stress_template: "0101010101"
+    typical_genres: [folk, country, rap]
+    example_lines:
+      - "She came around the bend and the rain was falling"
+    rhyme_compatibility:
+      end: [perfect, near, slant]
+      internal: medium
+
+  - slug: hybrid
+    name: Hybrid
+    syllable_template: "?"
+    stress_template: "?"
+    typical_genres: [pop, rnb, rap]
+    example_lines:
+      - "Free-form section that swaps cadence mid-line"
+    rhyme_compatibility:
+      end: [perfect, near, slant, vowel]
+      internal: high

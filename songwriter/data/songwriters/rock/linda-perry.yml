@@ -1,0 +1,53 @@
+slug: linda-perry
+display_name: Linda Perry
+real_name: Linda Perry
+era: 1990-present
+primary_genre: rock
+sub_genres: [alt-rock, pop-rock]
+role: pure-songwriter
+notable_credits:
+  - "Beautiful (Christina Aguilera)"
+  - "Get the Party Started (Pink)"
+  - "What's Up? (4 Non Blondes)"
+  - "Hands (Jewel)"
+craft_signature:
+  - "Big-emotion plain-spoken hooks engineered for a powerhouse belt — same DNA as Diane Warren but rock-rooted."
+  - "Repeats the title in the chorus 3-4 times, with the strongest delivery on the last."
+  - "Verses build via specific physical setup — a memory, a room, a body — before the chorus pivots to declarative."
+  - "Refuses ironic distance — straight emotional content delivered without quotation marks."
+  - "Strong hooks that work for any artist; writes for the voice not for herself."
+personality_traits: [direct, sentimental, big-emotion, generous]
+writing_style:
+  avg_line_syllables: 9
+  rhyme_density: medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: declarative-confessional
+  perspective_default: first-person
+  imagery_emphasis: medium-high
+  signature_devices: [title-as-chorus-anchor, repeat-with-build, body-as-setup]
+preferred_cadences: [pop-hook, melodic-glide, storytelling]
+vocab_fingerprint:
+  signature_words: [I, beautiful, hands, hold, free, up]
+  semantic_anchors: [self-affirmation, body, declaration]
+  avoided_words: [neon, anthem-cliche, ironic-distance]
+  vowel_priority_words: [free, you, me, true, see]
+phonetic_fingerprint:
+  vowel_preference: long-E, long-O, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 3-4
+hook_style: declarative-title-anchor
+reference_tracks:
+  - "What's Up?"
+  - "Beautiful"
+adoption_prompt: |
+  Write in the Linda Perry craft mode: plain-spoken big-emotion hooks
+  engineered for a powerhouse belt. Verses set up a specific physical
+  scene; chorus pivots to declarative emotional summary anchored on the
+  title. Title repeats 3-4 times across the chorus with the strongest
+  delivery on the last. Refuse ironic distance — straight emotional
+  content, no quotation marks around the feelings. Strict perfect rhymes.

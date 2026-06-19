@@ -1,0 +1,143 @@
+genres:
+  - slug: pop
+    name: Pop
+    typical_bpm_min: 90
+    typical_bpm_max: 130
+    description: "Mainstream pop and adjacent commercial styles."
+    sub_genres:
+      - slug: dance-pop
+        name: Dance-Pop
+        typical_bpm_min: 110
+        typical_bpm_max: 128
+      - slug: synth-pop
+        name: Synth-Pop
+        typical_bpm_min: 100
+        typical_bpm_max: 124
+      - slug: indie-pop
+        name: Indie Pop
+        typical_bpm_min: 92
+        typical_bpm_max: 120
+      - slug: hyperpop
+        name: Hyperpop
+        typical_bpm_min: 140
+        typical_bpm_max: 170
+      - slug: alt-pop
+        name: Alt-Pop
+        typical_bpm_min: 88
+        typical_bpm_max: 116
+      - slug: country-pop
+        name: Country-Pop
+        typical_bpm_min: 90
+        typical_bpm_max: 118
+
+  - slug: rnb
+    name: R&B
+    typical_bpm_min: 60
+    typical_bpm_max: 105
+    description: "R&B, neo-soul, and contemporary alt-R&B."
+    sub_genres:
+      - slug: contemporary-rnb
+        name: Contemporary R&B
+        typical_bpm_min: 70
+        typical_bpm_max: 100
+      - slug: alt-rnb
+        name: Alternative R&B
+        typical_bpm_min: 60
+        typical_bpm_max: 95
+      - slug: neo-soul
+        name: Neo-Soul
+        typical_bpm_min: 70
+        typical_bpm_max: 95
+      - slug: 90s-rnb
+        name: 90s R&B
+        typical_bpm_min: 70
+        typical_bpm_max: 100
+      - slug: pbrnb
+        name: PBR&B
+        typical_bpm_min: 60
+        typical_bpm_max: 90
+
+  - slug: rap
+    name: Rap / Hip-Hop
+    typical_bpm_min: 60
+    typical_bpm_max: 160
+    sub_genres:
+      - { slug: trap, name: Trap, typical_bpm_min: 130, typical_bpm_max: 160 }
+      - { slug: boom-bap, name: Boom-Bap, typical_bpm_min: 85, typical_bpm_max: 100 }
+
+  - slug: rock
+    name: Rock
+    typical_bpm_min: 90
+    typical_bpm_max: 160
+    sub_genres:
+      - { slug: alt-rock, name: Alt-Rock, typical_bpm_min: 100, typical_bpm_max: 140 }
+      - { slug: indie-rock, name: Indie Rock, typical_bpm_min: 95, typical_bpm_max: 135 }
+      - { slug: classic-rock, name: Classic Rock, typical_bpm_min: 90, typical_bpm_max: 140 }
+
+  - slug: metal
+    name: Metal / Heavy
+    typical_bpm_min: 100
+    typical_bpm_max: 220
+    sub_genres:
+      - { slug: deathcore, name: Deathcore, typical_bpm_min: 130, typical_bpm_max: 200 }
+      - { slug: metalcore, name: Metalcore, typical_bpm_min: 130, typical_bpm_max: 180 }
+
+  - slug: country
+    name: Country
+    typical_bpm_min: 80
+    typical_bpm_max: 130
+    sub_genres:
+      - { slug: pop-country, name: Pop Country, typical_bpm_min: 95, typical_bpm_max: 125 }
+      - { slug: americana, name: Americana, typical_bpm_min: 80, typical_bpm_max: 120 }
+      - { slug: outlaw-country, name: Outlaw Country, typical_bpm_min: 90, typical_bpm_max: 120 }
+
+  - slug: edm
+    name: Electronic / EDM
+    typical_bpm_min: 100
+    typical_bpm_max: 160
+    sub_genres:
+      - { slug: house, name: House, typical_bpm_min: 118, typical_bpm_max: 128 }
+      - { slug: dubstep, name: Dubstep, typical_bpm_min: 138, typical_bpm_max: 142 }
+      - { slug: future-bass, name: Future Bass, typical_bpm_min: 140, typical_bpm_max: 160 }
+
+  - slug: latin
+    name: Latin
+    typical_bpm_min: 80
+    typical_bpm_max: 130
+    sub_genres:
+      - { slug: reggaeton, name: Reggaeton, typical_bpm_min: 90, typical_bpm_max: 100 }
+      - { slug: bachata, name: Bachata, typical_bpm_min: 120, typical_bpm_max: 130 }
+      - { slug: latin-pop, name: Latin Pop, typical_bpm_min: 95, typical_bpm_max: 120 }
+
+  - slug: folk
+    name: Folk / Singer-Songwriter
+    typical_bpm_min: 60
+    typical_bpm_max: 110
+    sub_genres:
+      - { slug: contemporary-folk, name: Contemporary Folk, typical_bpm_min: 70, typical_bpm_max: 110 }
+      - { slug: indie-folk, name: Indie Folk, typical_bpm_min: 70, typical_bpm_max: 105 }
+
+  - slug: soul
+    name: Soul / Funk / Disco / Gospel
+    typical_bpm_min: 70
+    typical_bpm_max: 130
+    sub_genres:
+      - { slug: classic-soul, name: Classic Soul, typical_bpm_min: 80, typical_bpm_max: 110 }
+      - { slug: funk, name: Funk, typical_bpm_min: 95, typical_bpm_max: 115 }
+      - { slug: gospel, name: Gospel, typical_bpm_min: 70, typical_bpm_max: 110 }
+
+  - slug: afrobeats
+    name: Afrobeats
+    typical_bpm_min: 100
+    typical_bpm_max: 120
+    sub_genres:
+      - { slug: alte, name: Alté, typical_bpm_min: 95, typical_bpm_max: 115 }
+      - { slug: modern-afrobeats, name: Modern Afrobeats, typical_bpm_min: 105, typical_bpm_max: 118 }
+      - { slug: afro-fusion, name: Afro-Fusion, typical_bpm_min: 100, typical_bpm_max: 120 }
+
+  - slug: grime
+    name: UK Grime
+    typical_bpm_min: 130
+    typical_bpm_max: 145
+    sub_genres:
+      - { slug: classic-grime, name: Classic Grime, typical_bpm_min: 138, typical_bpm_max: 142 }

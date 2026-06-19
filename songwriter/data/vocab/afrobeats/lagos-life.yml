@@ -1,0 +1,35 @@
+slug: afrobeats.lagos-life
+name: Afrobeats / Lagos Life (place, daily texture)
+description: Place-and-life vocabulary anchored in modern Lagos / West-African urban texture. Concrete nouns over generic 'city' imagery.
+words:
+  - { word: lagos,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: ikoyi,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: lekki,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: vi,          emotional_weight: 0.7, imagery_class: physical }
+  - { word: ajegunle,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: street,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: streets,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: danfo,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: okada,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: keke,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: market,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: agege,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: suya,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: jollof,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: pepper,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: night,       emotional_weight: 0.5, imagery_class: physical }
+  - { word: night-out,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: club,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: vip,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: section,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: bottles,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: champagne,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: cars,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: benz,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: traffic,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: third-mainland, emotional_weight: 0.7, imagery_class: physical }
+  - { word: bar-beach,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: oga,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: madam,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: chop,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: chop-life,   emotional_weight: 0.7, imagery_class: physical }

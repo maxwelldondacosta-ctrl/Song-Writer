@@ -1,0 +1,52 @@
+slug: skrillex
+display_name: Skrillex
+real_name: Sonny John Moore
+era: 2008-present
+primary_genre: edm
+sub_genres: [dubstep, future-bass, brostep]
+role: producer-songwriter
+notable_credits:
+  - "Bangarang"
+  - "Don't Go"
+  - "Where Are Ü Now"
+  - "Make It Bun Dem"
+craft_signature:
+  - "Vocal-as-instrument: chops, pitch-shifts, time-stretches the vocal until it becomes part of the riff."
+  - "Build-up architecture — minute of tension before the drop is the song; the drop itself is brief."
+  - "Lyrical content is sparse: a few key phrases that can survive heavy processing."
+  - "Cross-genre collaboration is the writing model — pulls in dancehall MCs, pop vocalists, hip-hop verses around the production."
+  - "Pitch-shifted vocal hook becomes the song's identity (Bangarang-style)."
+personality_traits: [genre-fluid, processed-aesthetic, restless, festival-engineered]
+writing_style:
+  avg_line_syllables: 5
+  rhyme_density: low-medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: near-rhyme-friendly
+  narrative_mode: phrase-fragment
+  perspective_default: variable
+  imagery_emphasis: low
+  signature_devices: [vocal-as-instrument, build-up-as-song, processable-phrase-design]
+preferred_cadences: [punchline, breakdown-chant, hybrid]
+vocab_fingerprint:
+  signature_words: [bangarang, scary, monsters, sprites, where]
+  semantic_anchors: [phrase-fragment, processable-syllable, cross-genre-anchor]
+  avoided_words: [complex-metaphor, narrative-arc, story-structure]
+phonetic_fingerprint:
+  vowel_preference: short-A, diphthong, long-E
+  attack_profile: hard
+  consonant_density: high
+structure_preferences:
+  preferred_template: pop.dance
+  hook_position: drop
+  hook_repeats_per_chorus: 2-3
+hook_style: pitch-shifted-phrase
+reference_tracks:
+  - "Bangarang"
+  - "Don't Go"
+adoption_prompt: |
+  Write in the Skrillex craft mode: vocal-as-instrument. Lyric is sparse —
+  a few key phrases that can survive heavy chopping, pitch-shifting, and
+  time-stretching. Build-up tension is the song; the drop is brief but
+  decisive. Phrase fragments designed to be processed (single syllables,
+  vowel-rich words). Don't write a narrative arc — write a sticky shape.
+  Near-rhymes welcome.

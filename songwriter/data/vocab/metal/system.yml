@@ -1,0 +1,27 @@
+slug: metal.system
+name: Metal / System (institutional rage)
+description: The 'fuck the system' register — corporate, institutional, machine-against-the-individual imagery common in metalcore and politically-aware metal.
+words:
+  - { word: machine,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: cog,         emotional_weight: 0.8, imagery_class: physical }
+  - { word: cogs,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: gear,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: chain,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: chains,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: cage,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: caged,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: locked,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: lock,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: bound,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: tied,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: state,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: government,  emotional_weight: 0.7, imagery_class: abstract }
+  - { word: corporate,   emotional_weight: 0.7, imagery_class: abstract }
+  - { word: empire,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: kings,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: throne,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: tyrant,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: hollow,      emotional_weight: 0.7, imagery_class: abstract, ai_bias_flag: true }
+  - { word: numb,        emotional_weight: 0.7, imagery_class: abstract, ai_bias_flag: true }
+  - { word: void,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: abyss,       emotional_weight: 0.7, imagery_class: abstract }

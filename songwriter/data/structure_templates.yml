@@ -1,0 +1,51 @@
+templates:
+  - slug: pop.standard
+    name: Pop Standard
+    genre_compatibility: [pop, dance-pop, synth-pop, alt-pop, country-pop, indie-pop]
+    sections:
+      - { section: intro,    energy: 0.35, syllable_target: 0  }
+      - { section: verse,    energy: 0.45, syllable_target: 64 }
+      - { section: pre,      energy: 0.65, syllable_target: 32 }
+      - { section: chorus,   energy: 0.85, syllable_target: 48 }
+      - { section: verse,    energy: 0.5,  syllable_target: 64 }
+      - { section: pre,      energy: 0.7,  syllable_target: 32 }
+      - { section: chorus,   energy: 0.9,  syllable_target: 48 }
+      - { section: bridge,   energy: 0.55, syllable_target: 32 }
+      - { section: chorus,   energy: 1.0,  syllable_target: 48 }
+
+  - slug: pop.dance
+    name: Pop Dance
+    genre_compatibility: [pop, dance-pop, hyperpop]
+    sections:
+      - { section: intro,    energy: 0.4,  syllable_target: 0  }
+      - { section: verse,    energy: 0.55, syllable_target: 56 }
+      - { section: chorus,   energy: 0.85, syllable_target: 48 }
+      - { section: drop,     energy: 1.0,  syllable_target: 16 }
+      - { section: verse,    energy: 0.6,  syllable_target: 56 }
+      - { section: chorus,   energy: 0.9,  syllable_target: 48 }
+      - { section: drop,     energy: 1.0,  syllable_target: 16 }
+      - { section: outro,    energy: 0.5,  syllable_target: 16 }
+
+  - slug: rnb.intimate-confession
+    name: R&B Intimate Confession
+    genre_compatibility: [rnb, contemporary-rnb, alt-rnb, neo-soul, pbrnb]
+    sections:
+      - { section: intro,    energy: 0.3,  syllable_target: 0  }
+      - { section: verse,    energy: 0.4,  syllable_target: 72 }
+      - { section: pre,      energy: 0.55, syllable_target: 24 }
+      - { section: chorus,   energy: 0.7,  syllable_target: 48 }
+      - { section: verse,    energy: 0.45, syllable_target: 72 }
+      - { section: chorus,   energy: 0.75, syllable_target: 48 }
+      - { section: bridge,   energy: 0.85, syllable_target: 40 }
+      - { section: chorus,   energy: 0.7,  syllable_target: 48 }
+
+  - slug: rnb.late-night-drift
+    name: R&B Late-Night Drift
+    genre_compatibility: [rnb, alt-rnb, pbrnb]
+    sections:
+      - { section: intro,    energy: 0.25, syllable_target: 0  }
+      - { section: verse,    energy: 0.35, syllable_target: 64 }
+      - { section: chorus,   energy: 0.55, syllable_target: 36 }
+      - { section: verse,    energy: 0.4,  syllable_target: 64 }
+      - { section: chorus,   energy: 0.6,  syllable_target: 36 }
+      - { section: outro,    energy: 0.4,  syllable_target: 16 }

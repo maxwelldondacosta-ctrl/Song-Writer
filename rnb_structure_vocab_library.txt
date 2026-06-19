@@ -1,0 +1,202 @@
+R&B SONGWRITING STRUCTURE + EMOTIONAL VOCABULARY LIBRARY Song Writing
+Project – Consolidated Pattern Source File
+
+  ---------
+  PURPOSE
+  ---------
+
+This document defines structural templates, lyrical frameworks, and
+vocabulary banks for writing modern R&B songs.
+
+Unlike aggressive genres such as deathcore, R&B prioritizes:
+
+• emotional storytelling • melodic phrasing • sensual or intimate
+vocabulary • smooth cadence and vowel flow
+
+The goal is to generate emotionally coherent R&B lyrics quickly while
+preserving musicality and narrative depth.
+
+  ----------------
+  CORE PRINCIPLE
+  ----------------
+
+Structure remains consistent. Story, emotion, and imagery change.
+
+R&B songs rely heavily on emotional relatability and melodic phrasing
+rather than complex rhyme structures.
+
+  -------------------------------------------
+  STRUCTURE TEMPLATE A – CLASSIC MODERN R&B
+  -------------------------------------------
+
+Intro (atmospheric / melodic)
+
+Verse 1 (relationship situation)
+
+Pre-Chorus (emotional tension)
+
+Chorus (core emotional hook)
+
+Verse 2 (deeper emotional reveal)
+
+Pre-Chorus
+
+Chorus
+
+Bridge (vulnerability / confession)
+
+Final Chorus
+
+  --------------------------------------------
+  STRUCTURE TEMPLATE B – INTIMATE CONFESSION
+  --------------------------------------------
+
+Intro
+
+Verse
+
+Chorus
+
+Verse
+
+Chorus
+
+Bridge (emotional turning point)
+
+Final Chorus
+
+Outro
+
+  ---------------------------------------
+  STRUCTURE TEMPLATE C – SLOW SEDUCTION
+  ---------------------------------------
+
+Atmospheric Intro
+
+Verse
+
+Chorus
+
+Verse
+
+Chorus
+
+Bridge (sensual escalation)
+
+Final Chorus
+
+  -------------------------
+  VERSE WRITING FRAMEWORK
+  -------------------------
+
+Line 1 – Situation Line 2 – Emotional reaction Line 3 – Desire or
+conflict Line 4 – Vulnerability
+
+Example logic:
+
+You called me late Said you couldn’t sleep Your voice was shaking Now
+you’re pulling me deep
+
+  ------------------
+  CHORUS FRAMEWORK
+  ------------------
+
+The chorus expresses the emotional core of the relationship.
+
+Format A – Emotional Hook
+
+Statement Repetition Escalation Final emotional statement
+
+Format B – Desire Hook
+
+Confession Physical or emotional desire Repeat phrase Memorable closing
+line
+
+  ----------------
+  BRIDGE PURPOSE
+  ----------------
+
+The bridge provides the emotional peak.
+
+Possible themes:
+
+• confession of love • realization of betrayal • moment of vulnerability
+• emotional surrender
+
+Example:
+
+Maybe I was wrong Maybe I was blind But every time I run You pull me
+back inside
+
+  -------------------------------
+  R&B EMOTIONAL VOCABULARY BANK
+  -------------------------------
+
+These words emphasize smooth vowel sounds and soft consonants that suit
+melodic singing.
+
+  ------------------
+  LOVE / AFFECTION
+  ------------------
+
+love baby darling heart touch kiss hold closer forever together
+
+  ----------
+  INTIMACY
+  ----------
+
+skin breath whisper slow warm body midnight silk sweat desire
+
+  ---------
+  LONGING
+  ---------
+
+miss need want dream call wait remember alone stay belong
+
+  -------------------
+  PAIN / HEARTBREAK
+  -------------------
+
+cry broken tears goodbye lost empty regret fall apart lonely fading
+
+  ------------------
+  ATMOSPHERE WORDS
+  ------------------
+
+night moon lights city rain bedroom shadow echo silence fire
+
+  -----------------------
+  VOCABULARY USAGE RULE
+  -----------------------
+
+R&B favors softer consonants and flowing vowels:
+
+M N L W B
+
+These sounds produce smoother melodic phrasing and emotional warmth
+during singing.
+
+  --------------------------
+  SONG GENERATION WORKFLOW
+  --------------------------
+
+1.  Select structure template
+
+2.  Choose relationship topic (love, heartbreak, longing, seduction,
+    betrayal)
+
+3.  Build story using Story Rule
+
+4.  Validate lines with Sentence Rule
+
+5.  Apply emotional vocabulary bank
+
+6.  Shape melodic cadence
+
+7.  Finalize lyrics
+
+8.  Generate Suno prompt
+
+------------------------------------------------------------------------
+
+END OF DOCUMENT

@@ -1,0 +1,34 @@
+slug: grime.ambition
+name: Grime / Ambition
+description: Climbing-out vocabulary — mum's house to mansion, council to record deal, signed to keys-in-the-Range. Specific and proud.
+words:
+  - { word: signed,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: deal,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: deals,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: number-one,  emotional_weight: 0.8, imagery_class: abstract }
+  - { word: chart,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: charted,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: BRIT,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: stage,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: arena,       emotional_weight: 0.7, imagery_class: sensory }
+  - { word: arenas,      emotional_weight: 0.7, imagery_class: sensory }
+  - { word: tour,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: tour-bus,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: bookings,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: invoice,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: invoices,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: deposit,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: keys,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: range,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: AMG,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: passport,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: stamp,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: stamps,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: flight,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: flights,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: mum,         emotional_weight: 0.8, imagery_class: physical }
+  - { word: mums-house,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: council,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: nan,         emotional_weight: 0.8, imagery_class: physical }
+  - { word: brother,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: family,      emotional_weight: 0.6, imagery_class: physical }

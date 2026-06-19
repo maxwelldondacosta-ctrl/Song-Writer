@@ -1,0 +1,52 @@
+slug: phoebe-bridgers
+display_name: Phoebe Bridgers
+real_name: Phoebe Lucille Bridgers
+era: 2014-present
+primary_genre: folk
+sub_genres: [indie-folk, contemporary-folk, sad-pop]
+role: singer-songwriter
+notable_credits:
+  - "Motion Sickness"
+  - "Kyoto"
+  - "Funeral"
+  - "Punisher"
+craft_signature:
+  - "Spoken-sung delivery — barely-projected verses, restrained chorus."
+  - "Hyper-specific mundane imagery (a phone in a pool, a postcard, a name half-spoken) that does outsized emotional work."
+  - "Names cities, restaurants, songs, people specifically — the song is rooted to one place / one moment."
+  - "Bridges contain the emotional climax; verses and chorus stay restrained."
+  - "Layered harmony at the end of phrases — own voice harmonizing with itself."
+personality_traits: [restrained, observational, mundane-specific, layered]
+writing_style:
+  avg_line_syllables: 8
+  rhyme_density: low-medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: near-rhyme-friendly
+  narrative_mode: observational-confession
+  perspective_default: first-person
+  imagery_emphasis: very-high
+  signature_devices: [hyper-specific-mundane-image, named-place-anchor, climax-in-the-bridge]
+preferred_cadences: [storytelling, melodic-glide, hybrid]
+vocab_fingerprint:
+  signature_words: [I, you, kyoto, motion, sick, phone, name]
+  semantic_anchors: [named-place, mundane-detail, half-said-thing]
+  avoided_words: [neon, anthem-cliche, generic-emotion]
+phonetic_fingerprint:
+  vowel_preference: short-I, short-A, diphthong
+  attack_profile: soft
+  consonant_density: low
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-late
+  hook_repeats_per_chorus: 1-2
+hook_style: bridge-climax
+reference_tracks:
+  - "Motion Sickness"
+  - "Kyoto"
+adoption_prompt: |
+  Write in the Phoebe Bridgers craft mode: spoken-sung delivery — barely-
+  projected verses, restrained chorus. Hyper-specific mundane imagery
+  (a phone in a pool, a postcard, a name half-said) doing outsized
+  emotional work. Name cities, restaurants, people specifically — root
+  the song to one place / one moment. Climax lives in the bridge, not
+  the chorus. Near-rhymes welcome.

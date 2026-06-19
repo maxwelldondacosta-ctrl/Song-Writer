@@ -1,0 +1,50 @@
+slug: julia-michaels
+display_name: Julia Michaels
+era: 2014-present
+primary_genre: pop
+role: singer-songwriter
+sub_genres: [pop, alt-pop]
+notable_credits:
+  - "Issues"
+  - "Love Myself"
+  - "Lonely"
+  - "Sorry"
+craft_signature:
+  - "Conversational verse construction; lines often start mid-thought ('cause I…', 'and I…')."
+  - "Specific small admissions: 'I get jealous, I get overwhelmed' — concrete states, not generic 'I feel sad'."
+  - "Deliberate vocal hiccup / breath-catch in the demo-style delivery."
+  - "Hook is usually a self-diagnosis ('I have issues') rather than a declaration about the other person."
+personality_traits: [self-aware, candid, restless, mid-sentence]
+writing_style:
+  avg_line_syllables: 8
+  rhyme_density: medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: near-rhyme-friendly
+  narrative_mode: conversational-confession
+  perspective_default: first-person
+  imagery_emphasis: medium
+  signature_devices: [mid-sentence-line-starts, self-diagnosis-hook]
+preferred_cadences: [melodic-glide, storytelling]
+vocab_fingerprint:
+  signature_words: [issues, jealous, overwhelmed, anyway, I-mean, kinda, sorta]
+  semantic_anchors: [self-state, admission]
+  avoided_words: [grand, anthemic, ghost, neon]
+phonetic_fingerprint:
+  vowel_preference: short-I, short-U
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2
+hook_style: self-diagnosis
+reference_tracks:
+  - "Issues"
+  - "Lonely"
+adoption_prompt: |
+  Write in the Julia Michaels craft mode: conversational verses that often
+  start mid-thought ('cause I…', 'and I…'). Use specific small self-admissions
+  ('I get jealous', 'I get overwhelmed') rather than generic emotional words.
+  The hook should be a self-diagnosis about the speaker, not a declaration
+  about the other person. Near-rhymes are welcome; perfect rhyme is not
+  required. Mid-sentence breath-catches are part of the texture.

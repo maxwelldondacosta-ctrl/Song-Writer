@@ -1,0 +1,54 @@
+slug: devin-townsend
+display_name: Devin Townsend
+real_name: Devin Garret Townsend
+era: 1993-present
+primary_genre: metal
+sub_genres: [progressive-metal, extreme-metal, ambient-metal]
+role: self-writing-artist
+notable_credits:
+  - "Lucky Animals"
+  - "Truth"
+  - "Higher"
+  - "Deconstruction"
+craft_signature:
+  - "Wall-of-sound production aesthetic — vocal layers, choir, orchestra all on top of metal riffs."
+  - "Tonal contrast as architecture: extreme growl section followed by ambient/choral interlude in the same song."
+  - "Theatrical / cosmic content — songs are about consciousness, scale, the absurd, the joyful."
+  - "Major-key resolution moments are hooks; not every metal song needs to feel like punishment."
+  - "Voice as multiple instruments — uses growls, cleans, and operatic register on the same track."
+personality_traits: [theatrical, cosmic, joyful-extreme, tonally-restless]
+writing_style:
+  avg_line_syllables: 9
+  rhyme_density: medium
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: near-and-perfect
+  narrative_mode: cosmic-theatrical
+  perspective_default: first-or-second-person
+  imagery_emphasis: high
+  signature_devices: [tonal-contrast-as-arc, vocal-layering, major-key-resolution-moments]
+preferred_cadences: [hybrid, melodic-glide, breakdown-chant]
+vocab_fingerprint:
+  signature_words: [light, truth, higher, all, alive, sky, sun]
+  semantic_anchors: [cosmic-scale, joy-inside-extremity, layered-voices]
+  avoided_words: [autotune-pop, EDM-drop, ironic-distance]
+  vowel_priority_words: [light, fly, alive, sky, side]
+phonetic_fingerprint:
+  vowel_preference: long-I, long-A, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: major-key-resolution
+reference_tracks:
+  - "Truth"
+  - "Higher"
+adoption_prompt: |
+  Write in the Devin Townsend craft mode: wall-of-sound aesthetic with
+  vocal layers, choir, orchestra over metal riffs. Tonal contrast as
+  architecture — an extreme growl section can be followed by an ambient
+  choral interlude in the same song. Theatrical / cosmic content
+  (consciousness, scale, the absurd, the joyful). Hooks are major-key
+  resolution moments; not everything has to feel like punishment.
+  Near-rhymes welcome.

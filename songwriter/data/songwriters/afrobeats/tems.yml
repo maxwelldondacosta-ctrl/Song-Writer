@@ -1,0 +1,54 @@
+slug: tems
+display_name: Tems
+real_name: Temilade Openiyi
+era: 2018-present
+primary_genre: afrobeats
+sub_genres: [alte, afro-fusion, alt-rnb]
+role: self-writing-artist
+notable_credits:
+  - "Essence (with Wizkid)"
+  - "Free Mind"
+  - "Higher"
+  - "Crazy Tings"
+craft_signature:
+  - "Alto-low-register vocal that floats over the rhythm — the line ends drop into chest voice as a signature."
+  - "Restrained line density; lots of breath room. Less is the move."
+  - "Plain-spoken introspection rather than party-flex content."
+  - "Pidgin and English blend; the Pidgin lines carry the most emotional weight."
+  - "Hooks built around a simple imperative or self-affirmation ('feel free', 'higher')."
+personality_traits: [introspective, restrained, soulful, grounded]
+writing_style:
+  avg_line_syllables: 6
+  rhyme_density: low-medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: near-rhyme-friendly
+  narrative_mode: meditative-introspection
+  perspective_default: first-person
+  imagery_emphasis: medium
+  signature_devices: [chest-voice-line-end, breath-room, imperative-hook]
+preferred_cadences: [melodic-glide, hybrid, storytelling]
+vocab_fingerprint:
+  signature_words: [free, higher, mind, soul, alone, peace]
+  semantic_anchors: [self-affirmation, freedom, peace, introspection]
+  avoided_words: [neon, club, party-cliche, anthem]
+  vowel_priority_words: [free, me, sea, see, lo]
+phonetic_fingerprint:
+  vowel_preference: long-E, long-I, diphthong
+  attack_profile: soft
+  consonant_density: low
+structure_preferences:
+  preferred_template: rnb.intimate-confession
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2
+hook_style: imperative-affirmation
+reference_tracks:
+  - "Free Mind"
+  - "Higher"
+adoption_prompt: |
+  Write in the Tems craft mode: low alto register that floats over the
+  rhythm, with line endings dropping into chest voice as a signature.
+  Restrained line density — six syllables per line average, lots of breath
+  room. Plain-spoken introspection over party-flex content. Pidgin and
+  English blend; Pidgin lines carry the most emotional weight. Hooks are
+  simple imperatives or self-affirmations ('feel free', 'higher'). Near-
+  rhymes; soft attacks; long sustained vowels at line ends.

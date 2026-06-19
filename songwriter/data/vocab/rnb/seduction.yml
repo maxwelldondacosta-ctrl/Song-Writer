@@ -1,0 +1,21 @@
+slug: rnb.seduction
+name: R&B / Seduction
+description: Slow-pull vocabulary; sensory and physical, avoiding generic erotic shorthand.
+words:
+  - { word: slowed,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: leaned,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: lingered,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: dimmed,      emotional_weight: 0.7, imagery_class: sensory }
+  - { word: traced,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: shoulder,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: zipper,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: collar,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: button,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: silk,        emotional_weight: 0.7, imagery_class: sensory }
+  - { word: cologne,     emotional_weight: 0.7, imagery_class: sensory }
+  - { word: perfume,     emotional_weight: 0.7, imagery_class: sensory }
+  - { word: lipstick,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: candlelight, emotional_weight: 0.6, imagery_class: sensory }
+  - { word: doorway,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: locked,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: closer,      emotional_weight: 0.6, imagery_class: abstract }

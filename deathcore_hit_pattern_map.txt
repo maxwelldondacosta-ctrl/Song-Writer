@@ -1,0 +1,203 @@
+DEATHCORE HIT PATTERN MAP Song Writing Project – Pattern Library
+Extension
+
+  ----------
+  OVERVIEW
+  ----------
+
+This document maps lyrical structures used by successful modern heavy
+bands. The purpose is not imitation but pattern extraction. Deathcore
+lyrics must survive:
+
+• distorted guitars • blast beats / double kick • screamed or growled
+vocals
+
+Because of this environment, lyrical complexity is less important than
+rhythm, punch phrases, and aggressive imagery.
+
+  -----------------
+  REFERENCE BANDS
+  -----------------
+
+Primary pattern references:
+
+Lorna Shore – epic despair structures Knocked Loose – violent minimalism
+Bring Me The Horizon – emotional collapse writing
+
+These three represent different approaches to modern heavy music lyric
+construction.
+
+  ---------------------------------------
+  1. LORNA SHORE PATTERN (EPIC DESPAIR)
+  ---------------------------------------
+
+Common structure:
+
+cosmic imagery existential suffering collapse of hope catastrophic line
+
+Example pattern:
+
+The sky collapses The world decays Nothing survives I welcome the end
+
+Language characteristics:
+
+Apocalypse imagery: ruin, collapse, extinction
+
+Darkness imagery: void, abyss, eternal night
+
+Suffering imagery: torment, agony, despair
+
+Purpose:
+
+These words stretch well over long sustained screams.
+
+  -----------------------------------------------
+  2. KNOCKED LOOSE PATTERN (VIOLENT MINIMALISM)
+  -----------------------------------------------
+
+Typical structure:
+
+short accusation short statement violent line breakdown phrase
+
+Example:
+
+You betrayed me You watched me bleed You let it happen Now watch me burn
+
+Characteristics:
+
+• extremely short lines • hard consonants • direct aggression
+
+Primary goal:
+
+crowd participation and rhythmic punch.
+
+  ------------------------------------------------------
+  3. BRING ME THE HORIZON PATTERN (EMOTIONAL COLLAPSE)
+  ------------------------------------------------------
+
+Typical structure:
+
+self blame emotional pain confession dramatic statement
+
+Example:
+
+I tried to fix this I made it worse Every scar I hide Still drags me
+under
+
+Characteristics:
+
+• emotional relatability • clearer phrasing • chorus driven writing
+
+  -------------------------------
+  BREAKDOWN ENGINEERING PATTERN
+  -------------------------------
+
+Most modern heavy songs follow this escalation system.
+
+Stage 1 – Setup
+
+You did this You made this
+
+Stage 2 – Escalation
+
+Everything burns Everything dies
+
+Stage 3 – Drop Phrase
+
+BURN BURN BURN
+
+The drop phrase must be one or two words maximum. Anything longer gets
+lost in the mix.
+
+  ---------------------------
+  DEATHCORE VOCABULARY BANK
+  ---------------------------
+
+These word groups repeatedly appear in successful heavy lyrics because
+they punch through distorted mixes.
+
+Destruction
+
+burn break tear crush collapse
+
+Decay
+
+rot dust ash grave bones
+
+Darkness
+
+void abyss night shadow
+
+Betrayal
+
+parasite leech traitor liar
+
+  --------------------------
+  LINE LENGTH OPTIMIZATION
+  --------------------------
+
+Harsh vocals require shorter phrasing than rap or pop.
+
+Typical ranges:
+
+Punch phrase: 3–4 syllables Standard line: 5–8 syllables Extended
+scream: 9–11 syllables
+
+Longer lines tend to collapse rhythmically.
+
+  --------------------------------
+  HIGH PERFORMANCE HOOK PATTERNS
+  --------------------------------
+
+Loop Hook
+
+You said forever You said forever You said forever Forever dies
+
+------------------------------------------------------------------------
+
+Rage Hook
+
+You took everything You took everything Now choke on it
+
+------------------------------------------------------------------------
+
+Collapse Hook
+
+Nothing remains Nothing remains Nothing remains
+
+Repetition is common because screamed vocals prioritize rhythm over
+linguistic complexity.
+
+  ------------------------
+  PATTERN SELECTION RULE
+  ------------------------
+
+When writing deathcore lyrics:
+
+1.  Choose one primary emotional theme
+2.  Choose one structural style
+
+Example:
+
+Epic Despair – Lorna Shore style Aggressive Confrontation – Knocked
+Loose style Emotional Collapse – BMTH style
+
+Mixing styles is possible but should be deliberate.
+
+  -----------------------------
+  PATTERN LIBRARY INTEGRATION
+  -----------------------------
+
+Any lyric structure scoring above 85 in project scoring should be
+recorded as a reusable template.
+
+Record:
+
+Genre Pattern type Structure Performance score
+
+Over time this creates a catalog of high-performing deathcore lyric
+templates.
+
+------------------------------------------------------------------------
+
+END OF DOCUMENT

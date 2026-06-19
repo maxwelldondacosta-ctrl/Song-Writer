@@ -1,0 +1,27 @@
+slug: latin.corazon
+name: Latin / Corazón (love and longing)
+description: Spanish-first love vocabulary. Anchors latin-pop and bachata love-songs; concrete affectionate nouns over generic 'love' shorthand.
+words:
+  - { word: corazón,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: amor,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: amor-mío,    emotional_weight: 0.8, imagery_class: abstract }
+  - { word: vida,        emotional_weight: 0.8, imagery_class: abstract }
+  - { word: mi-vida,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: cariño,      emotional_weight: 0.8, imagery_class: abstract }
+  - { word: bebé,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: bebecita,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: nena,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: mami,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: papi,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: alma,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: besos,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: beso,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: labios,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: piel,        emotional_weight: 0.8, imagery_class: physical }
+  - { word: sin-ti,      emotional_weight: 0.8, imagery_class: abstract }
+  - { word: contigo,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: para-siempre, emotional_weight: 0.7, imagery_class: abstract }
+  - { word: nunca,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: extraño,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: te-quiero,   emotional_weight: 0.8, imagery_class: abstract }
+  - { word: te-amo,      emotional_weight: 0.7, imagery_class: abstract }

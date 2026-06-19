@@ -1,0 +1,28 @@
+slug: rock.road-escape
+name: Rock / Road & Escape
+description: The rock-mythology of leaving — highways, motels, the rearview, gas-station coffee at 3am. Concrete; resists the synthwave neon-and-chrome cliche zone.
+words:
+  - { word: highway,     emotional_weight: 0.6, imagery_class: physical, ai_bias_flag: true }
+  - { word: lane,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: exit,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: rearview,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: dashboard,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: odometer,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: motel,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: room,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: bed,         emotional_weight: 0.6, imagery_class: physical }
+  - { word: vacancy,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: vending,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: gas-station, emotional_weight: 0.7, imagery_class: physical }
+  - { word: station,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: coffee,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: styrofoam,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: cigarette,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: pack,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: lighter,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: ashtray,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: drove,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: driving,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: ran,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: leaving,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: gone,        emotional_weight: 0.7, imagery_class: physical }

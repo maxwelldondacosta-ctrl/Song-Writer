@@ -1,0 +1,259 @@
+RAP ARTIST MODE MATRIX Song Writing Project – Rap Song vs Rap Skill
+Framework
+
+  --------- 
+  PURPOSE
+  ---------
+
+This document separates technical rap skill from rap song construction.
+
+Good rapping and good rap songs are not the same thing.
+
+Some rappers are primarily technical writers. Some are primarily song
+builders. Some combine both at a high level.
+
+This file helps determine which rap mode should be used before writing.
+
+  ----------------
+  CORE PRINCIPLE
+  ----------------
+
+Before writing rap, decide whether the goal is:
+
+1.  Technical rapping
+2.  Rap song construction
+3.  Hybrid rap
+
+If this choice is unclear, the song often becomes confused.
+
+  ----------------------------
+  MODE 1 – TECHNICAL RAPPING
+  ----------------------------
+
+Focus: • rhyme density • multisyllabic rhymes • internal rhyme patterns
+• punchlines • cadence control
+
+Primary artists: • Big L • Biggie • Styles P • Jay-Z • Tupac • Kendrick
+Lamar • Eminem
+
+Key rule: Verses matter more than hooks.
+
+Best for: • lyrical showcases • battle rap • cyphers • hard rap verses
+
+  --------------------------------
+  MODE 2 – RAP SONG CONSTRUCTION
+  --------------------------------
+
+Focus: • hook memorability • concept • emotional accessibility •
+production fit • replayability
+
+Primary artists: • Nicki Minaj • Cardi B • Kanye West • Future • NBA
+YoungBoy
+
+Key rule: Song impact matters more than technical density.
+
+Best for: • mainstream rap songs • melodic rap • hook-driven tracks •
+emotionally accessible music
+
+  ---------------------
+  MODE 3 – HYBRID RAP
+  ---------------------
+
+Focus: • strong verses • memorable hooks • technical credibility •
+emotional or conceptual replay value
+
+Primary artists: • Eminem • Drake • Kendrick Lamar • Biggie • Nicki
+Minaj
+
+Key rule: Balance technical skill with song structure.
+
+Best for: • commercial rap with strong bars • rap records that need both
+replay and respect • lead singles with lyrical weight
+
+  ------------------------
+  ARTIST ANALYSIS MATRIX
+  ------------------------
+
+BIG L
+
+Rapping Skill: Elite Song Skill: Moderate
+
+Strengths: • punchline density • relentless rhyme pressure • technical
+flexing
+
+Use when: • witty aggression • disrespect bars • cypher mode
+
+------------------------------------------------------------------------
+
+BIGGIE
+
+Rapping Skill: Elite Song Skill: Elite
+
+Strengths: • smooth cadence • effortless internals • storytelling and
+bounce
+
+Use when: • street realism • story rap • hybrid writing
+
+------------------------------------------------------------------------
+
+STYLES P
+
+Rapping Skill: Very Strong Song Skill: Moderate
+
+Strengths: • grimy language • hard direct bars • street menace
+
+Use when: • dark street rap • hard verses • stripped-down aggression
+
+------------------------------------------------------------------------
+
+JAY-Z
+
+Rapping Skill: Elite Song Skill: Elite
+
+Strengths: • economical wording • clean payoffs • calm, controlled
+superiority
+
+Use when: • wealth rap • boss talk • polished rap songs
+
+------------------------------------------------------------------------
+
+TUPAC
+
+Rapping Skill: Strong Song Skill: Elite
+
+Strengths: • emotional clarity • direct storytelling • conviction and
+message
+
+Use when: • pain rap • political rap • confessional songs
+
+------------------------------------------------------------------------
+
+NICKI MINAJ
+
+Rapping Skill: Strong to Elite Song Skill: Elite
+
+Strengths: • personality shifts • punchline bursts • pop crossover
+instincts
+
+Use when: • attitude tracks • theatrical rap • crossover rap songs
+
+------------------------------------------------------------------------
+
+CARDI B
+
+Rapping Skill: Moderate Song Skill: Strong
+
+Strengths: • personality • delivery • song presence • simple memorable
+bars
+
+Use when: • attitude songs • club records • direct mainstream rap
+
+------------------------------------------------------------------------
+
+KANYE WEST
+
+Rapping Skill: Moderate Song Skill: Elite
+
+Strengths: • concept • production sense • emotional relatability
+
+Use when: • introspective rap • theme-driven songs • memorable records
+
+------------------------------------------------------------------------
+
+FUTURE
+
+Rapping Skill: Moderate Song Skill: Elite
+
+Strengths: • melodic cadence • mood creation • repeated emotional
+phrasing
+
+Use when: • toxic love songs • atmospheric trap • melody-first rap
+
+------------------------------------------------------------------------
+
+NBA YOUNGBOY
+
+Rapping Skill: Moderate to Strong Song Skill: Strong
+
+Strengths: • emotional urgency • confessional intensity • raw repetition
+
+Use when: • pain rap • unstable emotion • direct personal songs
+
+------------------------------------------------------------------------
+
+KENDRICK LAMAR
+
+Rapping Skill: Elite Song Skill: Elite
+
+Strengths: • layered storytelling • voice switching • concept
+construction • internal rhyme integration
+
+Use when: • narrative rap • concept tracks • socially conscious songs
+
+------------------------------------------------------------------------
+
+EMINEM
+
+Rapping Skill: Elite Song Skill: Elite
+
+Strengths: • multisyllabic mastery • rhyme webs • technical density •
+memorable records when balanced
+
+Use when: • lyrical flex • technical songs • hybrid rap with strong
+performance
+
+------------------------------------------------------------------------
+
+DRAKE
+
+Rapping Skill: Strong Song Skill: Elite
+
+Strengths: • conversational writing • emotional accessibility • sticky
+hooks • moody replay value
+
+Use when: • relationship rap • moody flex • melodic crossover records
+
+  ----------------------
+  MODE SELECTION GUIDE
+  ----------------------
+
+Choose TECHNICAL RAP when: • the verse is the main attraction • rhyme
+density matters most • hooks are secondary
+
+Choose RAP SONG mode when: • replayability matters most • hook and
+concept matter more than technical bars • emotional accessibility is the
+priority
+
+Choose HYBRID mode when: • the track needs strong bars and strong song
+structure • the goal is both respect and replay value
+
+  ----------------------
+  WORKFLOW INTEGRATION
+  ----------------------
+
+Recommended workflow:
+
+1.  Select rap mode
+2.  Choose artist influence category
+3.  Build story or concept
+4.  Validate with Sentence Rule
+5.  Select phonetic texture
+6.  Apply rhyme pattern library
+7.  Shape cadence
+8.  Build hook if needed
+9.  Finalize lyrics
+10. Generate Suno prompt
+
+  ----------
+  KEY RULE
+  ----------
+
+Good rapping and good rap songs must be treated as separate design
+goals.
+
+The writer should decide the target first, then build the lyric
+structure to fit that target.
+
+------------------------------------------------------------------------
+
+END OF DOCUMENT

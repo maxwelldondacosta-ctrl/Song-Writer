@@ -1,0 +1,25 @@
+slug: pop.intimacy
+name: Pop / Intimacy (close-up vulnerability, 2am softness)
+description: Pop's intimate register — whisper-close, bedroom-phone, breath-and-skin songwriting. Vulnerable without being over-produced. Taylor/Olivia-style confessional closeness.
+words:
+  - { word: breath,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: breathing,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: close,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: skin,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: whisper,     emotional_weight: 0.8, imagery_class: sensory }
+  - { word: whispering,  emotional_weight: 0.7, imagery_class: sensory }
+  - { word: hand,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: shoulder,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: forehead,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: quiet,       emotional_weight: 0.7, imagery_class: sensory }
+  - { word: just-us,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: bedroom,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: lamp,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: low-light,   emotional_weight: 0.7, imagery_class: sensory }
+  - { word: soft,        emotional_weight: 0.6, imagery_class: sensory }
+  - { word: soft-voice,  emotional_weight: 0.7, imagery_class: sensory }
+  - { word: blanket,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: curled,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: trembling,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: honest,      emotional_weight: 0.7, imagery_class: abstract }
+  - { word: confessed,   emotional_weight: 0.8, imagery_class: abstract }

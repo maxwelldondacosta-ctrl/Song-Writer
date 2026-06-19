@@ -1,0 +1,28 @@
+slug: metal.survival
+name: Metal / Survival (clean-vocal melodic register)
+description: For the clean-vocal chorus or melodic break — survival, perseverance, finding a way out. Metalcore's signature is the contrast between scream-verse and sung-chorus; this bank powers the chorus.
+words:
+  - { word: rise,        emotional_weight: 0.7, imagery_class: abstract, ai_bias_flag: true }
+  - { word: stand,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: hold,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: holding,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: fight,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: fighting,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: alive,       emotional_weight: 0.8, imagery_class: abstract }
+  - { word: breathe,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: breath,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: lungs,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: heart,       emotional_weight: 0.6, imagery_class: physical, ai_bias_flag: true }
+  - { word: heartbeat,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: pulse,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: scar,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: scars,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: wound,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: wounds,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: heal,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: healing,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: light,       emotional_weight: 0.6, imagery_class: abstract, ai_bias_flag: true }
+  - { word: darkness,    emotional_weight: 0.7, imagery_class: abstract }
+  - { word: dawn,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: through,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: out,         emotional_weight: 0.6, imagery_class: physical }

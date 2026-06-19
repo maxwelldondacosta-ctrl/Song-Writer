@@ -1,0 +1,23 @@
+slug: pop.confession
+name: Pop / Confession
+description: Self-disclosure vocabulary for confessional pop verses.
+words:
+  - { word: said,        emotional_weight: 0.5, imagery_class: physical }
+  - { word: kept,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: saved,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: typed,       emotional_weight: 0.5, imagery_class: physical }
+  - { word: deleted,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: opened,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: window,      emotional_weight: 0.4, imagery_class: sensory }
+  - { word: hallway,     emotional_weight: 0.5, imagery_class: sensory }
+  - { word: kitchen,     emotional_weight: 0.6, imagery_class: sensory }
+  - { word: sweater,     emotional_weight: 0.7, imagery_class: sensory }
+  - { word: voicemail,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: receipt,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: gas,         emotional_weight: 0.4, imagery_class: physical }
+  - { word: address,     emotional_weight: 0.5, imagery_class: physical }
+  - { word: bathroom,    emotional_weight: 0.5, imagery_class: sensory }
+  - { word: counted,     emotional_weight: 0.5, imagery_class: physical }
+  - { word: practiced,   emotional_weight: 0.6, imagery_class: physical }
+  - { word: rehearsed,   emotional_weight: 0.6, imagery_class: physical }
+  - { word: meant,       emotional_weight: 0.7, imagery_class: abstract }

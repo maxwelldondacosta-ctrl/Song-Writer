@@ -1,0 +1,30 @@
+slug: grime.hustle
+name: Grime / Hustle
+description: Money-and-grind vocabulary; concrete UK-grime nouns and verbs around the work, the gear, the routes.
+words:
+  - { word: trapping,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: shotting,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: corner,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: corners,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: block,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: blocks,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: bag,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: bags,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: stack,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: stacked,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: stacking,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: paper,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: cheddar,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: tenner,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: monkey,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: bar,         emotional_weight: 0.7, imagery_class: physical }
+  - { word: light,       emotional_weight: 0.5, imagery_class: physical }
+  - { word: brick,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: bricks,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: kilo,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: weighing,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: counting,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: bando,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: bandos,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: trapline,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: phone,       emotional_weight: 0.6, imagery_class: physical }

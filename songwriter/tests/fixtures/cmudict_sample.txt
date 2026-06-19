@@ -1,0 +1,6 @@
+;;; comment line, must be skipped
+LOVE  L AH1 V
+HEART  HH AA1 R T
+ABOVE  AH0 B AH1 V
+LOVE(2)  L UH1 V
+START  S T AA1 R T

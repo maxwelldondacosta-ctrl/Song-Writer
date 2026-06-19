@@ -1,0 +1,37 @@
+slug: country.small-town
+name: Country / Small-town (place, road, home)
+description: Place-and-route vocabulary specific to country songwriting — small-town nouns, road imagery, hometown anchors. Concrete; resists generic 'somewhere out there' drift.
+words:
+  - { word: town,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: hometown,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: county,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: county-line, emotional_weight: 0.8, imagery_class: physical }
+  - { word: state-line,  emotional_weight: 0.7, imagery_class: physical }
+  - { word: dirt,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: dirt-road,   emotional_weight: 0.8, imagery_class: physical }
+  - { word: gravel,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: highway,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: road,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: backroad,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: backroads,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: porch,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: front-porch, emotional_weight: 0.8, imagery_class: physical }
+  - { word: rocker,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: screen-door, emotional_weight: 0.8, imagery_class: physical }
+  - { word: tin-roof,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: barn,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: field,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: pasture,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: pickup,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: pickup-truck, emotional_weight: 0.8, imagery_class: physical }
+  - { word: tailgate,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: bed,         emotional_weight: 0.6, imagery_class: physical }
+  - { word: chevy,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: ford,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: gas-station, emotional_weight: 0.7, imagery_class: physical }
+  - { word: diner,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: church,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: steeple,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: water-tower, emotional_weight: 0.7, imagery_class: physical }
+  - { word: river,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: creek,       emotional_weight: 0.7, imagery_class: physical }

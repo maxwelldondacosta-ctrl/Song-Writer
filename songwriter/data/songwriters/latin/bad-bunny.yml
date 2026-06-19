@@ -1,0 +1,52 @@
+slug: bad-bunny
+display_name: Bad Bunny
+real_name: Benito Antonio Martínez Ocasio
+era: 2016-present
+primary_genre: latin
+sub_genres: [reggaeton, latin-trap, latin-pop]
+role: self-writing-artist
+notable_credits:
+  - "Tití Me Preguntó"
+  - "Me Porto Bonito"
+  - "MIA"
+  - "Estamos Bien"
+craft_signature:
+  - "Spanish-first delivery — refuses English-translation polish for international audiences."
+  - "Genre-fluid: drops trap, dembow, salsa, bolero into the same album without flinching."
+  - "Conversational verse cadence with the chorus opening to a sustained-vowel sing."
+  - "Personal-political content — sneaks Puerto Rico identity politics into pop songs."
+  - "Uses puerto-rican-specific slang and place names (Carolina, San Juan) over generic Latin imagery."
+personality_traits: [proud, irreverent, identity-rooted, genre-fluid]
+writing_style:
+  avg_line_syllables: 9
+  rhyme_density: medium
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: near-and-perfect
+  narrative_mode: conversational-with-political-undertone
+  perspective_default: first-person
+  imagery_emphasis: high
+  signature_devices: [spanish-first-delivery, genre-fluid-album-arc, puerto-rico-anchor]
+preferred_cadences: [hybrid, melodic-glide, punchline]
+vocab_fingerprint:
+  signature_words: [yo, tú, ella, baby, mami, real, sí, yo-perreo]
+  semantic_anchors: [puerto-rico, identity, romance, politics]
+  avoided_words: [english-pop-cliche, neon, anthem-cliche]
+phonetic_fingerprint:
+  vowel_preference: long-A, short-I, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: sustained-vowel-spanish-anchor
+reference_tracks:
+  - "Me Porto Bonito"
+  - "Tití Me Preguntó"
+adoption_prompt: |
+  Write in the Bad Bunny craft mode: Spanish-first delivery, no English-
+  translation polish for international audiences. Genre-fluid (trap,
+  dembow, salsa, bolero — all valid). Conversational verse cadence
+  pivoting to sustained-vowel chorus. Use Puerto-Rico-specific slang and
+  place names over generic Latin imagery. Personal-political content
+  welcome — sneak identity politics into pop songs. Near-rhymes welcome.

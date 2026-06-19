@@ -1,0 +1,52 @@
+slug: tainy
+display_name: Tainy
+real_name: Marcos Efraín Masís Fernández
+era: 2004-present
+primary_genre: latin
+sub_genres: [reggaeton, latin-trap, latin-pop]
+role: producer-songwriter
+notable_credits:
+  - "I Like It (Cardi B / Bad Bunny / J Balvin)"
+  - "DÁKITI"
+  - "Adiós Amor"
+  - "MIA"
+craft_signature:
+  - "Pristine modern reggaeton production — dembow rhythm with cinematic atmosphere over the top."
+  - "Topline-first writing: the song lives in the vocal melody, not the drop."
+  - "Multi-artist collaboration as the writing model — pulls Spanish + English vocalists onto the same track."
+  - "Restrained imagery, high production density: the song breathes through the mix, not the words."
+  - "Hooks engineered to translate across reggaeton-pop and latin-trap audiences."
+personality_traits: [polished, collaborator-aware, atmospheric, chart-conscious]
+writing_style:
+  avg_line_syllables: 8
+  rhyme_density: medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: topline-first
+  perspective_default: first-or-second-person
+  imagery_emphasis: low-medium
+  signature_devices: [topline-first, cinematic-dembow, multi-artist-translatable-hook]
+preferred_cadences: [pop-hook, melodic-glide, hybrid]
+vocab_fingerprint:
+  signature_words: [tú, yo, baby, sí, dale, mami]
+  semantic_anchors: [direct-address, romance, party-mode]
+  avoided_words: [country-instrumentation, metal-cliche, EDM-cliche]
+phonetic_fingerprint:
+  vowel_preference: long-A, short-I, diphthong
+  attack_profile: soft
+  consonant_density: low-medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: melodic-translatable
+reference_tracks:
+  - "DÁKITI"
+  - "MIA"
+adoption_prompt: |
+  Write in the Tainy craft mode: topline-first reggaeton-pop. The song
+  lives in the vocal melody, not the drop. Restrained imagery, high
+  production density (the song breathes through the mix). Hooks engineered
+  to translate across reggaeton-pop and latin-trap audiences. Multi-
+  artist friendly — write so a featured English-language vocalist could
+  step in cleanly. Strict perfect rhymes; low-medium imagery.

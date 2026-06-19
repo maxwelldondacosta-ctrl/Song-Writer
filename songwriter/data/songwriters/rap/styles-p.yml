@@ -1,0 +1,54 @@
+slug: styles-p
+display_name: Styles P
+real_name: David Dwayne Styles
+era: 1994-present
+primary_genre: rap
+role: self-writing-artist
+sub_genres: [boom-bap, hardcore-rap, East-Coast]
+notable_credits:
+  - "Good Times (I Get High)"
+  - "The Life"
+  - "My Brother"
+  - "Nothing to Something"
+craft_signature:
+  - "Multi-bar simile chains: 'I'm like...' introduces extended metaphors that run across 4-8 lines."
+  - "Pain-layered braggadocio — flexing and expressing suffering occupy the same bar without contradiction."
+  - "Yonkers street geography is literal, not symbolic: block names, project names, borough references."
+  - "Heavy Dutch/Haze drug imagery as shorthand for lifestyle continuity rather than shock."
+  - "Boom-bap cadence with measured syllable delivery — spaces between words carry weight."
+personality_traits: [loyal, grim, introspective, relentless]
+writing_style:
+  avg_line_syllables: 10
+  rhyme_density: high
+  internal_rhyme_freq: moderate
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: first-person-testimony
+  perspective_default: first-person
+  imagery_emphasis: moderate
+  signature_devices: [extended-simile-chain, pain-bravado-fusion, geographic-specificity]
+preferred_cadences: [storytelling, boom-bap, double-time-rap]
+vocab_fingerprint:
+  signature_words: [ghost, haze, dutch, pain, streets, brother, grind, real]
+  semantic_anchors: [Yonkers, loyalty, street-survival, brotherhood]
+  avoided_words: [neon, anthem, journey, inspire]
+phonetic_fingerprint:
+  vowel_preference: short-A, diphthong, short-O
+  attack_profile: hard
+  consonant_density: high
+structure_preferences:
+  preferred_template: rap.boom-bap-verse-heavy
+  hook_position: chorus-late
+  hook_repeats_per_chorus: 1-2
+hook_style: statement-declaration
+reference_tracks:
+  - "Good Times (I Get High)"
+  - "The Life"
+adoption_prompt: |
+  Write in the Styles P craft mode: multi-bar simile chains ('I'm like...')
+  that extend a single metaphor across 4-8 lines. Pain and braggadocio share
+  the same bar — the flex and the suffering coexist without contradiction.
+  Root imagery in Yonkers geography specifically (blocks, projects, the
+  borough) rather than generic urban. Dutch and Haze references as lifestyle
+  shorthand. Boom-bap cadence — spaces between words count; delivery is
+  measured, not rushed. High rhyme density with strict perfect rhymes at
+  line ends. Avoid anthemic or inspirational vocabulary.

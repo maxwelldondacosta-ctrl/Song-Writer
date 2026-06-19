@@ -1,0 +1,25 @@
+slug: soul.celebration
+name: Soul / Celebration (gospel-tinged joy, testifying)
+description: The full-church shout-and-testify register. Joy as a physical event — hands raised, body moving, congregation responding. Secular and sacred language mixed.
+words:
+  - { word: shout,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: testify,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: testifying,  emotional_weight: 0.8, imagery_class: abstract }
+  - { word: raise,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: raised,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: hands,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: hallelujah,  emotional_weight: 0.9, imagery_class: abstract }
+  - { word: glory,       emotional_weight: 0.8, imagery_class: abstract }
+  - { word: celebrate,   emotional_weight: 0.7, imagery_class: abstract }
+  - { word: amen,        emotional_weight: 0.8, imagery_class: abstract }
+  - { word: moving,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: dancing,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: stomp,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: clap,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: clapping,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: choir,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: sanctified,  emotional_weight: 0.8, imagery_class: abstract }
+  - { word: free,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: blessed,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: overjoyed,   emotional_weight: 0.8, imagery_class: abstract }
+  - { word: overflow,    emotional_weight: 0.7, imagery_class: abstract }

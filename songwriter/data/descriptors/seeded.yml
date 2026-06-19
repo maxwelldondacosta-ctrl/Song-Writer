@@ -1,0 +1,240 @@
+descriptors:
+  - canonical_name: Frank Ocean
+    era_label: "Channel Orange / Blonde era"
+    descriptor_short: "Soft-edged tenor with breath-rich attack, pocketed in dusty Rhodes and muted sub-bass; close-mic intimate, spring-reverb ambience."
+    descriptor_long: |
+      Soft-edged tenor with breathy attack and a controlled falsetto top. Vocal
+      sits very close to the mic, lots of natural lip-and-mouth detail. Production
+      leans on dusty Rhodes electric piano, muted sub-bass, sparse programmed drums
+      with off-grid percussion, and field-recording textures. Mix is intimate, low
+      brightness, narrow-to-medium width, light compression. Spring-reverb and tape
+      hiss are part of the texture, not effects added after.
+    vocal_attributes:
+      gender: male
+      range: tenor
+      character: soft-edged-with-falsetto-top
+      register: head-and-mixed
+      attack: breathy
+    production_attrs:
+      tempo_zone: 60-95
+      mix_character: intimate-low-brightness
+      instrumentation_cues: [dusty-Rhodes, muted-sub-bass, sparse-programmed-drums, off-grid-percussion]
+    genre_context: alt-rnb
+    source: user-curated
+    quality_state: pinned
+
+  - canonical_name: Adele
+    era_label: "21 / 25 era"
+    descriptor_short: "Powerhouse alto belt with chest-voice grit; piano-driven big-room production, plate reverb, dramatic dynamic build verse-to-chorus."
+    descriptor_long: |
+      Powerhouse alto belt with strong chest-voice grit and a controlled head-voice
+      crown. Vocal is the production's center; verses are restrained and intimate,
+      chorus opens to full belt. Piano-led arrangements with strings, occasional
+      drum kit. Big-room plate reverb on vocal and snare. Mix is wide, moderate
+      compression, polished but warm. Strong dynamic build verse-to-chorus is the
+      production signature.
+    vocal_attributes:
+      gender: female
+      range: alto
+      character: powerhouse-belt-with-chest-grit
+      register: chest-and-mixed
+      attack: full-bodied
+    production_attrs:
+      tempo_zone: 60-100
+      mix_character: warm-wide-polished
+      instrumentation_cues: [piano-foundation, string-bed, plate-reverb, drum-kit-on-chorus]
+    genre_context: pop-soul
+    source: user-curated
+    quality_state: pinned
+
+  - canonical_name: Tyla
+    era_label: "Tyla / 2023+ era"
+    descriptor_short: "Light-airy soprano with rhythmic phrasing; amapiano-pop production with log-drum bass, percussive hat patterns, glossy modern mix."
+    descriptor_long: |
+      Light-airy soprano with rhythmic phrasing — vocals lock to the groove like
+      another percussion instrument. Pronunciation has a soft Southern African
+      lilt; melismatic flourishes are short and rhythmic, not extended. Production
+      is amapiano-pop crossover: signature log-drum bass, busy percussive hat and
+      shaker patterns, glossy contemporary pop mix with bright top-end and tight
+      low-end. Vocal sits forward with light plate and short slap-delay throws.
+    vocal_attributes:
+      gender: female
+      range: soprano
+      character: light-airy-rhythmic
+      register: head-and-mixed
+      attack: soft-but-articulated
+    production_attrs:
+      tempo_zone: 100-115
+      mix_character: glossy-bright-tight
+      instrumentation_cues: [log-drum-bass, percussive-hat-patterns, shaker, modern-pop-pads]
+    genre_context: amapiano-pop
+    source: user-curated
+    quality_state: pinned
+
+  - canonical_name: SZA
+    era_label: "Ctrl / SOS era"
+    descriptor_short: "Conversational alto with melismatic ad-libs and falsetto crown; alt-R&B production, finger-snapping percussion, dreamy guitar/Rhodes textures."
+    descriptor_long: |
+      Conversational alto delivery with frequent melismatic ad-libs and a falsetto
+      crown that drops into spoken-word inflection. Vocal sits close-mic with
+      light compression and natural breath. Alt-R&B production with finger-snap
+      percussion, dreamy clean-guitar arpeggios, soft Rhodes pads, sparse 808
+      sub-bass. Mix is medium-bright, medium-wide, light compression. Frequent
+      reverb-throw moments on tail words.
+    vocal_attributes:
+      gender: female
+      range: alto
+      character: conversational-with-falsetto-crown
+      register: chest-mixed-falsetto
+      attack: relaxed-natural
+    production_attrs:
+      tempo_zone: 70-95
+      mix_character: medium-bright-wide
+      instrumentation_cues: [finger-snap, clean-guitar-arpeggio, Rhodes-pads, 808-sub]
+    genre_context: alt-rnb
+    source: user-curated
+    quality_state: pinned
+
+  - canonical_name: Olivia Rodrigo
+    era_label: "SOUR / GUTS era"
+    descriptor_short: "Conversational soprano with vulnerable verse / belted chorus; alt-pop band production, distorted guitars on chorus, dry close-mic verses."
+    descriptor_long: |
+      Conversational soprano with a vulnerable verse delivery and a belted chorus.
+      Vocal flips to a slight rasp on chorus peaks. Verses are dry and very
+      close-mic'd; chorus opens to band production with distorted electric guitars,
+      live drum kit, and natural plate reverb. Pop-rock crossover energy. Mix is
+      mid-bright, moderate compression, medium-wide, deliberately scrappier than
+      mainstream-pop polish.
+    vocal_attributes:
+      gender: female
+      range: soprano
+      character: conversational-to-belted-rasp
+      register: chest-and-mixed
+      attack: soft-verse-hard-chorus
+    production_attrs:
+      tempo_zone: 80-130
+      mix_character: mid-bright-medium-wide
+      instrumentation_cues: [distorted-electric-guitars, live-drum-kit, natural-plate-reverb]
+    genre_context: alt-pop
+    source: user-curated
+    quality_state: pinned
+
+  - canonical_name: The Weeknd
+    era_label: "Beauty Behind the Madness / After Hours era"
+    descriptor_short: "Tenor with falsetto top; 80s-inflected synth-pop production, gated reverb snare, lush analog pads, wide stadium mix."
+    descriptor_long: |
+      Tenor lead with a strong falsetto top and a velvety mid-range. Vocal phrasing
+      is melismatic but controlled. Production borrows heavily from 80s synth-pop:
+      gated-reverb snares, lush analog pads, monosynth basslines, occasional sax-
+      like leads. Mix is wide and stadium-ready, brightness is medium-high, heavy
+      compression for radio-loud feel. Doubled lead vocal in chorus, plate reverb
+      on tail words.
+    vocal_attributes:
+      gender: male
+      range: tenor
+      character: velvety-with-falsetto
+      register: chest-mixed-falsetto
+      attack: balanced
+    production_attrs:
+      tempo_zone: 90-115
+      mix_character: wide-stadium-bright
+      instrumentation_cues: [gated-reverb-snare, analog-pads, monosynth-bass, doubled-vocal]
+    genre_context: synth-pop-rnb
+    source: user-curated
+    quality_state: pinned
+
+  - canonical_name: Phoebe Bridgers
+    era_label: "Stranger in the Alps / Punisher era"
+    descriptor_short: "Soft soprano spoken-sung delivery; indie-folk production, fingerpicked guitar, brushed drums, room-mic ambience, very dry vocal."
+    descriptor_long: |
+      Soft soprano with a spoken-sung delivery — barely-projected verses,
+      restrained chorus. Vocal is very dry and close-mic'd, almost no reverb.
+      Production is indie-folk: fingerpicked acoustic guitar, brushed drums,
+      occasional pedal-steel or muted electric. Strings or horns appear on
+      bridges. Mix is low-brightness, light compression, narrow-to-medium width,
+      heavy room-mic ambience.
+    vocal_attributes:
+      gender: female
+      range: soprano
+      character: spoken-sung-restrained
+      register: head-mixed
+      attack: very-soft
+    production_attrs:
+      tempo_zone: 70-105
+      mix_character: low-brightness-room-ambient
+      instrumentation_cues: [fingerpicked-acoustic, brushed-drums, pedal-steel, room-mic]
+    genre_context: indie-folk
+    source: user-curated
+    quality_state: pinned
+
+  - canonical_name: Drake
+    era_label: "Take Care / Nothing Was the Same era"
+    descriptor_short: "Conversational baritone-tenor with melodic singing; trap-R&B production, 808 sub-bass, sparse hat patterns, dark cinematic atmosphere."
+    descriptor_long: |
+      Conversational baritone-tenor that swaps freely between rapped and sung
+      delivery within the same verse. Vocal is double-tracked in choruses,
+      single-tracked in verses, with frequent ad-lib responses panned wide. Trap-
+      R&B production: deep 808 sub-bass, sparse programmed hat patterns, dark
+      atmospheric pads. Mix is low-medium brightness, moderate compression, wide.
+      Reverb-throw moments on tail words; otherwise vocal is mostly dry.
+    vocal_attributes:
+      gender: male
+      range: baritone-tenor
+      character: conversational-rapped-and-sung
+      register: chest-mixed
+      attack: relaxed
+    production_attrs:
+      tempo_zone: 70-90
+      mix_character: low-medium-bright-dark-atmospheric
+      instrumentation_cues: [808-sub, sparse-hat-pattern, atmospheric-pads, ad-lib-pans]
+    genre_context: trap-rnb
+    source: user-curated
+    quality_state: pinned
+
+  - canonical_name: Beyoncé
+    era_label: "Lemonade era"
+    descriptor_short: "Powerhouse mezzo with belt grit and falsetto crown; genre-fluid production, live and programmed drums layered, bold dynamic shifts."
+    descriptor_long: |
+      Powerhouse mezzo with belt grit, a controlled falsetto crown, and full
+      melismatic technique. Production is genre-fluid (R&B, rock, country, gospel)
+      depending on song. Live and programmed drums layered. Strong dynamic shifts
+      between verse and chorus, sometimes mid-line. Wide mix, moderate-to-heavy
+      compression, mid-high brightness. Vocal is the dominant element — multiple
+      stacked harmonies in choruses.
+    vocal_attributes:
+      gender: female
+      range: mezzo
+      character: powerhouse-belt-with-falsetto-and-melisma
+      register: chest-mixed-falsetto
+      attack: full-bodied-controlled
+    production_attrs:
+      tempo_zone: 70-130
+      mix_character: wide-mid-bright-dynamic
+      instrumentation_cues: [layered-live-and-programmed-drums, stacked-harmonies, hybrid-genre-instrumentation]
+    genre_context: rnb-pop-rock
+    source: user-curated
+    quality_state: pinned
+
+  - canonical_name: Billie Eilish
+    era_label: "When We All Fall Asleep / Happier Than Ever era"
+    descriptor_short: "Whispered soprano close-mic'd vocal; minimal alt-pop production, sub-bass, finger-snap percussion, occasional belt chorus payoff."
+    descriptor_long: |
+      Whispered soprano with extreme close-mic intimacy — natural breath, lip,
+      and mouth detail audible. Vocals are heavily close-compressed but very dry.
+      Production is minimal alt-pop: deep sub-bass, finger-snap or programmed
+      percussion, sparse synth textures. Occasional belt chorus payoff but most
+      delivery stays in whisper register. Mix is medium width, low brightness,
+      heavy compression on vocal, very little ambience.
+    vocal_attributes:
+      gender: female
+      range: soprano
+      character: whispered-close-mic
+      register: head-mixed
+      attack: extremely-soft
+    production_attrs:
+      tempo_zone: 80-110
+      mix_character: low-brightness-medium-width-dry
+      instrumentation_cues: [deep-sub-bass, finger-snap, sparse-synth, close-mic-vocal]
+    genre_context: alt-pop
+    source: user-curated
+    quality_state: pinned

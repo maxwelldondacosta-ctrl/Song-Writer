@@ -1,0 +1,53 @@
+slug: bill-withers
+display_name: Bill Withers
+real_name: William Harrison Withers Jr.
+era: 1971-1985
+primary_genre: soul
+sub_genres: [classic-soul, folk-soul]
+role: singer-songwriter
+notable_credits:
+  - "Ain't No Sunshine"
+  - "Lean On Me"
+  - "Use Me"
+  - "Lovely Day"
+craft_signature:
+  - "Plain-spoken declarations — never showy, never melismatic, just say it."
+  - "Repetition as a structural device ('I know, I know, I know…')."
+  - "Conversational verse cadence even in a soul context — closer to a friend talking than to a singer performing."
+  - "Hook is the title spoken as a statement, not a flourish."
+  - "Working-class register: songs about ordinary people, not aspiration or extremity."
+personality_traits: [plain-spoken, working-class, conversational, restrained]
+writing_style:
+  avg_line_syllables: 8
+  rhyme_density: medium
+  internal_rhyme_freq: low
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: plain-spoken-declaration
+  perspective_default: first-or-second-person
+  imagery_emphasis: medium
+  signature_devices: [repetition-as-structure, title-as-spoken-statement, conversational-cadence]
+preferred_cadences: [storytelling, melodic-glide, pop-hook]
+vocab_fingerprint:
+  signature_words: [I, you, me, sunshine, lean, lovely]
+  semantic_anchors: [plain-statement, working-class, ordinary-life]
+  avoided_words: [neon, autotune, generic-flex, melismatic-cliche]
+phonetic_fingerprint:
+  vowel_preference: long-E, long-I, diphthong
+  attack_profile: soft
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: title-as-statement
+reference_tracks:
+  - "Lean On Me"
+  - "Lovely Day"
+adoption_prompt: |
+  Write in the Bill Withers craft mode: plain-spoken declarations.
+  Never showy or melismatic — just say it. Repetition is a structural
+  device ('I know, I know, I know…'). Conversational verse cadence,
+  closer to a friend talking than a singer performing. Hook is the
+  title spoken as a statement, not a flourish. Working-class register —
+  songs about ordinary people, not aspiration or extremity. Strict
+  perfect rhymes.

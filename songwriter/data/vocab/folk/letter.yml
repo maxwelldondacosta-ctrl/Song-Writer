@@ -1,0 +1,28 @@
+slug: folk.letter
+name: Folk / Letter (intimate-confession to one person)
+description: Folk-songwriter vocabulary — the song-as-letter to one person. Specific letters, postcards, photograph corners, names mentioned only by initial. Concrete intimacy.
+words:
+  - { word: letter,      emotional_weight: 0.8, imagery_class: physical }
+  - { word: letters,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: postcard,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: envelope,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: stamp,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: mail,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: photograph,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: picture,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: corner,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: shoebox,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: drawer,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: kitchen,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: table,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: window,      emotional_weight: 0.6, imagery_class: physical, ai_bias_flag: true }
+  - { word: window-sill, emotional_weight: 0.7, imagery_class: physical }
+  - { word: porch,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: bedroom,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: blanket,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: pillow,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: morning,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: typewriter,  emotional_weight: 0.8, imagery_class: physical }
+  - { word: handwritten, emotional_weight: 0.8, imagery_class: physical }
+  - { word: signature,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: name,        emotional_weight: 0.6, imagery_class: physical }

@@ -1,0 +1,26 @@
+slug: soul.devotion
+name: Soul / Devotion (long-haul love)
+description: Classic-soul devotion vocabulary — the long-form love song. Concrete acts of staying, sustained love over time.
+words:
+  - { word: stay,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: stayed,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: hold,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: holding,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: hands,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: held,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: ain't,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: never,       emotional_weight: 0.6, imagery_class: abstract, cliche_flag: true }
+  - { word: always,      emotional_weight: 0.6, imagery_class: abstract, cliche_flag: true }
+  - { word: forever,     emotional_weight: 0.5, imagery_class: abstract, cliche_flag: true, ai_bias_flag: true }
+  - { word: through,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: thick,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: thin,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: thick-and-thin, emotional_weight: 0.8, imagery_class: abstract }
+  - { word: lover,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: baby,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: darling,     emotional_weight: 0.8, imagery_class: physical }
+  - { word: honey,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: sugar,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: sweet,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: woman,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: man,         emotional_weight: 0.6, imagery_class: physical }

@@ -1,0 +1,30 @@
+slug: folk.wandering
+name: Folk / Wandering (journey, road-as-time)
+description: Folk's road-as-life-arc vocabulary. Different from rock.road-escape — slower, more contemplative, more pedestrian than vehicular.
+words:
+  - { word: road,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: path,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: trail,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: footsteps,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: walking,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: walked,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: barefoot,    emotional_weight: 0.8, imagery_class: physical }
+  - { word: boots,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: pack,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: bag,         emotional_weight: 0.6, imagery_class: physical }
+  - { word: backpack,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: train,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: railroad,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: tracks,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: station,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: ferry,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: bridge,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: river,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: crossing,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: along,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: across,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: westbound,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: northbound,  emotional_weight: 0.7, imagery_class: physical }
+  - { word: stranger,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: strangers,   emotional_weight: 0.7, imagery_class: physical }
+  - { word: home,        emotional_weight: 0.7, imagery_class: physical }

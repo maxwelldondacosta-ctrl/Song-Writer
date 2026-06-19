@@ -1,0 +1,53 @@
+slug: j-cole
+display_name: J. Cole
+real_name: Jermaine Cole
+era: 2007-present
+primary_genre: rap
+role: self-writing-artist
+sub_genres: [boom-bap, jazz-rap, intimate-rap]
+notable_credits:
+  - "No Role Modelz"
+  - "Wet Dreamz"
+  - "Love Yourz"
+  - "She Knows"
+craft_signature:
+  - "Confessional storytelling — verses unspool a single scene from start to finish, no time-skips."
+  - "Self-effacing punchlines; the speaker is often the butt of the joke."
+  - "Restrained rhyme density compared to Kendrick — fewer syllables, more breath, more clarity."
+  - "Conversational openings ('this one time', 'so I…') as a deliberate craft signature."
+  - "Hooks pivot from verse rap-cadence to sung-melodic register; he sings the thesis."
+personality_traits: [introspective, plain-spoken, vulnerable, observational]
+writing_style:
+  avg_line_syllables: 9
+  rhyme_density: medium
+  internal_rhyme_freq: medium
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: confessional-scene
+  perspective_default: first-person
+  imagery_emphasis: high
+  signature_devices: [conversational-opening, sung-hook-thesis, self-effacing-punchline]
+preferred_cadences: [storytelling, melodic-glide, straight-4-beat]
+vocab_fingerprint:
+  signature_words: [I, my, mama, real, love, dream, brother, lord]
+  semantic_anchors: [first-time, lessons, family, home]
+  avoided_words: [neon, anthem, soldier, warrior]
+phonetic_fingerprint:
+  vowel_preference: short-I, long-O, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: rnb.intimate-confession
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2
+hook_style: sung-thesis
+reference_tracks:
+  - "Love Yourz"
+  - "Wet Dreamz"
+adoption_prompt: |
+  Write in the J. Cole craft mode: confessional storytelling that unspools
+  ONE scene from start to finish, no time-skips. Conversational openings
+  ('this one time', 'so I…'). Self-effacing humor — the speaker is often
+  the butt of the joke. Restrained rhyme density (fewer syllables per bar
+  than Kendrick); prioritize clarity and breath over pyrotechnics. The hook
+  switches from rap cadence to sung-melodic register and states the song's
+  thesis directly. Strict perfect rhymes; concrete first-person imagery.

@@ -1,0 +1,101 @@
+THE SENTENCE RULE Song Writing Project – Lyric Integrity Check
+
+  ----------
+  OVERVIEW
+  ----------
+
+The Sentence Rule is a simple validation method used to ensure that
+lyrics retain meaning and narrative coherence during editing or
+optimization.
+
+Many lyric editing systems focus on rhyme, syllable counts, or pattern
+matching first. This often results in lines that technically fit rhythm
+but no longer make logical or emotional sense.
+
+The Sentence Rule prevents this problem by ensuring that meaning and
+context are preserved before any technical adjustments are made.
+
+  ----------------
+  CORE PRINCIPLE
+  ----------------
+
+A lyric must always make sense as a sentence and within the surrounding
+lyrical context.
+
+If a line fails the meaning test, it must be rewritten or discarded
+regardless of rhyme or rhythm quality.
+
+  -----------------
+  THE FOUR CHECKS
+  -----------------
+
+Every lyric line must pass the following four checks.
+
+1.  Sentence Logic
+
+Does the line make sense by itself as a sentence?
+
+Example failure: “Coke and liquor numb my blood”
+
+Blood cannot be numbed, therefore the sentence fails logical meaning.
+
+------------------------------------------------------------------------
+
+2.  Context Continuity
+
+Does the line make sense with the line before and after it?
+
+Lyrics should form a coherent progression of ideas rather than isolated
+statements.
+
+------------------------------------------------------------------------
+
+3.  Narrative Consistency
+
+Does the line support the emotional theme or story of the verse or song?
+
+Each line should reinforce the core emotional idea rather than introduce
+unrelated imagery.
+
+------------------------------------------------------------------------
+
+4.  Singability
+
+Even if a line is logically correct, it must also fit comfortably within
+a melody.
+
+Check for:
+
+• awkward phrasing • unnatural word stress • difficult vocal rhythm
+
+If a line is difficult to sing, it may require minor adjustments while
+preserving meaning.
+
+  --------------------
+  VALIDATION PROCESS
+  --------------------
+
+For each lyric line:
+
+1.  Check sentence meaning
+2.  Check contextual connection
+3.  Check narrative alignment
+4.  Check melodic singability
+
+If all four checks pass, the line should remain unchanged.
+
+If any check fails, revise the line while preserving the original
+emotional intent.
+
+  ----------
+  KEY RULE
+  ----------
+
+Meaning always takes priority over rhyme, syllable count, or pattern
+optimization.
+
+A technically perfect lyric that makes no sense is still a failed lyric.
+
+------------------------------------------------------------------------
+
+END OF DOCUMENT

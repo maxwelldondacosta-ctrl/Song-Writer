@@ -1,0 +1,53 @@
+slug: stevie-wonder
+display_name: Stevie Wonder
+real_name: Stevland Hardaway Morris
+era: 1962-present
+primary_genre: soul
+sub_genres: [classic-soul, funk, motown]
+role: self-writing-artist
+notable_credits:
+  - "Sir Duke"
+  - "Higher Ground"
+  - "Superstition"
+  - "I Wish"
+craft_signature:
+  - "Multi-instrumental melodic intelligence — basslines, vocal melodies, horn arrangements all sit on the same harmonic logic."
+  - "Optimistic-realist content — songs about politics, love, faith handled with warmth, never cynicism."
+  - "Hooks built around a melodic motif as much as a lyric (the chorus is a melodic shape with words attached)."
+  - "Polysyllabic interior rhyme inside the verse couplets — busier than Motown peers."
+  - "Modulation as a craft device — keys change to lift the chorus a step up."
+personality_traits: [optimistic, melodic-genius-rooted, generous, warm]
+writing_style:
+  avg_line_syllables: 9
+  rhyme_density: medium-high
+  internal_rhyme_freq: high
+  end_rhyme_strictness: strict-perfect
+  narrative_mode: melodic-thesis
+  perspective_default: first-or-third-person
+  imagery_emphasis: medium-high
+  signature_devices: [melodic-motif-as-hook, polysyllabic-internal-rhyme, key-modulation-lift]
+preferred_cadences: [pop-hook, melodic-glide, storytelling]
+vocab_fingerprint:
+  signature_words: [you, love, higher, sir, music, world]
+  semantic_anchors: [optimistic-realist, melodic-thesis, civic-warmth]
+  avoided_words: [autotune, generic-flex, ironic-distance]
+phonetic_fingerprint:
+  vowel_preference: long-O, long-E, diphthong
+  attack_profile: balanced
+  consonant_density: medium
+structure_preferences:
+  preferred_template: pop.standard
+  hook_position: chorus-start
+  hook_repeats_per_chorus: 2-3
+hook_style: melodic-thesis
+reference_tracks:
+  - "Sir Duke"
+  - "Higher Ground"
+adoption_prompt: |
+  Write in the Stevie Wonder craft mode: multi-instrumental melodic logic
+  — basslines, vocal melody, horn arrangements all sit on the same
+  harmonic spine. Optimistic-realist content: politics, love, faith
+  handled with warmth, never cynicism. Hooks are melodic motifs with
+  words attached. Polysyllabic interior rhyme inside verse couplets.
+  Use key modulation to lift the chorus when the song needs a third-act
+  push. Strict perfect rhymes.

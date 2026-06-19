@@ -1,0 +1,214 @@
+RHYME–CADENCE INTERACTION GUIDE Song Writing Project – Compact Rhyme
+Engineering Rules
+
+  ---------
+  PURPOSE
+  --------- 
+
+This document defines the interaction between rhyme structures and
+cadence patterns. The goal is to prevent technically dense lyrics from
+sounding unnatural during performance.
+
+Instead of creating large rhyme libraries that encourage repetitive
+songwriting, this guide establishes a small set of compatibility rules
+between cadence and rhyme style.
+
+The focus is efficiency and musical performance rather than complexity.
+
+  ----------------
+  CORE PRINCIPLE
+  ----------------
+
+Rhyme structures must match the rhythmic grouping of the cadence.
+
+When rhyme and cadence align, lyrics sound natural and performable. When
+they conflict, the verse feels awkward or forced.
+
+  --------------------------------------------
+  1. TRIPLET CADENCE → THREE-SYLLABLE RHYMES
+  --------------------------------------------
+
+Cadence structure:
+
+DA‑da‑da DA‑da‑da
+
+Best rhyme style: 3‑syllable multisyllabic rhymes
+
+Example structure:
+
+critical mind minimal time physical climb
+
+Reason:
+
+Triplet rhythm groups syllables in clusters of three. Matching rhyme
+structures create smooth rhythmic flow.
+
+Common genres:
+
+• trap • melodic rap • modern hip‑hop
+
+  ------------------------------------------------
+  2. DOUBLE‑TIME CADENCE → INTERNAL RHYME CHAINS
+  ------------------------------------------------
+
+Cadence structure:
+
+da‑da‑da‑da DA
+
+Best rhyme style:
+
+Internal rhymes combined with multisyllabic rhymes.
+
+Example structure:
+
+fast cash / black mask / dash past
+
+Reason:
+
+Fast cadence requires additional rhyme density inside the line. Without
+internal rhymes, the verse feels rhythmically empty.
+
+Common genres:
+
+• grime • technical rap • lyrical hip‑hop
+
+  ------------------------------------------
+  3. PUNCHLINE CADENCE → SIMPLE END RHYMES
+  ------------------------------------------
+
+Cadence structure:
+
+short short short LONG
+
+Best rhyme style:
+
+Direct end rhymes with minimal internal complexity.
+
+Example structure:
+
+You lied You ran You broke Now watch me burn
+
+Reason:
+
+Punchline delivery depends on clarity and impact. Complex rhyme
+structures weaken the emphasis of the final line.
+
+Common genres:
+
+• battle rap • aggressive hip‑hop • heavy music lyric writing
+
+  -----------------------------------
+  4. MELODIC CADENCE → VOWEL RHYMES
+  -----------------------------------
+
+Cadence structure:
+
+Long flowing syllables with sustained vowels.
+
+Best rhyme style:
+
+Vowel-based rhymes rather than strict consonant matches.
+
+Example structure:
+
+alone home soul slow
+
+Reason:
+
+Melodic singing stretches vowel sounds. Matching vowel shapes produces
+smoother musical phrasing.
+
+Common genres:
+
+• R&B • pop • melodic rap
+
+  ---------------------------------------
+  5. CHANT CADENCE → SINGLE WORD RHYMES
+  ---------------------------------------
+
+Cadence structure:
+
+WORD WORD WORD WORD
+
+Best rhyme style:
+
+Single word rhymes with strong consonant attack.
+
+Example structure:
+
+burn turn learn burn
+
+Reason:
+
+Crowd chant sections require instant clarity and memorability. Complex
+rhyme patterns disappear in loud mixes.
+
+Common genres:
+
+• metal breakdowns • stadium rock • chant hooks
+
+  ----------------------------------------
+  6. STORYTELLING CADENCE → LOOSE RHYMES
+  ----------------------------------------
+
+Cadence structure:
+
+Natural conversational speech rhythm.
+
+Best rhyme style:
+
+Loose rhymes appearing occasionally rather than strict rhyme patterns.
+
+Example structure:
+
+I saw you standing in the rain that night You said you’d never leave
+again
+
+Reason:
+
+Narrative clarity takes priority over rhyme density in storytelling.
+
+Common genres:
+
+• storytelling rap • singer‑songwriter • folk
+
+  ---------------
+  SYSTEM LIMITS
+  ---------------
+
+To prevent songs from sounding formulaic, apply the following limits:
+
+• Do not combine more than two rhyme systems in a single verse • Avoid
+using the same cadence pattern in every section • Change cadence between
+verse and chorus
+
+Example configuration:
+
+Verse: double‑time cadence with internal rhyme chains Chorus: melodic
+cadence with vowel rhymes Bridge: punchline cadence
+
+  ----------------------
+  WORKFLOW INTEGRATION
+  ----------------------
+
+Rhyme‑cadence interaction is applied after cadence selection and before
+genre pattern optimization.
+
+Full workflow:
+
+Story Rule ↓ Sentence Rule ↓ Phonetic Texture Rule ↓ Cadence Pattern ↓
+Rhyme–Cadence Interaction ↓ Genre Pattern ↓ Final Validation ↓
+Production Prompt
+
+  ----------
+  KEY RULE
+  ----------
+
+Rhyme should enhance cadence, not compete with it.
+
+If rhyme density interferes with rhythmic delivery, simplify the rhyme
+structure.
+
+------------------------------------------------------------------------
+
+END OF DOCUMENT

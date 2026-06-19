@@ -1,0 +1,24 @@
+slug: afrobeats.hustle
+name: Afrobeats / Hustle (lagos grind, work, come-up)
+description: Lagos hustle vocabulary — danfo buses, market trading, early mornings, grinding to make it. The naija work ethic expressed through concrete daily-life nouns.
+words:
+  - { word: grind,       emotional_weight: 0.8, imagery_class: abstract }
+  - { word: grinding,    emotional_weight: 0.8, imagery_class: abstract }
+  - { word: danfo,       emotional_weight: 0.9, imagery_class: physical }
+  - { word: market,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: hustle,      emotional_weight: 0.8, imagery_class: abstract }
+  - { word: rise,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: sunrise,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: early,       emotional_weight: 0.6, imagery_class: abstract }
+  - { word: sweat,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: hands,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: ikeja,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: mainland,    emotional_weight: 0.7, imagery_class: physical }
+  - { word: okada,       emotional_weight: 0.8, imagery_class: physical }
+  - { word: trade,       emotional_weight: 0.7, imagery_class: abstract }
+  - { word: bread,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: survive,     emotional_weight: 0.7, imagery_class: abstract }
+  - { word: push,        emotional_weight: 0.7, imagery_class: abstract }
+  - { word: come-up,     emotional_weight: 0.8, imagery_class: abstract }
+  - { word: papa,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: mama,        emotional_weight: 0.7, imagery_class: physical }

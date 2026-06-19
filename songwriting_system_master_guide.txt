@@ -1,0 +1,187 @@
+SONGWRITING SYSTEM – MASTER USAGE GUIDE Song Writing Project –
+Operational Workflow
+
+  ---------
+  PURPOSE
+  ---------
+
+This document explains how to use the songwriting rule set and source
+files together to produce structured, high‑quality song lyrics.
+
+The framework exists to prevent the most common lyric writing failures:
+• lines that make no logical sense • emotional statements with no story
+• vocabulary that clashes with the tone • lyrics that cannot be
+performed naturally • structures that fail to fit the genre
+
+Each rule solves a different layer of the songwriting process.
+
+  -----------------
+  THE RULE SYSTEM
+  -----------------
+
+The songwriting system consists of four core lyric rules and a
+structural pattern layer.
+
+1.  Story Rule
+2.  Sentence Rule
+3.  Phonetic Texture Rule
+4.  Cadence Rule
+5.  Pattern / Genre Structure
+
+Each rule must be applied in sequence.
+
+  ---------------------------
+  STEP 1 – DEFINE THE STORY
+  ---------------------------
+
+Use the Story Rule to determine the emotional narrative of the song.
+
+Every effective song contains three elements:
+
+• EVENT – what happened • EMOTION – how the narrator feels • RESOLUTION
+– what the narrator will do about it
+
+Without these elements the song feels incomplete.
+
+Example structure:
+
+Verse → Event Pre‑Chorus → Emotional reaction Chorus → Core emotional
+statement Final section → Resolution or escalation
+
+The Story Rule ensures the song communicates something meaningful.
+
+  ------------------------------
+  STEP 2 – WRITE LOGICAL LINES
+  ------------------------------
+
+Apply the Sentence Rule to every lyric line.
+
+Each line must pass four checks:
+
+1.  Sentence Logic Does the line make sense as a sentence?
+
+2.  Context Continuity Does it connect logically to surrounding lines?
+
+3.  Narrative Consistency Does it support the emotional story?
+
+4.  Singability Can the line be comfortably sung?
+
+If a line fails any check, rewrite it before proceeding.
+
+Meaning always takes priority over rhyme or pattern.
+
+  ----------------------------------
+  STEP 3 – SELECT PHONETIC TEXTURE
+  ----------------------------------
+
+Apply the Phonetic Texture Rule to control the emotional sound of the
+lyrics.
+
+Vocabulary should be restricted to words that support the intended
+emotional tone.
+
+Examples:
+
+Aggressive tone: break, crush, cut, burn, kill
+
+Gentle tone: love, baby, hold, tender, alone
+
+Dark tone: void, grave, shadow, dust, night
+
+Hard consonants create aggressive energy. Soft consonants create
+smoother emotional delivery.
+
+The sound of the word must match the emotional intent of the song.
+
+  ----------------------------
+  STEP 4 – SHAPE THE CADENCE
+  ----------------------------
+
+Apply the Cadence Rule to determine how the lyrics will be performed.
+
+While writing, imagine the vocal delivery.
+
+Check for:
+
+• rhythm compatibility • natural speech flow • strong stress placement •
+emotional intensity
+
+Aggressive music typically uses shorter punch phrases.
+
+Emotional music often uses longer flowing lines.
+
+If a line feels awkward to speak or perform, it must be revised.
+
+  -------------------------------
+  STEP 5 – APPLY GENRE PATTERNS
+  -------------------------------
+
+Once meaning, sound, and cadence are correct, the lyric can be aligned
+with genre‑specific patterns.
+
+Pattern libraries define:
+
+• rhyme structures • syllable counts • verse and chorus formats •
+repetition patterns
+
+Examples:
+
+Deathcore patterns favor short punch lines and repeated aggression.
+
+Emo rock patterns favor emotional narrative with melodic choruses.
+
+Grime patterns favor rhythmic internal rhyme and fast delivery.
+
+Pattern optimization happens AFTER the lyric passes all other rules.
+
+  ---------------------------
+  STEP 6 – FINAL VALIDATION
+  ---------------------------
+
+Before generating a track, perform a final check:
+
+1.  Story clarity
+2.  Sentence logic
+3.  Phonetic consistency
+4.  Cadence flow
+5.  Pattern alignment
+
+If all five pass, the lyric is ready for production.
+
+  ----------------------------
+  STEP 7 – PRODUCTION PROMPT
+  ----------------------------
+
+Once lyrics are complete, the Suno prompt framework can be used to
+generate the track.
+
+The prompt should include:
+
+• genre description • tempo / energy • vocal style • instrumentation •
+emotional tone
+
+Artist names should not be used.
+
+Prompts must remain under 1000 characters.
+
+  ------------------
+  WORKFLOW SUMMARY
+  ------------------
+
+Story Rule ↓ Sentence Rule ↓ Phonetic Texture Rule ↓ Cadence Rule ↓
+Pattern / Genre Structure ↓ Final Validation ↓ Suno Prompt ↓ Track
+Generation
+
+  ---------------
+  KEY PRINCIPLE
+  ---------------
+
+Lyrics must first make sense, then sound correct, then flow naturally,
+and only afterward be optimized for genre patterns.
+
+Skipping steps often results in technically structured lyrics that feel
+emotionally empty or unnatural.
+
+------------------------------------------------------------------------
+
+END OF DOCUMENT

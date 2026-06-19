@@ -1,0 +1,20 @@
+slug: rnb.devotion
+name: R&B / Devotion
+description: Long-haul love vocabulary, focused on day-to-day reliability and specific gestures.
+words:
+  - { word: kept,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: stayed,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: showed,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: covered,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: cooked,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: drove,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: paid,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: held,        emotional_weight: 0.7, imagery_class: physical }
+  - { word: prayed,      emotional_weight: 0.7, imagery_class: physical }
+  - { word: chose,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: keys,        emotional_weight: 0.6, imagery_class: physical }
+  - { word: porch,       emotional_weight: 0.6, imagery_class: physical }
+  - { word: kitchen,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: anniversary, emotional_weight: 0.7, imagery_class: physical }
+  - { word: house,       emotional_weight: 0.5, imagery_class: physical }
+  - { word: vows,        emotional_weight: 0.7, imagery_class: physical }

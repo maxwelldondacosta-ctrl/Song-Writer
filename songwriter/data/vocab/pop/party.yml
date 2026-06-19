@@ -1,0 +1,20 @@
+slug: pop.party
+name: Pop / Party
+description: Big-night vocabulary, leaning into specific concrete texture rather than generic "tonight we own it".
+words:
+  - { word: balcony,     emotional_weight: 0.7, imagery_class: sensory }
+  - { word: speakers,    emotional_weight: 0.7, imagery_class: sensory }
+  - { word: confetti,    emotional_weight: 0.7, imagery_class: sensory }
+  - { word: bottles,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: heels,       emotional_weight: 0.7, imagery_class: physical }
+  - { word: jacket,      emotional_weight: 0.6, imagery_class: physical }
+  - { word: rooftop,     emotional_weight: 0.7, imagery_class: sensory }
+  - { word: elevator,    emotional_weight: 0.6, imagery_class: physical }
+  - { word: smoke,       emotional_weight: 0.5, imagery_class: sensory, ai_bias_flag: true }
+  - { word: dancing,     emotional_weight: 0.7, imagery_class: physical }
+  - { word: shouting,    emotional_weight: 0.6, imagery_class: physical }
+  - { word: laughing,    emotional_weight: 0.6, imagery_class: physical }
+  - { word: spinning,    emotional_weight: 0.6, imagery_class: physical }
+  - { word: tipping,     emotional_weight: 0.6, imagery_class: physical }
+  - { word: drink,       emotional_weight: 0.5, imagery_class: physical }
+  - { word: tonight,     emotional_weight: 0.5, imagery_class: abstract, cliche_flag: true }
